@@ -1,597 +1,597 @@
 codepoint,occurrences,position,negative,neutral,positive,name_sentiment,block,codepoint_std,group,subgroup,codepoints,status,name_emoji,emoji,category
-0x1f602,14622,0.805100583,3614,4163,6845,FACE WITH TEARS OF JOY,Emoticons,1F602,Smileys & Emotion,face-smiling,1F602,fully-qualified,E0.6 face with tears of joy,😂,Smileys & emotion
+0x1f602,14622,0.805100583,3614,4163,6845,FACE WITH TEARS OF JOY,Emoticons,1F602,Smileys & Emotion,face-smiling,1F602,fully-qualified,E0.6 face with tears of joy,😂,Smileys & Emotion
 0x2764,8050,0.746943086,355,1334,6361,HEAVY BLACK HEART,Dingbats,2764,Smileys & Emotion,heart,2764,unqualified,E0.6 red heart,❤,Symbols
 0x2665,7144,0.753806008,252,1942,4950,BLACK HEART SUIT,Miscellaneous Symbols,2665,Activities,game,2665,unqualified,E0.6 heart suit,♥,Symbols
-0x1f60d,6359,0.765292366,329,1390,4640,SMILING FACE WITH HEART-SHAPED EYES,Emoticons,1F60D,Smileys & Emotion,face-affection,1F60D,fully-qualified,E0.6 smiling face with heart-eyes,😍,Smileys & emotion
-0x1f62d,5526,0.803351976,2412,1218,1896,LOUDLY CRYING FACE,Emoticons,1F62D,Smileys & Emotion,face-concerned,1F62D,fully-qualified,E0.6 loudly crying face,😭,Smileys & emotion
-0x1f618,3648,0.854480172,193,702,2753,FACE THROWING A KISS,Emoticons,1F618,Smileys & Emotion,face-affection,1F618,fully-qualified,E0.6 face blowing a kiss,😘,Smileys & emotion
-0x1f60a,3186,0.813302436,189,754,2243,SMILING FACE WITH SMILING EYES,Emoticons,1F60A,Smileys & Emotion,face-smiling,1F60A,fully-qualified,E0.6 smiling face with smiling eyes,😊,Smileys & emotion
-0x1f44c,2925,0.805222883,274,728,1923,OK HAND SIGN,Miscellaneous Symbols and Pictographs,1F44C,People & Body,hand-fingers-partial,1F44C,fully-qualified,E0.6 OK hand,👌,People & body
-0x1f495,2400,0.765725889,99,683,1618,TWO HEARTS,Miscellaneous Symbols and Pictographs,1F495,Smileys & Emotion,heart,1F495,fully-qualified,E0.6 two hearts,💕,Smileys & emotion
-0x1f44f,2336,0.787130164,243,634,1459,CLAPPING HANDS SIGN,Miscellaneous Symbols and Pictographs,1F44F,People & Body,hands,1F44F,fully-qualified,E0.6 clapping hands,👏,People & body
-0x1f601,2189,0.796151187,278,648,1263,GRINNING FACE WITH SMILING EYES,Emoticons,1F601,Smileys & Emotion,face-smiling,1F601,fully-qualified,E0.6 beaming face with smiling eyes,😁,Smileys & emotion
+0x1f60d,6359,0.765292366,329,1390,4640,SMILING FACE WITH HEART-SHAPED EYES,Emoticons,1F60D,Smileys & Emotion,face-affection,1F60D,fully-qualified,E0.6 smiling face with heart-eyes,😍,Smileys & Emotion
+0x1f62d,5526,0.803351976,2412,1218,1896,LOUDLY CRYING FACE,Emoticons,1F62D,Smileys & Emotion,face-concerned,1F62D,fully-qualified,E0.6 loudly crying face,😭,Smileys & Emotion
+0x1f618,3648,0.854480172,193,702,2753,FACE THROWING A KISS,Emoticons,1F618,Smileys & Emotion,face-affection,1F618,fully-qualified,E0.6 face blowing a kiss,😘,Smileys & Emotion
+0x1f60a,3186,0.813302436,189,754,2243,SMILING FACE WITH SMILING EYES,Emoticons,1F60A,Smileys & Emotion,face-smiling,1F60A,fully-qualified,E0.6 smiling face with smiling eyes,😊,Smileys & Emotion
+0x1f44c,2925,0.805222883,274,728,1923,OK HAND SIGN,Miscellaneous Symbols and Pictographs,1F44C,People & Body,hand-fingers-partial,1F44C,fully-qualified,E0.6 OK hand,👌,People & Body
+0x1f495,2400,0.765725889,99,683,1618,TWO HEARTS,Miscellaneous Symbols and Pictographs,1F495,Smileys & Emotion,heart,1F495,fully-qualified,E0.6 two hearts,💕,Smileys & Emotion
+0x1f44f,2336,0.787130164,243,634,1459,CLAPPING HANDS SIGN,Miscellaneous Symbols and Pictographs,1F44F,People & Body,hands,1F44F,fully-qualified,E0.6 clapping hands,👏,People & Body
+0x1f601,2189,0.796151187,278,648,1263,GRINNING FACE WITH SMILING EYES,Emoticons,1F601,Smileys & Emotion,face-smiling,1F601,fully-qualified,E0.6 beaming face with smiling eyes,😁,Smileys & Emotion
 0x263a,2062,0.798633582,128,449,1485,WHITE SMILING FACE,Miscellaneous Symbols,263A,Smileys & Emotion,face-affection,263A,unqualified,E0.6 smiling face,☺,Smileys & Emotion
-0x1f44d,1854,0.812125626,213,460,1181,THUMBS UP SIGN,Miscellaneous Symbols and Pictographs,1F44D,People & Body,hand-fingers-closed,1F44D,fully-qualified,E0.6 thumbs up,👍,People & body
-0x1f629,1808,0.826213985,1069,336,403,WEARY FACE,Emoticons,1F629,Smileys & Emotion,face-concerned,1F629,fully-qualified,E0.6 weary face,😩,Smileys & emotion
-0x1f64f,1539,0.793847592,124,648,767,PERSON WITH FOLDED HANDS,Emoticons,1F64F,People & Body,hands,1F64F,fully-qualified,E0.6 folded hands,🙏,People & body
+0x1f44d,1854,0.812125626,213,460,1181,THUMBS UP SIGN,Miscellaneous Symbols and Pictographs,1F44D,People & Body,hand-fingers-closed,1F44D,fully-qualified,E0.6 thumbs up,👍,People & Body
+0x1f629,1808,0.826213985,1069,336,403,WEARY FACE,Emoticons,1F629,Smileys & Emotion,face-concerned,1F629,fully-qualified,E0.6 weary face,😩,Smileys & Emotion
+0x1f64f,1539,0.793847592,124,648,767,PERSON WITH FOLDED HANDS,Emoticons,1F64F,People & Body,hands,1F64F,fully-qualified,E0.6 folded hands,🙏,People & Body
 0x270c,1534,0.790480332,173,476,885,VICTORY HAND,Dingbats,270C,People & Body,hand-fingers-partial,270C,unqualified,E0.6 victory hand,✌,Gestures
-0x1f60f,1522,0.764977294,170,676,676,SMIRKING FACE,Emoticons,1F60F,Smileys & Emotion,face-neutral-skeptical,1F60F,fully-qualified,E0.6 smirking face,😏,Smileys & emotion
-0x1f609,1521,0.844832651,151,513,857,WINKING FACE,Emoticons,1F609,Smileys & Emotion,face-smiling,1F609,fully-qualified,E0.6 winking face,😉,Smileys & emotion
-0x1f64c,1506,0.790600034,152,358,996,PERSON RAISING BOTH HANDS IN CELEBRATION,Emoticons,1F64C,People & Body,hands,1F64C,fully-qualified,E0.6 raising hands,🙌,People & body
-0x1f648,1456,0.738880937,238,350,868,SEE-NO-EVIL MONKEY,Emoticons,1F648,Smileys & Emotion,monkey-face,1F648,fully-qualified,E0.6 see-no-evil monkey,🙈,Smileys & emotion
-0x1f4aa,1409,0.806704098,101,424,884,FLEXED BICEPS,Miscellaneous Symbols and Pictographs,1F4AA,People & Body,body-parts,1F4AA,fully-qualified,E0.6 flexed biceps,💪,People & body
-0x1f604,1398,0.794972621,191,426,781,SMILING FACE WITH OPEN MOUTH AND SMILING EYES,Emoticons,1F604,Smileys & Emotion,face-smiling,1F604,fully-qualified,E0.6 grinning face with smiling eyes,😄,Smileys & emotion
-0x1f612,1385,0.857620553,819,266,300,UNAMUSED FACE,Emoticons,1F612,Smileys & Emotion,face-neutral-skeptical,1F612,fully-qualified,E0.6 unamused face,😒,Smileys & emotion
-0x1f483,1344,0.852764705,59,237,1048,DANCER,Miscellaneous Symbols and Pictographs,1F483,People & Body,person-activity,1F483,fully-qualified,E0.6 woman dancing,💃,People & body
-0x1f496,1263,0.762239109,54,254,955,SPARKLING HEART,Miscellaneous Symbols and Pictographs,1F496,Smileys & Emotion,heart,1F496,fully-qualified,E0.6 sparkling heart,💖,Smileys & emotion
-0x1f603,1206,0.734782211,86,361,759,SMILING FACE WITH OPEN MOUTH,Emoticons,1F603,Smileys & Emotion,face-smiling,1F603,fully-qualified,E0.6 grinning face with big eyes,😃,Smileys & emotion
-0x1f614,1205,0.86614594,559,263,383,PENSIVE FACE,Emoticons,1F614,Smileys & Emotion,face-sleepy,1F614,fully-qualified,E0.6 pensive face,😔,Smileys & emotion
-0x1f631,1130,0.773313178,298,319,513,FACE SCREAMING IN FEAR,Emoticons,1F631,Smileys & Emotion,face-concerned,1F631,fully-qualified,E0.6 face screaming in fear,😱,Smileys & emotion
+0x1f60f,1522,0.764977294,170,676,676,SMIRKING FACE,Emoticons,1F60F,Smileys & Emotion,face-neutral-skeptical,1F60F,fully-qualified,E0.6 smirking face,😏,Smileys & Emotion
+0x1f609,1521,0.844832651,151,513,857,WINKING FACE,Emoticons,1F609,Smileys & Emotion,face-smiling,1F609,fully-qualified,E0.6 winking face,😉,Smileys & Emotion
+0x1f64c,1506,0.790600034,152,358,996,PERSON RAISING BOTH HANDS IN CELEBRATION,Emoticons,1F64C,People & Body,hands,1F64C,fully-qualified,E0.6 raising hands,🙌,People & Body
+0x1f648,1456,0.738880937,238,350,868,SEE-NO-EVIL MONKEY,Emoticons,1F648,Smileys & Emotion,monkey-face,1F648,fully-qualified,E0.6 see-no-evil monkey,🙈,Smileys & Emotion
+0x1f4aa,1409,0.806704098,101,424,884,FLEXED BICEPS,Miscellaneous Symbols and Pictographs,1F4AA,People & Body,body-parts,1F4AA,fully-qualified,E0.6 flexed biceps,💪,People & Body
+0x1f604,1398,0.794972621,191,426,781,SMILING FACE WITH OPEN MOUTH AND SMILING EYES,Emoticons,1F604,Smileys & Emotion,face-smiling,1F604,fully-qualified,E0.6 grinning face with smiling eyes,😄,Smileys & Emotion
+0x1f612,1385,0.857620553,819,266,300,UNAMUSED FACE,Emoticons,1F612,Smileys & Emotion,face-neutral-skeptical,1F612,fully-qualified,E0.6 unamused face,😒,Smileys & Emotion
+0x1f483,1344,0.852764705,59,237,1048,DANCER,Miscellaneous Symbols and Pictographs,1F483,People & Body,person-activity,1F483,fully-qualified,E0.6 woman dancing,💃,People & Body
+0x1f496,1263,0.762239109,54,254,955,SPARKLING HEART,Miscellaneous Symbols and Pictographs,1F496,Smileys & Emotion,heart,1F496,fully-qualified,E0.6 sparkling heart,💖,Smileys & Emotion
+0x1f603,1206,0.734782211,86,361,759,SMILING FACE WITH OPEN MOUTH,Emoticons,1F603,Smileys & Emotion,face-smiling,1F603,fully-qualified,E0.6 grinning face with big eyes,😃,Smileys & Emotion
+0x1f614,1205,0.86614594,559,263,383,PENSIVE FACE,Emoticons,1F614,Smileys & Emotion,face-sleepy,1F614,fully-qualified,E0.6 pensive face,😔,Smileys & Emotion
+0x1f631,1130,0.773313178,298,319,513,FACE SCREAMING IN FEAR,Emoticons,1F631,Smileys & Emotion,face-concerned,1F631,fully-qualified,E0.6 face screaming in fear,😱,Smileys & Emotion
 0x1f389,1125,0.743635879,43,207,875,PARTY POPPER,Miscellaneous Symbols and Pictographs,1F389,Activities,event,1F389,fully-qualified,E0.6 party popper,🎉,Activities
-0x1f61c,1035,0.822246602,115,333,587,FACE WITH STUCK-OUT TONGUE AND WINKING EYE,Emoticons,1F61C,Smileys & Emotion,face-tongue,1F61C,fully-qualified,E0.6 winking face with tongue,😜,Smileys & emotion
+0x1f61c,1035,0.822246602,115,333,587,FACE WITH STUCK-OUT TONGUE AND WINKING EYE,Emoticons,1F61C,Smileys & Emotion,face-tongue,1F61C,fully-qualified,E0.6 winking face with tongue,😜,Smileys & Emotion
 0x262f,992,0.383524015,5,981,6,YIN YANG,Miscellaneous Symbols,262F,Symbols,religion,262F,unqualified,E0.7 yin yang,☯,Symbols
-0x1f338,946,0.570021571,37,255,654,CHERRY BLOSSOM,Miscellaneous Symbols and Pictographs,1F338,Animals & Nature,plant-flower,1F338,fully-qualified,E0.6 cherry blossom,🌸,Animals & nature
-0x1f49c,939,0.730869962,41,241,657,PURPLE HEART,Miscellaneous Symbols and Pictographs,1F49C,Smileys & Emotion,heart,1F49C,fully-qualified,E0.6 purple heart,💜,Smileys & emotion
-0x1f499,912,0.703047577,29,186,697,BLUE HEART,Miscellaneous Symbols and Pictographs,1F499,Smileys & Emotion,heart,1F499,fully-qualified,E0.6 blue heart,💙,Smileys & emotion
+0x1f338,946,0.570021571,37,255,654,CHERRY BLOSSOM,Miscellaneous Symbols and Pictographs,1F338,Animals & Nature,plant-flower,1F338,fully-qualified,E0.6 cherry blossom,🌸,Animals & Nature
+0x1f49c,939,0.730869962,41,241,657,PURPLE HEART,Miscellaneous Symbols and Pictographs,1F49C,Smileys & Emotion,heart,1F49C,fully-qualified,E0.6 purple heart,💜,Smileys & Emotion
+0x1f499,912,0.703047577,29,186,697,BLUE HEART,Miscellaneous Symbols and Pictographs,1F499,Smileys & Emotion,heart,1F499,fully-qualified,E0.6 blue heart,💙,Smileys & Emotion
 0x2728,848,0.560430162,43,463,342,SPARKLES,Dingbats,2728,Activities,event,2728,fully-qualified,E0.6 sparkles,✨,Activities
-0x1f633,846,0.797185814,277,277,292,FLUSHED FACE,Emoticons,1F633,Smileys & Emotion,face-concerned,1F633,fully-qualified,E0.6 flushed face,😳,Smileys & emotion
-0x1f497,836,0.799725947,42,201,593,GROWING HEART,Miscellaneous Symbols and Pictographs,1F497,Smileys & Emotion,heart,1F497,fully-qualified,E0.6 growing heart,💗,Smileys & emotion
+0x1f633,846,0.797185814,277,277,292,FLUSHED FACE,Emoticons,1F633,Smileys & Emotion,face-concerned,1F633,fully-qualified,E0.6 flushed face,😳,Smileys & Emotion
+0x1f497,836,0.799725947,42,201,593,GROWING HEART,Miscellaneous Symbols and Pictographs,1F497,Smileys & Emotion,heart,1F497,fully-qualified,E0.6 growing heart,💗,Smileys & Emotion
 0x2600,786,0.54553079,21,377,388,BLACK SUN WITH RAYS,Miscellaneous Symbols,2600,Travel & Places,sky & weather,2600,unqualified,E0.6 sun,☀,Symbols
-0x1f621,756,0.861522028,403,81,272,POUTING FACE,Emoticons,1F621,Smileys & Emotion,face-negative,1F621,fully-qualified,E0.6 enraged face,😡,Smileys & emotion
-0x1f60e,754,0.76564387,79,224,451,SMILING FACE WITH SUNGLASSES,Emoticons,1F60E,Smileys & Emotion,face-glasses,1F60E,fully-qualified,E1.0 smiling face with sunglasses,😎,Smileys & emotion
-0x1f622,749,0.813896833,288,168,293,CRYING FACE,Emoticons,1F622,Smileys & Emotion,face-concerned,1F622,fully-qualified,E0.6 crying face,😢,Smileys & emotion
-0x1f48b,734,0.800580592,28,169,537,KISS MARK,Miscellaneous Symbols and Pictographs,1F48B,Smileys & Emotion,emotion,1F48B,fully-qualified,E0.6 kiss mark,💋,Smileys & emotion
-0x1f60b,734,0.76498518,33,203,498,FACE SAVOURING DELICIOUS FOOD,Emoticons,1F60B,Smileys & Emotion,face-tongue,1F60B,fully-qualified,E0.6 face savoring food,😋,Smileys & emotion
-0x1f64a,725,0.740523086,97,197,431,SPEAK-NO-EVIL MONKEY,Emoticons,1F64A,Smileys & Emotion,monkey-face,1F64A,fully-qualified,E0.6 speak-no-evil monkey,🙊,Smileys & emotion
-0x1f634,718,0.849922938,303,170,245,SLEEPING FACE,Emoticons,1F634,Smileys & Emotion,face-sleepy,1F634,fully-qualified,E1.0 sleeping face,😴,Smileys & emotion
+0x1f621,756,0.861522028,403,81,272,POUTING FACE,Emoticons,1F621,Smileys & Emotion,face-negative,1F621,fully-qualified,E0.6 enraged face,😡,Smileys & Emotion
+0x1f60e,754,0.76564387,79,224,451,SMILING FACE WITH SUNGLASSES,Emoticons,1F60E,Smileys & Emotion,face-glasses,1F60E,fully-qualified,E1.0 smiling face with sunglasses,😎,Smileys & Emotion
+0x1f622,749,0.813896833,288,168,293,CRYING FACE,Emoticons,1F622,Smileys & Emotion,face-concerned,1F622,fully-qualified,E0.6 crying face,😢,Smileys & Emotion
+0x1f48b,734,0.800580592,28,169,537,KISS MARK,Miscellaneous Symbols and Pictographs,1F48B,Smileys & Emotion,emotion,1F48B,fully-qualified,E0.6 kiss mark,💋,Smileys & Emotion
+0x1f60b,734,0.76498518,33,203,498,FACE SAVOURING DELICIOUS FOOD,Emoticons,1F60B,Smileys & Emotion,face-tongue,1F60B,fully-qualified,E0.6 face savoring food,😋,Smileys & Emotion
+0x1f64a,725,0.740523086,97,197,431,SPEAK-NO-EVIL MONKEY,Emoticons,1F64A,Smileys & Emotion,monkey-face,1F64A,fully-qualified,E0.6 speak-no-evil monkey,🙊,Smileys & Emotion
+0x1f634,718,0.849922938,303,170,245,SLEEPING FACE,Emoticons,1F634,Smileys & Emotion,face-sleepy,1F634,fully-qualified,E1.0 sleeping face,😴,Smileys & Emotion
 0x1f3b6,701,0.797255889,67,189,445,MULTIPLE MUSICAL NOTES,Miscellaneous Symbols and Pictographs,1F3B6,Objects,music,1F3B6,fully-qualified,E0.6 musical notes,🎶,Objects
-0x1f49e,687,0.828705997,27,123,537,REVOLVING HEARTS,Miscellaneous Symbols and Pictographs,1F49E,Smileys & Emotion,heart,1F49E,fully-qualified,E0.6 revolving hearts,💞,Smileys & emotion
-0x1f60c,665,0.847121229,93,157,415,RELIEVED FACE,Emoticons,1F60C,Smileys & Emotion,face-sleepy,1F60C,fully-qualified,E0.6 relieved face,😌,Smileys & emotion
-0x1f525,651,0.61555041,80,400,171,FIRE,Miscellaneous Symbols and Pictographs,1F525,Travel & Places,sky & weather,1F525,fully-qualified,E0.6 fire,🔥,Travel & places
-0x1f4af,637,0.871819418,179,202,256,HUNDRED POINTS SYMBOL,Miscellaneous Symbols and Pictographs,1F4AF,Smileys & Emotion,emotion,1F4AF,fully-qualified,E0.6 hundred points,💯,Smileys & emotion
+0x1f49e,687,0.828705997,27,123,537,REVOLVING HEARTS,Miscellaneous Symbols and Pictographs,1F49E,Smileys & Emotion,heart,1F49E,fully-qualified,E0.6 revolving hearts,💞,Smileys & Emotion
+0x1f60c,665,0.847121229,93,157,415,RELIEVED FACE,Emoticons,1F60C,Smileys & Emotion,face-sleepy,1F60C,fully-qualified,E0.6 relieved face,😌,Smileys & Emotion
+0x1f525,651,0.61555041,80,400,171,FIRE,Miscellaneous Symbols and Pictographs,1F525,Travel & Places,sky & weather,1F525,fully-qualified,E0.6 fire,🔥,Travel & Places
+0x1f4af,637,0.871819418,179,202,256,HUNDRED POINTS SYMBOL,Miscellaneous Symbols and Pictographs,1F4AF,Smileys & Emotion,emotion,1F4AF,fully-qualified,E0.6 hundred points,💯,Smileys & Emotion
 0x1f52b,604,0.893761284,298,126,180,PISTOL,Miscellaneous Symbols and Pictographs,1F52B,Activities,game,1F52B,fully-qualified,E0.6 water pistol,🔫,Activities
-0x1f49b,602,0.751631631,25,123,454,YELLOW HEART,Miscellaneous Symbols and Pictographs,1F49B,Smileys & Emotion,heart,1F49B,fully-qualified,E0.6 yellow heart,💛,Smileys & emotion
-0x1f481,549,0.839628793,105,159,285,INFORMATION DESK PERSON,Miscellaneous Symbols and Pictographs,1F481,People & Body,person-gesture,1F481,fully-qualified,E0.6 person tipping hand,💁,People & body
-0x1f49a,537,0.737498972,41,101,395,GREEN HEART,Miscellaneous Symbols and Pictographs,1F49A,Smileys & Emotion,heart,1F49A,fully-qualified,E0.6 green heart,💚,Smileys & emotion
-0x1f61e,532,0.825187832,255,85,192,DISAPPOINTED FACE,Emoticons,1F61E,Smileys & Emotion,face-concerned,1F61E,fully-qualified,E0.6 disappointed face,😞,Smileys & emotion
-0x1f606,527,0.809376422,81,148,298,SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES,Emoticons,1F606,Smileys & Emotion,face-smiling,1F606,fully-qualified,E0.6 grinning squinting face,😆,Smileys & emotion
-0x1f61d,496,0.808808972,65,155,276,FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES,Emoticons,1F61D,Smileys & Emotion,face-tongue,1F61D,fully-qualified,E0.6 squinting face with tongue,😝,Smileys & emotion
-0x1f62a,482,0.858219873,208,105,169,SLEEPY FACE,Emoticons,1F62A,Smileys & Emotion,face-sleepy,1F62A,fully-qualified,E0.6 sleepy face,😪,Smileys & emotion
-0x1f62b,467,0.839517641,227,81,159,TIRED FACE,Emoticons,1F62B,Smileys & Emotion,face-concerned,1F62B,fully-qualified,E0.6 tired face,😫,Smileys & emotion
-0x1f605,462,0.827654572,135,109,218,SMILING FACE WITH OPEN MOUTH AND COLD SWEAT,Emoticons,1F605,Smileys & Emotion,face-smiling,1F605,fully-qualified,E0.6 grinning face with sweat,😅,Smileys & emotion
-0x1f44a,458,0.824515864,121,111,226,FISTED HAND SIGN,Miscellaneous Symbols and Pictographs,1F44A,People & Body,hand-fingers-closed,1F44A,fully-qualified,E0.6 oncoming fist,👊,People & body
-0x1f480,456,0.739462262,214,123,119,SKULL,Miscellaneous Symbols and Pictographs,1F480,Smileys & Emotion,face-negative,1F480,fully-qualified,E0.6 skull,💀,Smileys & emotion
-0x1f600,439,0.786284933,37,114,288,GRINNING FACE,Emoticons,1F600,Smileys & Emotion,face-smiling,1F600,fully-qualified,E1.0 grinning face,😀,Smileys & emotion
-0x1f61a,424,0.853414944,20,81,323,KISSING FACE WITH CLOSED EYES,Emoticons,1F61A,Smileys & Emotion,face-affection,1F61A,fully-qualified,E0.6 kissing face with closed eyes,😚,Smileys & emotion
-0x1f63b,417,0.729665769,28,101,288,SMILING CAT FACE WITH HEART-SHAPED EYES,Emoticons,1F63B,Smileys & Emotion,cat-face,1F63B,fully-qualified,E0.6 smiling cat with heart-eyes,😻,Smileys & emotion
-0x1f440,410,0.759422009,93,198,119,EYES,Miscellaneous Symbols and Pictographs,1F440,People & Body,body-parts,1F440,fully-qualified,E0.6 eyes,👀,People & body
-0x1f498,395,0.785036942,18,87,290,HEART WITH ARROW,Miscellaneous Symbols and Pictographs,1F498,Smileys & Emotion,heart,1F498,fully-qualified,E0.6 heart with arrow,💘,Smileys & emotion
-0x1f413,384,0.490808466,41,291,52,ROOSTER,Miscellaneous Symbols and Pictographs,1F413,Animals & Nature,animal-bird,1F413,fully-qualified,E1.0 rooster,🐓,Animals & nature
-0x2615,382,0.685215074,53,182,147,HOT BEVERAGE,Miscellaneous Symbols,2615,Food & Drink,drink,2615,fully-qualified,E0.6 hot beverage,☕,Food & drink
-0x1f44b,382,0.797944108,60,103,219,WAVING HAND SIGN,Miscellaneous Symbols and Pictographs,1F44B,People & Body,hand-fingers-open,1F44B,fully-qualified,E0.6 waving hand,👋,People & body
-0x270b,378,0.838291817,124,82,172,RAISED HAND,Dingbats,270B,People & Body,hand-fingers-open,270B,fully-qualified,E0.6 raised hand,✋,People & body
+0x1f49b,602,0.751631631,25,123,454,YELLOW HEART,Miscellaneous Symbols and Pictographs,1F49B,Smileys & Emotion,heart,1F49B,fully-qualified,E0.6 yellow heart,💛,Smileys & Emotion
+0x1f481,549,0.839628793,105,159,285,INFORMATION DESK PERSON,Miscellaneous Symbols and Pictographs,1F481,People & Body,person-gesture,1F481,fully-qualified,E0.6 person tipping hand,💁,People & Body
+0x1f49a,537,0.737498972,41,101,395,GREEN HEART,Miscellaneous Symbols and Pictographs,1F49A,Smileys & Emotion,heart,1F49A,fully-qualified,E0.6 green heart,💚,Smileys & Emotion
+0x1f61e,532,0.825187832,255,85,192,DISAPPOINTED FACE,Emoticons,1F61E,Smileys & Emotion,face-concerned,1F61E,fully-qualified,E0.6 disappointed face,😞,Smileys & Emotion
+0x1f606,527,0.809376422,81,148,298,SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES,Emoticons,1F606,Smileys & Emotion,face-smiling,1F606,fully-qualified,E0.6 grinning squinting face,😆,Smileys & Emotion
+0x1f61d,496,0.808808972,65,155,276,FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES,Emoticons,1F61D,Smileys & Emotion,face-tongue,1F61D,fully-qualified,E0.6 squinting face with tongue,😝,Smileys & Emotion
+0x1f62a,482,0.858219873,208,105,169,SLEEPY FACE,Emoticons,1F62A,Smileys & Emotion,face-sleepy,1F62A,fully-qualified,E0.6 sleepy face,😪,Smileys & Emotion
+0x1f62b,467,0.839517641,227,81,159,TIRED FACE,Emoticons,1F62B,Smileys & Emotion,face-concerned,1F62B,fully-qualified,E0.6 tired face,😫,Smileys & Emotion
+0x1f605,462,0.827654572,135,109,218,SMILING FACE WITH OPEN MOUTH AND COLD SWEAT,Emoticons,1F605,Smileys & Emotion,face-smiling,1F605,fully-qualified,E0.6 grinning face with sweat,😅,Smileys & Emotion
+0x1f44a,458,0.824515864,121,111,226,FISTED HAND SIGN,Miscellaneous Symbols and Pictographs,1F44A,People & Body,hand-fingers-closed,1F44A,fully-qualified,E0.6 oncoming fist,👊,People & Body
+0x1f480,456,0.739462262,214,123,119,SKULL,Miscellaneous Symbols and Pictographs,1F480,Smileys & Emotion,face-negative,1F480,fully-qualified,E0.6 skull,💀,Smileys & Emotion
+0x1f600,439,0.786284933,37,114,288,GRINNING FACE,Emoticons,1F600,Smileys & Emotion,face-smiling,1F600,fully-qualified,E1.0 grinning face,😀,Smileys & Emotion
+0x1f61a,424,0.853414944,20,81,323,KISSING FACE WITH CLOSED EYES,Emoticons,1F61A,Smileys & Emotion,face-affection,1F61A,fully-qualified,E0.6 kissing face with closed eyes,😚,Smileys & Emotion
+0x1f63b,417,0.729665769,28,101,288,SMILING CAT FACE WITH HEART-SHAPED EYES,Emoticons,1F63B,Smileys & Emotion,cat-face,1F63B,fully-qualified,E0.6 smiling cat with heart-eyes,😻,Smileys & Emotion
+0x1f440,410,0.759422009,93,198,119,EYES,Miscellaneous Symbols and Pictographs,1F440,People & Body,body-parts,1F440,fully-qualified,E0.6 eyes,👀,People & Body
+0x1f498,395,0.785036942,18,87,290,HEART WITH ARROW,Miscellaneous Symbols and Pictographs,1F498,Smileys & Emotion,heart,1F498,fully-qualified,E0.6 heart with arrow,💘,Smileys & Emotion
+0x1f413,384,0.490808466,41,291,52,ROOSTER,Miscellaneous Symbols and Pictographs,1F413,Animals & Nature,animal-bird,1F413,fully-qualified,E1.0 rooster,🐓,Animals & Nature
+0x2615,382,0.685215074,53,182,147,HOT BEVERAGE,Miscellaneous Symbols,2615,Food & Drink,drink,2615,fully-qualified,E0.6 hot beverage,☕,Food & Drink
+0x1f44b,382,0.797944108,60,103,219,WAVING HAND SIGN,Miscellaneous Symbols and Pictographs,1F44B,People & Body,hand-fingers-open,1F44B,fully-qualified,E0.6 waving hand,👋,People & Body
+0x270b,378,0.838291817,124,82,172,RAISED HAND,Dingbats,270B,People & Body,hand-fingers-open,270B,fully-qualified,E0.6 raised hand,✋,People & Body
 0x1f38a,363,0.72362175,20,59,284,CONFETTI BALL,Miscellaneous Symbols and Pictographs,1F38A,Activities,event,1F38A,fully-qualified,E0.6 confetti ball,🎊,Activities
-0x1f355,352,0.544580757,19,166,167,SLICE OF PIZZA,Miscellaneous Symbols and Pictographs,1F355,Food & Drink,food-prepared,1F355,fully-qualified,E0.6 pizza,🍕,Food & drink
+0x1f355,352,0.544580757,19,166,167,SLICE OF PIZZA,Miscellaneous Symbols and Pictographs,1F355,Food & Drink,food-prepared,1F355,fully-qualified,E0.6 pizza,🍕,Food & Drink
 0x2744,349,0.760181984,34,103,212,SNOWFLAKE,Dingbats,2744,Travel & Places,sky & weather,2744,unqualified,E0.6 snowflake,❄,Symbols
-0x1f625,341,0.881976694,108,83,150,DISAPPOINTED BUT RELIEVED FACE,Emoticons,1F625,Smileys & Emotion,face-concerned,1F625,fully-qualified,E0.6 sad but relieved face,😥,Smileys & emotion
-0x1f615,340,0.856711865,205,66,69,CONFUSED FACE,Emoticons,1F615,Smileys & Emotion,face-concerned,1F615,fully-qualified,E1.0 confused face,😕,Smileys & emotion
-0x1f4a5,329,0.587206232,23,234,72,COLLISION SYMBOL,Miscellaneous Symbols and Pictographs,1F4A5,Smileys & Emotion,emotion,1F4A5,fully-qualified,E0.6 collision,💥,Smileys & emotion
-0x1f494,328,0.835831574,136,96,96,BROKEN HEART,Miscellaneous Symbols and Pictographs,1F494,Smileys & Emotion,heart,1F494,fully-qualified,E0.6 broken heart,💔,Smileys & emotion
-0x1f624,327,0.884007985,157,82,88,FACE WITH LOOK OF TRIUMPH,Emoticons,1F624,Smileys & Emotion,face-negative,1F624,fully-qualified,E0.6 face with steam from nose,😤,Smileys & emotion
-0x1f608,325,0.762497655,66,106,153,SMILING FACE WITH HORNS,Emoticons,1F608,Smileys & Emotion,face-negative,1F608,fully-qualified,E1.0 smiling face with horns,😈,Smileys & emotion
+0x1f625,341,0.881976694,108,83,150,DISAPPOINTED BUT RELIEVED FACE,Emoticons,1F625,Smileys & Emotion,face-concerned,1F625,fully-qualified,E0.6 sad but relieved face,😥,Smileys & Emotion
+0x1f615,340,0.856711865,205,66,69,CONFUSED FACE,Emoticons,1F615,Smileys & Emotion,face-concerned,1F615,fully-qualified,E1.0 confused face,😕,Smileys & Emotion
+0x1f4a5,329,0.587206232,23,234,72,COLLISION SYMBOL,Miscellaneous Symbols and Pictographs,1F4A5,Smileys & Emotion,emotion,1F4A5,fully-qualified,E0.6 collision,💥,Smileys & Emotion
+0x1f494,328,0.835831574,136,96,96,BROKEN HEART,Miscellaneous Symbols and Pictographs,1F494,Smileys & Emotion,heart,1F494,fully-qualified,E0.6 broken heart,💔,Smileys & Emotion
+0x1f624,327,0.884007985,157,82,88,FACE WITH LOOK OF TRIUMPH,Emoticons,1F624,Smileys & Emotion,face-negative,1F624,fully-qualified,E0.6 face with steam from nose,😤,Smileys & Emotion
+0x1f608,325,0.762497655,66,106,153,SMILING FACE WITH HORNS,Emoticons,1F608,Smileys & Emotion,face-negative,1F608,fully-qualified,E1.0 smiling face with horns,😈,Smileys & Emotion
 0x2708,322,0.521940266,13,161,148,AIRPLANE,Dingbats,2708,Travel & Places,transport-air,2708,unqualified,E0.6 airplane,✈,Travel & Places
 0x1f51d,303,0.798433666,26,106,171,TOP WITH UPWARDS ARROW ABOVE,Miscellaneous Symbols and Pictographs,1F51D,Symbols,arrow,1F51D,fully-qualified,E0.6 TOP arrow,🔝,Symbols
-0x1f630,302,0.919654285,132,44,126,FACE WITH OPEN MOUTH AND COLD SWEAT,Emoticons,1F630,Smileys & Emotion,face-concerned,1F630,fully-qualified,E0.6 anxious face with sweat,😰,Smileys & emotion
+0x1f630,302,0.919654285,132,44,126,FACE WITH OPEN MOUTH AND COLD SWEAT,Emoticons,1F630,Smileys & Emotion,face-concerned,1F630,fully-qualified,E0.6 anxious face with sweat,😰,Smileys & Emotion
 0x26bd,299,0.193496177,15,83,201,SOCCER BALL,Miscellaneous Symbols,26BD,Activities,sport,26BD,fully-qualified,E0.6 soccer ball,⚽,Activities
-0x1f611,299,0.844272967,154,85,60,EXPRESSIONLESS FACE,Emoticons,1F611,Smileys & Emotion,face-neutral-skeptical,1F611,fully-qualified,E1.0 expressionless face,😑,Smileys & emotion
+0x1f611,299,0.844272967,154,85,60,EXPRESSIONLESS FACE,Emoticons,1F611,Smileys & Emotion,face-neutral-skeptical,1F611,fully-qualified,E1.0 expressionless face,😑,Smileys & Emotion
 0x1f451,298,0.698804832,12,65,221,CROWN,Miscellaneous Symbols and Pictographs,1F451,Objects,clothing,1F451,fully-qualified,E0.6 crown,👑,Objects
-0x1f639,295,0.8074145,88,77,130,CAT FACE WITH TEARS OF JOY,Emoticons,1F639,Smileys & Emotion,cat-face,1F639,fully-qualified,E0.6 cat with tears of joy,😹,Smileys & emotion
-0x1f449,292,0.559175629,20,137,135,WHITE RIGHT POINTING BACKHAND INDEX,Miscellaneous Symbols and Pictographs,1F449,People & Body,hand-single-finger,1F449,fully-qualified,E0.6 backhand index pointing right,👉,People & body
-0x1f343,291,0.572324349,29,122,140,LEAF FLUTTERING IN WIND,Miscellaneous Symbols and Pictographs,1F343,Animals & Nature,plant-other,1F343,fully-qualified,E0.6 leaf fluttering in wind,🍃,Animals & nature
+0x1f639,295,0.8074145,88,77,130,CAT FACE WITH TEARS OF JOY,Emoticons,1F639,Smileys & Emotion,cat-face,1F639,fully-qualified,E0.6 cat with tears of joy,😹,Smileys & Emotion
+0x1f449,292,0.559175629,20,137,135,WHITE RIGHT POINTING BACKHAND INDEX,Miscellaneous Symbols and Pictographs,1F449,People & Body,hand-single-finger,1F449,fully-qualified,E0.6 backhand index pointing right,👉,People & Body
+0x1f343,291,0.572324349,29,122,140,LEAF FLUTTERING IN WIND,Miscellaneous Symbols and Pictographs,1F343,Animals & Nature,plant-other,1F343,fully-qualified,E0.6 leaf fluttering in wind,🍃,Animals & Nature
 0x1f381,288,0.709181399,11,45,232,WRAPPED PRESENT,Miscellaneous Symbols and Pictographs,1F381,Activities,event,1F381,fully-qualified,E0.6 wrapped gift,🎁,Activities
-0x1f620,288,0.849218089,163,49,76,ANGRY FACE,Emoticons,1F620,Smileys & Emotion,face-negative,1F620,fully-qualified,E0.6 angry face,😠,Smileys & emotion
-0x1f427,284,0.540408727,11,131,142,PENGUIN,Miscellaneous Symbols and Pictographs,1F427,Animals & Nature,animal-bird,1F427,fully-qualified,E0.6 penguin,🐧,Animals & nature
-0x1f340,278,0.768496291,6,186,86,FOUR LEAF CLOVER,Miscellaneous Symbols and Pictographs,1F340,Animals & Nature,plant-other,1F340,fully-qualified,E0.6 four leaf clover,🍀,Animals & nature
+0x1f620,288,0.849218089,163,49,76,ANGRY FACE,Emoticons,1F620,Smileys & Emotion,face-negative,1F620,fully-qualified,E0.6 angry face,😠,Smileys & Emotion
+0x1f427,284,0.540408727,11,131,142,PENGUIN,Miscellaneous Symbols and Pictographs,1F427,Animals & Nature,animal-bird,1F427,fully-qualified,E0.6 penguin,🐧,Animals & Nature
+0x1f340,278,0.768496291,6,186,86,FOUR LEAF CLOVER,Miscellaneous Symbols and Pictographs,1F340,Animals & Nature,plant-other,1F340,fully-qualified,E0.6 four leaf clover,🍀,Animals & Nature
 0x1f388,277,0.718504213,4,68,205,BALLOON,Miscellaneous Symbols and Pictographs,1F388,Activities,event,1F388,fully-qualified,E0.6 balloon,🎈,Activities
-0x1f385,274,0.800786662,7,172,95,FATHER CHRISTMAS,Miscellaneous Symbols and Pictographs,1F385,People & Body,person-fantasy,1F385,fully-qualified,E0.6 Santa Claus,🎅,People & body
-0x1f613,273,0.844887359,118,59,96,FACE WITH COLD SWEAT,Emoticons,1F613,Smileys & Emotion,face-concerned,1F613,fully-qualified,E0.6 downcast face with sweat,😓,Smileys & emotion
-0x1f623,271,0.903307721,147,35,89,PERSEVERING FACE,Emoticons,1F623,Smileys & Emotion,face-concerned,1F623,fully-qualified,E0.6 persevering face,😣,Smileys & emotion
-0x1f610,270,0.882732825,150,76,44,NEUTRAL FACE,Emoticons,1F610,Smileys & Emotion,face-neutral-skeptical,1F610,fully-qualified,E0.7 neutral face,😐,Smileys & emotion
-0x270a,270,0.858608998,37,79,154,RAISED FIST,Dingbats,270A,People & Body,hand-fingers-closed,270A,fully-qualified,E0.6 raised fist,✊,People & body
-0x1f628,269,0.813687927,117,73,79,FEARFUL FACE,Emoticons,1F628,Smileys & Emotion,face-concerned,1F628,fully-qualified,E0.6 fearful face,😨,Smileys & emotion
-0x1f616,268,0.868926665,130,50,88,CONFOUNDED FACE,Emoticons,1F616,Smileys & Emotion,face-concerned,1F616,fully-qualified,E0.6 confounded face,😖,Smileys & emotion
-0x1f4a4,267,0.800461854,38,91,138,SLEEPING SYMBOL,Miscellaneous Symbols and Pictographs,1F4A4,Smileys & Emotion,emotion,1F4A4,fully-qualified,E0.6 ZZZ,💤,Smileys & emotion
-0x1f493,259,0.783045488,15,55,189,BEATING HEART,Miscellaneous Symbols and Pictographs,1F493,Smileys & Emotion,heart,1F493,fully-qualified,E0.6 beating heart,💓,Smileys & emotion
-0x1f44e,258,0.914491346,128,51,79,THUMBS DOWN SIGN,Miscellaneous Symbols and Pictographs,1F44E,People & Body,hand-fingers-closed,1F44E,fully-qualified,E0.6 thumbs down,👎,People & body
-0x1f4a6,252,0.779043752,35,62,155,SPLASHING SWEAT SYMBOL,Miscellaneous Symbols and Pictographs,1F4A6,Smileys & Emotion,emotion,1F4A6,fully-qualified,E0.6 sweat droplets,💦,Smileys & emotion
+0x1f385,274,0.800786662,7,172,95,FATHER CHRISTMAS,Miscellaneous Symbols and Pictographs,1F385,People & Body,person-fantasy,1F385,fully-qualified,E0.6 Santa Claus,🎅,People & Body
+0x1f613,273,0.844887359,118,59,96,FACE WITH COLD SWEAT,Emoticons,1F613,Smileys & Emotion,face-concerned,1F613,fully-qualified,E0.6 downcast face with sweat,😓,Smileys & Emotion
+0x1f623,271,0.903307721,147,35,89,PERSEVERING FACE,Emoticons,1F623,Smileys & Emotion,face-concerned,1F623,fully-qualified,E0.6 persevering face,😣,Smileys & Emotion
+0x1f610,270,0.882732825,150,76,44,NEUTRAL FACE,Emoticons,1F610,Smileys & Emotion,face-neutral-skeptical,1F610,fully-qualified,E0.7 neutral face,😐,Smileys & Emotion
+0x270a,270,0.858608998,37,79,154,RAISED FIST,Dingbats,270A,People & Body,hand-fingers-closed,270A,fully-qualified,E0.6 raised fist,✊,People & Body
+0x1f628,269,0.813687927,117,73,79,FEARFUL FACE,Emoticons,1F628,Smileys & Emotion,face-concerned,1F628,fully-qualified,E0.6 fearful face,😨,Smileys & Emotion
+0x1f616,268,0.868926665,130,50,88,CONFOUNDED FACE,Emoticons,1F616,Smileys & Emotion,face-concerned,1F616,fully-qualified,E0.6 confounded face,😖,Smileys & Emotion
+0x1f4a4,267,0.800461854,38,91,138,SLEEPING SYMBOL,Miscellaneous Symbols and Pictographs,1F4A4,Smileys & Emotion,emotion,1F4A4,fully-qualified,E0.6 ZZZ,💤,Smileys & Emotion
+0x1f493,259,0.783045488,15,55,189,BEATING HEART,Miscellaneous Symbols and Pictographs,1F493,Smileys & Emotion,heart,1F493,fully-qualified,E0.6 beating heart,💓,Smileys & Emotion
+0x1f44e,258,0.914491346,128,51,79,THUMBS DOWN SIGN,Miscellaneous Symbols and Pictographs,1F44E,People & Body,hand-fingers-closed,1F44E,fully-qualified,E0.6 thumbs down,👎,People & Body
+0x1f4a6,252,0.779043752,35,62,155,SPLASHING SWEAT SYMBOL,Miscellaneous Symbols and Pictographs,1F4A6,Smileys & Emotion,emotion,1F4A6,fully-qualified,E0.6 sweat droplets,💦,Smileys & Emotion
 0x2714,249,0.565237075,31,119,99,HEAVY CHECK MARK,Dingbats,2714,Symbols,other-symbol,2714,unqualified,E0.6 check mark,✔,Symbols
-0x1f637,246,0.840376534,117,54,75,FACE WITH MEDICAL MASK,Emoticons,1F637,Smileys & Emotion,face-unwell,1F637,fully-qualified,E0.6 face with medical mask,😷,Smileys & emotion
-0x26a1,246,0.778780762,10,182,54,HIGH VOLTAGE SIGN,Miscellaneous Symbols,26A1,Travel & Places,sky & weather,26A1,fully-qualified,E0.6 high voltage,⚡,Travel & places
-0x1f64b,236,0.732500422,30,60,146,HAPPY PERSON RAISING ONE HAND,Emoticons,1F64B,People & Body,person-gesture,1F64B,fully-qualified,E0.6 person raising hand,🙋,People & body
+0x1f637,246,0.840376534,117,54,75,FACE WITH MEDICAL MASK,Emoticons,1F637,Smileys & Emotion,face-unwell,1F637,fully-qualified,E0.6 face with medical mask,😷,Smileys & Emotion
+0x26a1,246,0.778780762,10,182,54,HIGH VOLTAGE SIGN,Miscellaneous Symbols,26A1,Travel & Places,sky & weather,26A1,fully-qualified,E0.6 high voltage,⚡,Travel & Places
+0x1f64b,236,0.732500422,30,60,146,HAPPY PERSON RAISING ONE HAND,Emoticons,1F64B,People & Body,person-gesture,1F64B,fully-qualified,E0.6 person raising hand,🙋,People & Body
 0x1f384,236,0.632526433,15,79,142,CHRISTMAS TREE,Miscellaneous Symbols and Pictographs,1F384,Activities,event,1F384,fully-qualified,E0.6 Christmas tree,🎄,Activities
-0x1f4a9,229,0.839720048,94,68,67,PILE OF POO,Miscellaneous Symbols and Pictographs,1F4A9,Smileys & Emotion,face-costume,1F4A9,fully-qualified,E0.6 pile of poo,💩,Smileys & emotion
+0x1f4a9,229,0.839720048,94,68,67,PILE OF POO,Miscellaneous Symbols and Pictographs,1F4A9,Smileys & Emotion,face-costume,1F4A9,fully-qualified,E0.6 pile of poo,💩,Smileys & Emotion
 0x1f3b5,223,0.71526961,23,64,136,MUSICAL NOTE,Miscellaneous Symbols and Pictographs,1F3B5,Objects,music,1F3B5,fully-qualified,E0.6 musical note,🎵,Objects
 0x27a1,222,0.478330444,2,185,35,BLACK RIGHTWARDS ARROW,Dingbats,27A1,Symbols,arrow,27A1,unqualified,E0.6 right arrow,➡,Symbols
-0x1f61b,220,0.734419263,18,50,152,FACE WITH STUCK-OUT TONGUE,Emoticons,1F61B,Smileys & Emotion,face-tongue,1F61B,fully-qualified,E1.0 face with tongue,😛,Smileys & emotion
-0x1f62c,214,0.793679841,57,58,99,GRIMACING FACE,Emoticons,1F62C,Smileys & Emotion,face-neutral-skeptical,1F62C,fully-qualified,E1.0 grimacing face,😬,Smileys & emotion
-0x1f46f,211,0.742043843,24,69,118,WOMAN WITH BUNNY EARS,Miscellaneous Symbols and Pictographs,1F46F,People & Body,person-activity,1F46F,fully-qualified,E0.6 people with bunny ears,👯,People & body
+0x1f61b,220,0.734419263,18,50,152,FACE WITH STUCK-OUT TONGUE,Emoticons,1F61B,Smileys & Emotion,face-tongue,1F61B,fully-qualified,E1.0 face with tongue,😛,Smileys & Emotion
+0x1f62c,214,0.793679841,57,58,99,GRIMACING FACE,Emoticons,1F62C,Smileys & Emotion,face-neutral-skeptical,1F62C,fully-qualified,E1.0 grimacing face,😬,Smileys & Emotion
+0x1f46f,211,0.742043843,24,69,118,WOMAN WITH BUNNY EARS,Miscellaneous Symbols and Pictographs,1F46F,People & Body,person-activity,1F46F,fully-qualified,E0.6 people with bunny ears,👯,People & Body
 0x1f48e,209,0.694054736,11,68,130,GEM STONE,Miscellaneous Symbols and Pictographs,1F48E,Objects,clothing,1F48E,fully-qualified,E0.6 gem stone,💎,Objects
-0x1f33f,208,0.600120585,1,125,82,HERB,Miscellaneous Symbols and Pictographs,1F33F,Animals & Nature,plant-other,1F33F,fully-qualified,E0.6 herb,🌿,Animals & nature
-0x1f382,201,0.747999917,16,44,141,BIRTHDAY CAKE,Miscellaneous Symbols and Pictographs,1F382,Food & Drink,food-sweet,1F382,fully-qualified,E0.6 birthday cake,🎂,Food & drink
-0x1f31f,199,0.654510913,11,111,77,GLOWING STAR,Miscellaneous Symbols and Pictographs,1F31F,Travel & Places,sky & weather,1F31F,fully-qualified,E0.6 glowing star,🌟,Travel & places
+0x1f33f,208,0.600120585,1,125,82,HERB,Miscellaneous Symbols and Pictographs,1F33F,Animals & Nature,plant-other,1F33F,fully-qualified,E0.6 herb,🌿,Animals & Nature
+0x1f382,201,0.747999917,16,44,141,BIRTHDAY CAKE,Miscellaneous Symbols and Pictographs,1F382,Food & Drink,food-sweet,1F382,fully-qualified,E0.6 birthday cake,🎂,Food & Drink
+0x1f31f,199,0.654510913,11,111,77,GLOWING STAR,Miscellaneous Symbols and Pictographs,1F31F,Travel & Places,sky & weather,1F31F,fully-qualified,E0.6 glowing star,🌟,Travel & Places
 0x1f52e,199,0.333161733,6,133,60,CRYSTAL BALL,Miscellaneous Symbols and Pictographs,1F52E,Activities,game,1F52E,fully-qualified,E0.6 crystal ball,🔮,Activities
 0x2757,198,0.620120854,31,116,51,HEAVY EXCLAMATION MARK SYMBOL,Dingbats,2757,Symbols,punctuation,2757,fully-qualified,E0.6 red exclamation mark,❗,Symbols
-0x1f46b,197,0.664270589,43,60,94,MAN AND WOMAN HOLDING HANDS,Miscellaneous Symbols and Pictographs,1F46B,People & Body,family,1F46B,fully-qualified,E0.6 woman and man holding hands,👫,People & body
+0x1f46b,197,0.664270589,43,60,94,MAN AND WOMAN HOLDING HANDS,Miscellaneous Symbols and Pictographs,1F46B,People & Body,family,1F46B,fully-qualified,E0.6 woman and man holding hands,👫,People & Body
 0x1f3c6,194,0.705937446,6,39,149,TROPHY,Miscellaneous Symbols and Pictographs,1F3C6,Activities,award-medal,1F3C6,fully-qualified,E0.6 trophy,🏆,Activities
 0x2716,193,0.514517152,8,116,69,HEAVY MULTIPLICATION X,Dingbats,2716,Symbols,math,2716,unqualified,E0.6 multiply,✖,Symbols
 0x261d,191,0.7597726,27,77,87,WHITE UP POINTING INDEX,Miscellaneous Symbols,261D,People & Body,hand-single-finger,261D,unqualified,E0.6 index pointing up,☝,Gestures
-0x1f619,191,0.875675106,3,34,154,KISSING FACE WITH SMILING EYES,Emoticons,1F619,Smileys & Emotion,face-affection,1F619,fully-qualified,E1.0 kissing face with smiling eyes,😙,Smileys & emotion
-0x26c4,191,0.738724736,14,62,115,SNOWMAN WITHOUT SNOW,Miscellaneous Symbols,26C4,Travel & Places,sky & weather,26C4,fully-qualified,E0.6 snowman without snow,⛄,Travel & places
-0x1f445,190,0.738179133,23,55,112,TONGUE,Miscellaneous Symbols and Pictographs,1F445,People & Body,body-parts,1F445,fully-qualified,E0.6 tongue,👅,People & body
-0x1f342,189,0.634540658,6,72,111,FALLEN LEAF,Miscellaneous Symbols and Pictographs,1F342,Animals & Nature,plant-other,1F342,fully-qualified,E0.6 fallen leaf,🍂,Animals & nature
-0x1f48f,185,0.72895246,33,46,106,KISS,Miscellaneous Symbols and Pictographs,1F48F,People & Body,family,1F48F,fully-qualified,E0.6 kiss,💏,People & body
-0x1f52a,183,0.764046479,38,94,51,HOCHO,Miscellaneous Symbols and Pictographs,1F52A,Food & Drink,dishware,1F52A,fully-qualified,E0.6 kitchen knife,🔪,Food & drink
-0x1f334,178,0.675890052,13,57,108,PALM TREE,Miscellaneous Symbols and Pictographs,1F334,Animals & Nature,plant-other,1F334,fully-qualified,E0.6 palm tree,🌴,Animals & nature
-0x1f448,174,0.701409121,14,71,89,WHITE LEFT POINTING BACKHAND INDEX,Miscellaneous Symbols and Pictographs,1F448,People & Body,hand-single-finger,1F448,fully-qualified,E0.6 backhand index pointing left,👈,People & body
-0x1f339,172,0.664431116,3,61,108,ROSE,Miscellaneous Symbols and Pictographs,1F339,Animals & Nature,plant-flower,1F339,fully-qualified,E0.6 rose,🌹,Animals & nature
-0x1f646,171,0.839916616,15,54,102,FACE WITH OK GESTURE,Emoticons,1F646,People & Body,person-gesture,1F646,fully-qualified,E0.6 person gesturing OK,🙆,People & body
-0x1f47b,168,0.740824428,28,73,67,GHOST,Miscellaneous Symbols and Pictographs,1F47B,Smileys & Emotion,face-costume,1F47B,fully-qualified,E0.6 ghost,👻,Smileys & emotion
+0x1f619,191,0.875675106,3,34,154,KISSING FACE WITH SMILING EYES,Emoticons,1F619,Smileys & Emotion,face-affection,1F619,fully-qualified,E1.0 kissing face with smiling eyes,😙,Smileys & Emotion
+0x26c4,191,0.738724736,14,62,115,SNOWMAN WITHOUT SNOW,Miscellaneous Symbols,26C4,Travel & Places,sky & weather,26C4,fully-qualified,E0.6 snowman without snow,⛄,Travel & Places
+0x1f445,190,0.738179133,23,55,112,TONGUE,Miscellaneous Symbols and Pictographs,1F445,People & Body,body-parts,1F445,fully-qualified,E0.6 tongue,👅,People & Body
+0x1f342,189,0.634540658,6,72,111,FALLEN LEAF,Miscellaneous Symbols and Pictographs,1F342,Animals & Nature,plant-other,1F342,fully-qualified,E0.6 fallen leaf,🍂,Animals & Nature
+0x1f48f,185,0.72895246,33,46,106,KISS,Miscellaneous Symbols and Pictographs,1F48F,People & Body,family,1F48F,fully-qualified,E0.6 kiss,💏,People & Body
+0x1f52a,183,0.764046479,38,94,51,HOCHO,Miscellaneous Symbols and Pictographs,1F52A,Food & Drink,dishware,1F52A,fully-qualified,E0.6 kitchen knife,🔪,Food & Drink
+0x1f334,178,0.675890052,13,57,108,PALM TREE,Miscellaneous Symbols and Pictographs,1F334,Animals & Nature,plant-other,1F334,fully-qualified,E0.6 palm tree,🌴,Animals & Nature
+0x1f448,174,0.701409121,14,71,89,WHITE LEFT POINTING BACKHAND INDEX,Miscellaneous Symbols and Pictographs,1F448,People & Body,hand-single-finger,1F448,fully-qualified,E0.6 backhand index pointing left,👈,People & Body
+0x1f339,172,0.664431116,3,61,108,ROSE,Miscellaneous Symbols and Pictographs,1F339,Animals & Nature,plant-flower,1F339,fully-qualified,E0.6 rose,🌹,Animals & Nature
+0x1f646,171,0.839916616,15,54,102,FACE WITH OK GESTURE,Emoticons,1F646,People & Body,person-gesture,1F646,fully-qualified,E0.6 person gesturing OK,🙆,People & Body
+0x1f47b,168,0.740824428,28,73,67,GHOST,Miscellaneous Symbols and Pictographs,1F47B,Smileys & Emotion,face-costume,1F47B,fully-qualified,E0.6 ghost,👻,Smileys & Emotion
 0x1f4b0,168,0.827466509,26,73,69,MONEY BAG,Miscellaneous Symbols and Pictographs,1F4B0,Objects,money,1F4B0,fully-qualified,E0.6 money bag,💰,Objects
-0x1f37b,165,0.745306588,17,45,103,CLINKING BEER MUGS,Miscellaneous Symbols and Pictographs,1F37B,Food & Drink,drink,1F37B,fully-qualified,E0.6 clinking beer mugs,🍻,Food & drink
-0x1f645,165,0.838871886,76,47,42,FACE WITH NO GOOD GESTURE,Emoticons,1F645,People & Body,person-gesture,1F645,fully-qualified,E0.6 person gesturing NO,🙅,People & body
-0x1f31e,162,0.709366196,3,64,95,SUN WITH FACE,Miscellaneous Symbols and Pictographs,1F31E,Travel & Places,sky & weather,1F31E,fully-qualified,E1.0 sun with face,🌞,Travel & places
-0x1f341,161,0.62398169,5,72,84,MAPLE LEAF,Miscellaneous Symbols and Pictographs,1F341,Animals & Nature,plant-other,1F341,fully-qualified,E0.6 maple leaf,🍁,Animals & nature
-0x2b50,159,0.600764348,5,55,99,WHITE MEDIUM STAR,Miscellaneous Symbols and Arrows,2B50,Travel & Places,sky & weather,2B50,fully-qualified,E0.6 star,⭐,Travel & places
+0x1f37b,165,0.745306588,17,45,103,CLINKING BEER MUGS,Miscellaneous Symbols and Pictographs,1F37B,Food & Drink,drink,1F37B,fully-qualified,E0.6 clinking beer mugs,🍻,Food & Drink
+0x1f645,165,0.838871886,76,47,42,FACE WITH NO GOOD GESTURE,Emoticons,1F645,People & Body,person-gesture,1F645,fully-qualified,E0.6 person gesturing NO,🙅,People & Body
+0x1f31e,162,0.709366196,3,64,95,SUN WITH FACE,Miscellaneous Symbols and Pictographs,1F31E,Travel & Places,sky & weather,1F31E,fully-qualified,E1.0 sun with face,🌞,Travel & Places
+0x1f341,161,0.62398169,5,72,84,MAPLE LEAF,Miscellaneous Symbols and Pictographs,1F341,Animals & Nature,plant-other,1F341,fully-qualified,E0.6 maple leaf,🍁,Animals & Nature
+0x2b50,159,0.600764348,5,55,99,WHITE MEDIUM STAR,Miscellaneous Symbols and Arrows,2B50,Travel & Places,sky & weather,2B50,fully-qualified,E0.6 star,⭐,Travel & Places
 0x25aa,159,0.145166872,15,97,47,BLACK SMALL SQUARE,Geometric Shapes,25AA,Symbols,geometric,25AA,unqualified,E0.6 black small square,▪,Symbols
 0x1f380,156,0.651799025,6,44,106,RIBBON,Miscellaneous Symbols and Pictographs,1F380,Activities,event,1F380,fully-qualified,E0.6 ribbon,🎀,Activities
-0x1f437,152,0.6026825,11,73,68,PIG FACE,Miscellaneous Symbols and Pictographs,1F437,Animals & Nature,animal-mammal,1F437,fully-qualified,E0.6 pig face,🐷,Animals & nature
-0x1f649,150,0.757694988,26,47,77,HEAR-NO-EVIL MONKEY,Emoticons,1F649,Smileys & Emotion,monkey-face,1F649,fully-qualified,E0.6 hear-no-evil monkey,🙉,Smileys & emotion
-0x1f33a,150,0.629472896,2,62,86,HIBISCUS,Miscellaneous Symbols and Pictographs,1F33A,Animals & Nature,plant-flower,1F33A,fully-qualified,E0.6 hibiscus,🌺,Animals & nature
-0x1f485,149,0.755747604,27,36,86,NAIL POLISH,Miscellaneous Symbols and Pictographs,1F485,People & Body,hand-prop,1F485,fully-qualified,E0.6 nail polish,💅,People & body
-0x1f436,148,0.654155755,12,37,99,DOG FACE,Miscellaneous Symbols and Pictographs,1F436,Animals & Nature,animal-mammal,1F436,fully-qualified,E0.6 dog face,🐶,Animals & nature
-0x1f31a,148,0.759894657,23,32,93,NEW MOON WITH FACE,Miscellaneous Symbols and Pictographs,1F31A,Travel & Places,sky & weather,1F31A,fully-qualified,E1.0 new moon face,🌚,Travel & places
-0x1f47d,146,0.612456875,13,73,60,EXTRATERRESTRIAL ALIEN,Miscellaneous Symbols and Pictographs,1F47D,Smileys & Emotion,face-costume,1F47D,fully-qualified,E0.6 alien,👽,Smileys & emotion
+0x1f437,152,0.6026825,11,73,68,PIG FACE,Miscellaneous Symbols and Pictographs,1F437,Animals & Nature,animal-mammal,1F437,fully-qualified,E0.6 pig face,🐷,Animals & Nature
+0x1f649,150,0.757694988,26,47,77,HEAR-NO-EVIL MONKEY,Emoticons,1F649,Smileys & Emotion,monkey-face,1F649,fully-qualified,E0.6 hear-no-evil monkey,🙉,Smileys & Emotion
+0x1f33a,150,0.629472896,2,62,86,HIBISCUS,Miscellaneous Symbols and Pictographs,1F33A,Animals & Nature,plant-flower,1F33A,fully-qualified,E0.6 hibiscus,🌺,Animals & Nature
+0x1f485,149,0.755747604,27,36,86,NAIL POLISH,Miscellaneous Symbols and Pictographs,1F485,People & Body,hand-prop,1F485,fully-qualified,E0.6 nail polish,💅,People & Body
+0x1f436,148,0.654155755,12,37,99,DOG FACE,Miscellaneous Symbols and Pictographs,1F436,Animals & Nature,animal-mammal,1F436,fully-qualified,E0.6 dog face,🐶,Animals & Nature
+0x1f31a,148,0.759894657,23,32,93,NEW MOON WITH FACE,Miscellaneous Symbols and Pictographs,1F31A,Travel & Places,sky & weather,1F31A,fully-qualified,E1.0 new moon face,🌚,Travel & Places
+0x1f47d,146,0.612456875,13,73,60,EXTRATERRESTRIAL ALIEN,Miscellaneous Symbols and Pictographs,1F47D,Smileys & Emotion,face-costume,1F47D,fully-qualified,E0.6 alien,👽,Smileys & Emotion
 0x1f3a4,144,0.67089174,17,40,87,MICROPHONE,Miscellaneous Symbols and Pictographs,1F3A4,Objects,music,1F3A4,fully-qualified,E0.6 microphone,🎤,Objects
-0x1f46d,144,0.667223526,20,36,88,TWO WOMEN HOLDING HANDS,Miscellaneous Symbols and Pictographs,1F46D,People & Body,family,1F46D,fully-qualified,E1.0 women holding hands,👭,People & body
+0x1f46d,144,0.667223526,20,36,88,TWO WOMEN HOLDING HANDS,Miscellaneous Symbols and Pictographs,1F46D,People & Body,family,1F46D,fully-qualified,E1.0 women holding hands,👭,People & Body
 0x1f3a7,142,0.842970526,18,46,78,HEADPHONE,Miscellaneous Symbols and Pictographs,1F3A7,Objects,music,1F3A7,fully-qualified,E0.6 headphone,🎧,Objects
-0x1f446,138,0.78746414,16,60,62,WHITE UP POINTING BACKHAND INDEX,Miscellaneous Symbols and Pictographs,1F446,People & Body,hand-single-finger,1F446,fully-qualified,E0.6 backhand index pointing up,👆,People & body
-0x1f378,138,0.662604118,12,38,88,COCKTAIL GLASS,Miscellaneous Symbols and Pictographs,1F378,Food & Drink,drink,1F378,fully-qualified,E0.6 cocktail glass,🍸,Food & drink
-0x1f377,137,0.603671624,7,68,62,WINE GLASS,Miscellaneous Symbols and Pictographs,1F377,Food & Drink,drink,1F377,fully-qualified,E0.6 wine glass,🍷,Food & drink
-0x1f349,136,0.647778999,10,33,93,WATERMELON,Miscellaneous Symbols and Pictographs,1F349,Food & Drink,food-fruit,1F349,fully-qualified,E0.6 watermelon,🍉,Food & drink
-0x1f607,135,0.781831331,9,36,90,SMILING FACE WITH HALO,Emoticons,1F607,Smileys & Emotion,face-smiling,1F607,fully-qualified,E1.0 smiling face with halo,😇,Smileys & emotion
+0x1f446,138,0.78746414,16,60,62,WHITE UP POINTING BACKHAND INDEX,Miscellaneous Symbols and Pictographs,1F446,People & Body,hand-single-finger,1F446,fully-qualified,E0.6 backhand index pointing up,👆,People & Body
+0x1f378,138,0.662604118,12,38,88,COCKTAIL GLASS,Miscellaneous Symbols and Pictographs,1F378,Food & Drink,drink,1F378,fully-qualified,E0.6 cocktail glass,🍸,Food & Drink
+0x1f377,137,0.603671624,7,68,62,WINE GLASS,Miscellaneous Symbols and Pictographs,1F377,Food & Drink,drink,1F377,fully-qualified,E0.6 wine glass,🍷,Food & Drink
+0x1f349,136,0.647778999,10,33,93,WATERMELON,Miscellaneous Symbols and Pictographs,1F349,Food & Drink,food-fruit,1F349,fully-qualified,E0.6 watermelon,🍉,Food & Drink
+0x1f607,135,0.781831331,9,36,90,SMILING FACE WITH HALO,Emoticons,1F607,Smileys & Emotion,face-smiling,1F607,fully-qualified,E1.0 smiling face with halo,😇,Smileys & Emotion
 0x2611,135,0.690061863,2,117,16,BALLOT BOX WITH CHECK,Miscellaneous Symbols,2611,Symbols,other-symbol,2611,unqualified,E0.6 check box with check,☑,Symbols
-0x1f3c3,135,0.735256148,12,55,68,RUNNER,Miscellaneous Symbols and Pictographs,1F3C3,People & Body,person-activity,1F3C3,fully-qualified,E0.6 person running,🏃,People & body
-0x1f63f,134,0.811560707,78,29,27,CRYING CAT FACE,Emoticons,1F63F,Smileys & Emotion,cat-face,1F63F,fully-qualified,E0.6 crying cat,😿,Smileys & emotion
+0x1f3c3,135,0.735256148,12,55,68,RUNNER,Miscellaneous Symbols and Pictographs,1F3C3,People & Body,person-activity,1F3C3,fully-qualified,E0.6 person running,🏃,People & Body
+0x1f63f,134,0.811560707,78,29,27,CRYING CAT FACE,Emoticons,1F63F,Smileys & Emotion,cat-face,1F63F,fully-qualified,E0.6 crying cat,😿,Smileys & Emotion
 0x1f4a3,131,0.846726927,40,50,41,BOMB,Miscellaneous Symbols and Pictographs,1F4A3,Objects,tool,1F4A3,fully-qualified,E0.6 bomb,💣,Objects
-0x1f37a,131,0.68156608,8,49,74,BEER MUG,Miscellaneous Symbols and Pictographs,1F37A,Food & Drink,drink,1F37A,fully-qualified,E0.6 beer mug,🍺,Food & drink
+0x1f37a,131,0.68156608,8,49,74,BEER MUG,Miscellaneous Symbols and Pictographs,1F37A,Food & Drink,drink,1F37A,fully-qualified,E0.6 beer mug,🍺,Food & Drink
 0x25b6,131,0.498359177,7,89,35,BLACK RIGHT-POINTING TRIANGLE,Geometric Shapes,25B6,Symbols,av-symbol,25B6,unqualified,E0.6 play button,▶,Symbols
-0x1f632,129,0.853619885,50,38,41,ASTONISHED FACE,Emoticons,1F632,Smileys & Emotion,face-concerned,1F632,fully-qualified,E0.6 astonished face,😲,Smileys & emotion
+0x1f632,129,0.853619885,50,38,41,ASTONISHED FACE,Emoticons,1F632,Smileys & Emotion,face-concerned,1F632,fully-qualified,E0.6 astonished face,😲,Smileys & Emotion
 0x1f3b8,125,0.605443071,1,57,67,GUITAR,Miscellaneous Symbols and Pictographs,1F3B8,Objects,musical-instrument,1F3B8,fully-qualified,E0.6 guitar,🎸,Objects
-0x1f379,123,0.764164553,5,30,88,TROPICAL DRINK,Miscellaneous Symbols and Pictographs,1F379,Food & Drink,drink,1F379,fully-qualified,E0.6 tropical drink,🍹,Food & drink
-0x1f4ab,121,0.614437663,4,51,66,DIZZY SYMBOL,Miscellaneous Symbols and Pictographs,1F4AB,Smileys & Emotion,emotion,1F4AB,fully-qualified,E0.6 dizzy,💫,Smileys & emotion
+0x1f379,123,0.764164553,5,30,88,TROPICAL DRINK,Miscellaneous Symbols and Pictographs,1F379,Food & Drink,drink,1F379,fully-qualified,E0.6 tropical drink,🍹,Food & Drink
+0x1f4ab,121,0.614437663,4,51,66,DIZZY SYMBOL,Miscellaneous Symbols and Pictographs,1F4AB,Smileys & Emotion,emotion,1F4AB,fully-qualified,E0.6 dizzy,💫,Smileys & Emotion
 0x1f4da,119,0.69163189,22,34,63,BOOKS,Miscellaneous Symbols and Pictographs,1F4DA,Objects,book-paper,1F4DA,fully-qualified,E0.6 books,📚,Objects
-0x1f636,117,0.868667638,50,34,33,FACE WITHOUT MOUTH,Emoticons,1F636,Smileys & Emotion,face-neutral-skeptical,1F636,fully-qualified,E1.0 face without mouth,😶,Smileys & emotion
-0x1f337,116,0.623397976,0,52,64,TULIP,Miscellaneous Symbols and Pictographs,1F337,Animals & Nature,plant-flower,1F337,fully-qualified,E0.6 tulip,🌷,Animals & nature
-0x1f49d,115,0.774410045,8,23,84,HEART WITH RIBBON,Miscellaneous Symbols and Pictographs,1F49D,Smileys & Emotion,heart,1F49D,fully-qualified,E0.6 heart with ribbon,💝,Smileys & emotion
-0x1f4a8,115,0.711396809,12,46,57,DASH SYMBOL,Miscellaneous Symbols and Pictographs,1F4A8,Smileys & Emotion,emotion,1F4A8,fully-qualified,E0.6 dashing away,💨,Smileys & emotion
+0x1f636,117,0.868667638,50,34,33,FACE WITHOUT MOUTH,Emoticons,1F636,Smileys & Emotion,face-neutral-skeptical,1F636,fully-qualified,E1.0 face without mouth,😶,Smileys & Emotion
+0x1f337,116,0.623397976,0,52,64,TULIP,Miscellaneous Symbols and Pictographs,1F337,Animals & Nature,plant-flower,1F337,fully-qualified,E0.6 tulip,🌷,Animals & Nature
+0x1f49d,115,0.774410045,8,23,84,HEART WITH RIBBON,Miscellaneous Symbols and Pictographs,1F49D,Smileys & Emotion,heart,1F49D,fully-qualified,E0.6 heart with ribbon,💝,Smileys & Emotion
+0x1f4a8,115,0.711396809,12,46,57,DASH SYMBOL,Miscellaneous Symbols and Pictographs,1F4A8,Smileys & Emotion,emotion,1F4A8,fully-qualified,E0.6 dashing away,💨,Smileys & Emotion
 0x1f3c8,114,0.823010837,7,38,69,AMERICAN FOOTBALL,Miscellaneous Symbols and Pictographs,1F3C8,Activities,sport,1F3C8,fully-qualified,E0.6 american football,🏈,Activities
 0x1f48d,112,0.807520998,16,25,71,RING,Miscellaneous Symbols and Pictographs,1F48D,Objects,clothing,1F48D,fully-qualified,E0.6 ring,💍,Objects
-0x2614,111,0.687353164,21,36,54,UMBRELLA WITH RAIN DROPS,Miscellaneous Symbols,2614,Travel & Places,sky & weather,2614,fully-qualified,E0.6 umbrella with rain drops,☔,Travel & places
-0x1f478,111,0.654472403,6,30,75,PRINCESS,Miscellaneous Symbols and Pictographs,1F478,People & Body,person-role,1F478,fully-qualified,E0.6 princess,👸,People & body
-0x1f369,107,0.708816106,15,35,57,DOUGHNUT,Miscellaneous Symbols and Pictographs,1F369,Food & Drink,food-sweet,1F369,fully-qualified,E0.6 doughnut,🍩,Food & drink
-0x1f47e,105,0.55188131,1,64,40,ALIEN MONSTER,Miscellaneous Symbols and Pictographs,1F47E,Smileys & Emotion,face-costume,1F47E,fully-qualified,E0.6 alien monster,👾,Smileys & emotion
+0x2614,111,0.687353164,21,36,54,UMBRELLA WITH RAIN DROPS,Miscellaneous Symbols,2614,Travel & Places,sky & weather,2614,fully-qualified,E0.6 umbrella with rain drops,☔,Travel & Places
+0x1f478,111,0.654472403,6,30,75,PRINCESS,Miscellaneous Symbols and Pictographs,1F478,People & Body,person-role,1F478,fully-qualified,E0.6 princess,👸,People & Body
+0x1f369,107,0.708816106,15,35,57,DOUGHNUT,Miscellaneous Symbols and Pictographs,1F369,Food & Drink,food-sweet,1F369,fully-qualified,E0.6 doughnut,🍩,Food & Drink
+0x1f47e,105,0.55188131,1,64,40,ALIEN MONSTER,Miscellaneous Symbols and Pictographs,1F47E,Smileys & Emotion,face-costume,1F47E,fully-qualified,E0.6 alien monster,👾,Smileys & Emotion
 0x2601,104,0.595923185,14,43,47,CLOUD,Miscellaneous Symbols,2601,Travel & Places,sky & weather,2601,unqualified,E0.6 cloud,☁,Symbols
-0x1f33b,104,0.607167343,1,41,62,SUNFLOWER,Miscellaneous Symbols and Pictographs,1F33B,Animals & Nature,plant-flower,1F33B,fully-qualified,E0.6 sunflower,🌻,Animals & nature
-0x1f635,103,0.808813841,33,28,42,DIZZY FACE,Emoticons,1F635,Smileys & Emotion,face-unwell,1F635,fully-qualified,E0.6 face with crossed-out eyes,😵,Smileys & emotion
+0x1f33b,104,0.607167343,1,41,62,SUNFLOWER,Miscellaneous Symbols and Pictographs,1F33B,Animals & Nature,plant-flower,1F33B,fully-qualified,E0.6 sunflower,🌻,Animals & Nature
+0x1f635,103,0.808813841,33,28,42,DIZZY FACE,Emoticons,1F635,Smileys & Emotion,face-unwell,1F635,fully-qualified,E0.6 face with crossed-out eyes,😵,Smileys & Emotion
 0x1f4d2,102,0.473944671,0,98,4,LEDGER,Miscellaneous Symbols and Pictographs,1F4D2,Objects,book-paper,1F4D2,fully-qualified,E0.6 ledger,📒,Objects
-0x1f42f,100,0.549561832,4,43,53,TIGER FACE,Miscellaneous Symbols and Pictographs,1F42F,Animals & Nature,animal-mammal,1F42F,fully-qualified,E0.6 tiger face,🐯,Animals & nature
-0x1f47c,99,0.683210618,17,31,51,BABY ANGEL,Miscellaneous Symbols and Pictographs,1F47C,People & Body,person-fantasy,1F47C,fully-qualified,E0.6 baby angel,👼,People & body
-0x1f354,98,0.636878313,16,38,44,HAMBURGER,Miscellaneous Symbols and Pictographs,1F354,Food & Drink,food-prepared,1F354,fully-qualified,E0.6 hamburger,🍔,Food & drink
-0x1f638,97,0.782035657,11,34,52,GRINNING CAT FACE WITH SMILING EYES,Emoticons,1F638,Smileys & Emotion,cat-face,1F638,fully-qualified,E0.6 grinning cat with smiling eyes,😸,Smileys & emotion
-0x1f476,96,0.745048578,13,27,56,BABY,Miscellaneous Symbols and Pictographs,1F476,People & Body,person,1F476,fully-qualified,E0.6 baby,👶,People & body
-0x1f490,95,0.727586517,3,17,75,BOUQUET,Miscellaneous Symbols and Pictographs,1F490,Animals & Nature,plant-flower,1F490,fully-qualified,E0.6 bouquet,💐,Animals & nature
-0x1f30a,95,0.779832163,8,30,57,WATER WAVE,Miscellaneous Symbols and Pictographs,1F30A,Travel & Places,sky & weather,1F30A,fully-qualified,E0.6 water wave,🌊,Travel & places
-0x1f366,95,0.630275908,13,24,58,SOFT ICE CREAM,Miscellaneous Symbols and Pictographs,1F366,Food & Drink,food-sweet,1F366,fully-qualified,E0.6 soft ice cream,🍦,Food & drink
-0x1f353,94,0.689469367,3,23,68,STRAWBERRY,Miscellaneous Symbols and Pictographs,1F353,Food & Drink,food-fruit,1F353,fully-qualified,E0.6 strawberry,🍓,Food & drink
-0x1f447,94,0.557020638,13,44,37,WHITE DOWN POINTING BACKHAND INDEX,Miscellaneous Symbols and Pictographs,1F447,People & Body,hand-single-finger,1F447,fully-qualified,E0.6 backhand index pointing down,👇,People & body
-0x1f486,92,0.814023638,24,23,45,FACE MASSAGE,Miscellaneous Symbols and Pictographs,1F486,People & Body,person-activity,1F486,fully-qualified,E0.6 person getting massage,💆,People & body
-0x1f374,92,0.580197926,4,33,55,FORK AND KNIFE,Miscellaneous Symbols and Pictographs,1F374,Food & Drink,dishware,1F374,fully-qualified,E0.6 fork and knife,🍴,Food & drink
-0x1f627,92,0.774990088,36,26,30,ANGUISHED FACE,Emoticons,1F627,Smileys & Emotion,face-concerned,1F627,fully-qualified,E1.0 anguished face,😧,Smileys & emotion
-0x1f62e,90,0.774237435,16,33,41,FACE WITH OPEN MOUTH,Emoticons,1F62E,Smileys & Emotion,face-concerned,1F62E,fully-qualified,E1.0 face with open mouth,😮,Smileys & emotion
+0x1f42f,100,0.549561832,4,43,53,TIGER FACE,Miscellaneous Symbols and Pictographs,1F42F,Animals & Nature,animal-mammal,1F42F,fully-qualified,E0.6 tiger face,🐯,Animals & Nature
+0x1f47c,99,0.683210618,17,31,51,BABY ANGEL,Miscellaneous Symbols and Pictographs,1F47C,People & Body,person-fantasy,1F47C,fully-qualified,E0.6 baby angel,👼,People & Body
+0x1f354,98,0.636878313,16,38,44,HAMBURGER,Miscellaneous Symbols and Pictographs,1F354,Food & Drink,food-prepared,1F354,fully-qualified,E0.6 hamburger,🍔,Food & Drink
+0x1f638,97,0.782035657,11,34,52,GRINNING CAT FACE WITH SMILING EYES,Emoticons,1F638,Smileys & Emotion,cat-face,1F638,fully-qualified,E0.6 grinning cat with smiling eyes,😸,Smileys & Emotion
+0x1f476,96,0.745048578,13,27,56,BABY,Miscellaneous Symbols and Pictographs,1F476,People & Body,person,1F476,fully-qualified,E0.6 baby,👶,People & Body
+0x1f490,95,0.727586517,3,17,75,BOUQUET,Miscellaneous Symbols and Pictographs,1F490,Animals & Nature,plant-flower,1F490,fully-qualified,E0.6 bouquet,💐,Animals & Nature
+0x1f30a,95,0.779832163,8,30,57,WATER WAVE,Miscellaneous Symbols and Pictographs,1F30A,Travel & Places,sky & weather,1F30A,fully-qualified,E0.6 water wave,🌊,Travel & Places
+0x1f366,95,0.630275908,13,24,58,SOFT ICE CREAM,Miscellaneous Symbols and Pictographs,1F366,Food & Drink,food-sweet,1F366,fully-qualified,E0.6 soft ice cream,🍦,Food & Drink
+0x1f353,94,0.689469367,3,23,68,STRAWBERRY,Miscellaneous Symbols and Pictographs,1F353,Food & Drink,food-fruit,1F353,fully-qualified,E0.6 strawberry,🍓,Food & Drink
+0x1f447,94,0.557020638,13,44,37,WHITE DOWN POINTING BACKHAND INDEX,Miscellaneous Symbols and Pictographs,1F447,People & Body,hand-single-finger,1F447,fully-qualified,E0.6 backhand index pointing down,👇,People & Body
+0x1f486,92,0.814023638,24,23,45,FACE MASSAGE,Miscellaneous Symbols and Pictographs,1F486,People & Body,person-activity,1F486,fully-qualified,E0.6 person getting massage,💆,People & Body
+0x1f374,92,0.580197926,4,33,55,FORK AND KNIFE,Miscellaneous Symbols and Pictographs,1F374,Food & Drink,dishware,1F374,fully-qualified,E0.6 fork and knife,🍴,Food & Drink
+0x1f627,92,0.774990088,36,26,30,ANGUISHED FACE,Emoticons,1F627,Smileys & Emotion,face-concerned,1F627,fully-qualified,E1.0 anguished face,😧,Smileys & Emotion
+0x1f62e,90,0.774237435,16,33,41,FACE WITH OPEN MOUTH,Emoticons,1F62E,Smileys & Emotion,face-concerned,1F62E,fully-qualified,E1.0 face with open mouth,😮,Smileys & Emotion
 0x1f6ab,88,0.702937729,48,32,8,NO ENTRY SIGN,Transport and Map Symbols,1F6AB,Symbols,warning,1F6AB,fully-qualified,E0.6 prohibited,🚫,Symbols
-0x1f63d,88,0.754242708,11,14,63,KISSING CAT FACE WITH CLOSED EYES,Emoticons,1F63D,Smileys & Emotion,cat-face,1F63D,fully-qualified,E0.6 kissing cat,😽,Smileys & emotion
-0x1f308,88,0.671884074,5,31,52,RAINBOW,Miscellaneous Symbols and Pictographs,1F308,Travel & Places,sky & weather,1F308,fully-qualified,E0.6 rainbow,🌈,Travel & places
-0x1f640,88,0.790729154,14,30,44,WEARY CAT FACE,Emoticons,1F640,Smileys & Emotion,cat-face,1F640,fully-qualified,E0.6 weary cat,🙀,Smileys & emotion
+0x1f63d,88,0.754242708,11,14,63,KISSING CAT FACE WITH CLOSED EYES,Emoticons,1F63D,Smileys & Emotion,cat-face,1F63D,fully-qualified,E0.6 kissing cat,😽,Smileys & Emotion
+0x1f308,88,0.671884074,5,31,52,RAINBOW,Miscellaneous Symbols and Pictographs,1F308,Travel & Places,sky & weather,1F308,fully-qualified,E0.6 rainbow,🌈,Travel & Places
+0x1f640,88,0.790729154,14,30,44,WEARY CAT FACE,Emoticons,1F640,Smileys & Emotion,cat-face,1F640,fully-qualified,E0.6 weary cat,🙀,Smileys & Emotion
 0x26a0,88,0.489084942,16,62,10,WARNING SIGN,Miscellaneous Symbols,26A0,Symbols,warning,26A0,unqualified,E0.6 warning,⚠,Symbols
 0x1f3ae,86,0.467430446,8,32,46,VIDEO GAME,Miscellaneous Symbols and Pictographs,1F3AE,Activities,game,1F3AE,fully-qualified,E0.6 video game,🎮,Activities
-0x1f346,84,0.7185031,6,37,41,AUBERGINE,Miscellaneous Symbols and Pictographs,1F346,Food & Drink,food-vegetable,1F346,fully-qualified,E0.6 eggplant,🍆,Food & drink
-0x1f370,84,0.78250627,13,19,52,SHORTCAKE,Miscellaneous Symbols and Pictographs,1F370,Food & Drink,food-sweet,1F370,fully-qualified,E0.6 shortcake,🍰,Food & drink
-0x1f450,83,0.875981032,33,19,31,OPEN HANDS SIGN,Miscellaneous Symbols and Pictographs,1F450,People & Body,hands,1F450,fully-qualified,E0.6 open hands,👐,People & body
-0x1f647,83,0.794293941,24,23,36,PERSON BOWING DEEPLY,Emoticons,1F647,People & Body,person-gesture,1F647,fully-qualified,E0.6 person bowing,🙇,People & body
-0x1f35f,83,0.650433666,14,29,40,FRENCH FRIES,Miscellaneous Symbols and Pictographs,1F35F,Food & Drink,food-prepared,1F35F,fully-qualified,E0.6 french fries,🍟,Food & drink
-0x1f34c,82,0.540634157,10,25,47,BANANA,Miscellaneous Symbols and Pictographs,1F34C,Food & Drink,food-fruit,1F34C,fully-qualified,E0.6 banana,🍌,Food & drink
-0x1f491,82,0.682682631,5,16,61,COUPLE WITH HEART,Miscellaneous Symbols and Pictographs,1F491,People & Body,family,1F491,fully-qualified,E0.6 couple with heart,💑,People & body
-0x1f46c,82,0.622239773,29,29,24,TWO MEN HOLDING HANDS,Miscellaneous Symbols and Pictographs,1F46C,People & Body,family,1F46C,fully-qualified,E1.0 men holding hands,👬,People & body
-0x1f423,81,0.775650511,12,17,52,HATCHING CHICK,Miscellaneous Symbols and Pictographs,1F423,Animals & Nature,animal-bird,1F423,fully-qualified,E0.6 hatching chick,🐣,Animals & nature
+0x1f346,84,0.7185031,6,37,41,AUBERGINE,Miscellaneous Symbols and Pictographs,1F346,Food & Drink,food-vegetable,1F346,fully-qualified,E0.6 eggplant,🍆,Food & Drink
+0x1f370,84,0.78250627,13,19,52,SHORTCAKE,Miscellaneous Symbols and Pictographs,1F370,Food & Drink,food-sweet,1F370,fully-qualified,E0.6 shortcake,🍰,Food & Drink
+0x1f450,83,0.875981032,33,19,31,OPEN HANDS SIGN,Miscellaneous Symbols and Pictographs,1F450,People & Body,hands,1F450,fully-qualified,E0.6 open hands,👐,People & Body
+0x1f647,83,0.794293941,24,23,36,PERSON BOWING DEEPLY,Emoticons,1F647,People & Body,person-gesture,1F647,fully-qualified,E0.6 person bowing,🙇,People & Body
+0x1f35f,83,0.650433666,14,29,40,FRENCH FRIES,Miscellaneous Symbols and Pictographs,1F35F,Food & Drink,food-prepared,1F35F,fully-qualified,E0.6 french fries,🍟,Food & Drink
+0x1f34c,82,0.540634157,10,25,47,BANANA,Miscellaneous Symbols and Pictographs,1F34C,Food & Drink,food-fruit,1F34C,fully-qualified,E0.6 banana,🍌,Food & Drink
+0x1f491,82,0.682682631,5,16,61,COUPLE WITH HEART,Miscellaneous Symbols and Pictographs,1F491,People & Body,family,1F491,fully-qualified,E0.6 couple with heart,💑,People & Body
+0x1f46c,82,0.622239773,29,29,24,TWO MEN HOLDING HANDS,Miscellaneous Symbols and Pictographs,1F46C,People & Body,family,1F46C,fully-qualified,E1.0 men holding hands,👬,People & Body
+0x1f423,81,0.775650511,12,17,52,HATCHING CHICK,Miscellaneous Symbols and Pictographs,1F423,Animals & Nature,animal-bird,1F423,fully-qualified,E0.6 hatching chick,🐣,Animals & Nature
 0x1f383,81,0.723541282,6,19,56,JACK-O-LANTERN,Miscellaneous Symbols and Pictographs,1F383,Activities,event,1F383,fully-qualified,E0.6 jack-o-lantern,🎃,Activities
-0x1f61f,80,0.824309355,28,18,34,WORRIED FACE,Emoticons,1F61F,Smileys & Emotion,face-concerned,1F61F,fully-qualified,E1.0 worried face,😟,Smileys & emotion
-0x1f43e,78,0.738983384,8,13,57,PAW PRINTS,Miscellaneous Symbols and Pictographs,1F43E,Animals & Nature,animal-mammal,1F43E,fully-qualified,E0.6 paw prints,🐾,Animals & nature
+0x1f61f,80,0.824309355,28,18,34,WORRIED FACE,Emoticons,1F61F,Smileys & Emotion,face-concerned,1F61F,fully-qualified,E1.0 worried face,😟,Smileys & Emotion
+0x1f43e,78,0.738983384,8,13,57,PAW PRINTS,Miscellaneous Symbols and Pictographs,1F43E,Animals & Nature,animal-mammal,1F43E,fully-qualified,E0.6 paw prints,🐾,Animals & Nature
 0x1f393,77,0.647134355,7,18,52,GRADUATION CAP,Miscellaneous Symbols and Pictographs,1F393,Objects,clothing,1F393,fully-qualified,E0.6 graduation cap,🎓,Objects
-0x1f3ca,77,0.65309632,2,27,48,SWIMMER,Miscellaneous Symbols and Pictographs,1F3CA,People & Body,person-sport,1F3CA,fully-qualified,E0.6 person swimming,🏊,People & body
-0x1f36b,76,0.792701023,22,20,34,CHOCOLATE BAR,Miscellaneous Symbols and Pictographs,1F36B,Food & Drink,food-sweet,1F36B,fully-qualified,E0.6 chocolate bar,🍫,Food & drink
+0x1f3ca,77,0.65309632,2,27,48,SWIMMER,Miscellaneous Symbols and Pictographs,1F3CA,People & Body,person-sport,1F3CA,fully-qualified,E0.6 person swimming,🏊,People & Body
+0x1f36b,76,0.792701023,22,20,34,CHOCOLATE BAR,Miscellaneous Symbols and Pictographs,1F36B,Food & Drink,food-sweet,1F36B,fully-qualified,E0.6 chocolate bar,🍫,Food & Drink
 0x1f4f7,76,0.489732992,7,28,41,CAMERA,Miscellaneous Symbols and Pictographs,1F4F7,Objects,light & video,1F4F7,fully-qualified,E0.6 camera,📷,Objects
-0x1f444,75,0.591674278,5,28,42,MOUTH,Miscellaneous Symbols and Pictographs,1F444,People & Body,body-parts,1F444,fully-qualified,E0.6 mouth,👄,People & body
-0x1f33c,74,0.603679109,1,12,61,BLOSSOM,Miscellaneous Symbols and Pictographs,1F33C,Animals & Nature,plant-flower,1F33C,fully-qualified,E0.6 blossom,🌼,Animals & nature
-0x1f6b6,74,0.796900446,28,29,17,PEDESTRIAN,Transport and Map Symbols,1F6B6,People & Body,person-activity,1F6B6,fully-qualified,E0.6 person walking,🚶,People & body
-0x1f431,73,0.544447706,10,14,49,CAT FACE,Miscellaneous Symbols and Pictographs,1F431,Animals & Nature,animal-mammal,1F431,fully-qualified,E0.6 cat face,🐱,Animals & nature
-0x1f438,72,0.845772164,24,30,18,FROG FACE,Miscellaneous Symbols and Pictographs,1F438,Animals & Nature,animal-amphibian,1F438,fully-qualified,E0.6 frog,🐸,Animals & nature
-0x1f47f,70,0.910730779,47,15,8,IMP,Miscellaneous Symbols and Pictographs,1F47F,Smileys & Emotion,face-negative,1F47F,fully-qualified,E0.6 angry face with horns,👿,Smileys & emotion
+0x1f444,75,0.591674278,5,28,42,MOUTH,Miscellaneous Symbols and Pictographs,1F444,People & Body,body-parts,1F444,fully-qualified,E0.6 mouth,👄,People & Body
+0x1f33c,74,0.603679109,1,12,61,BLOSSOM,Miscellaneous Symbols and Pictographs,1F33C,Animals & Nature,plant-flower,1F33C,fully-qualified,E0.6 blossom,🌼,Animals & Nature
+0x1f6b6,74,0.796900446,28,29,17,PEDESTRIAN,Transport and Map Symbols,1F6B6,People & Body,person-activity,1F6B6,fully-qualified,E0.6 person walking,🚶,People & Body
+0x1f431,73,0.544447706,10,14,49,CAT FACE,Miscellaneous Symbols and Pictographs,1F431,Animals & Nature,animal-mammal,1F431,fully-qualified,E0.6 cat face,🐱,Animals & Nature
+0x1f438,72,0.845772164,24,30,18,FROG FACE,Miscellaneous Symbols and Pictographs,1F438,Animals & Nature,animal-amphibian,1F438,fully-qualified,E0.6 frog,🐸,Animals & Nature
+0x1f47f,70,0.910730779,47,15,8,IMP,Miscellaneous Symbols and Pictographs,1F47F,Smileys & Emotion,face-negative,1F47F,fully-qualified,E0.6 angry face with horns,👿,Smileys & Emotion
 0x1f6ac,70,0.805066327,8,16,46,SMOKING SYMBOL,Transport and Map Symbols,1F6AC,Objects,other-object,1F6AC,fully-qualified,E0.6 cigarette,🚬,Objects
 0x1f4d6,68,0.709941199,18,20,30,OPEN BOOK,Miscellaneous Symbols and Pictographs,1F4D6,Objects,book-paper,1F4D6,fully-qualified,E0.6 open book,📖,Objects
-0x1f412,68,0.639847887,1,29,38,MONKEY,Miscellaneous Symbols and Pictographs,1F412,Animals & Nature,animal-mammal,1F412,fully-qualified,E0.6 monkey,🐒,Animals & nature
-0x1f30d,68,0.623864265,5,16,47,EARTH GLOBE EUROPE-AFRICA,Miscellaneous Symbols and Pictographs,1F30D,Travel & Places,place-map,1F30D,fully-qualified,E0.7 globe showing Europe-Africa,🌍,Travel & places
-0x1f425,67,0.779887133,4,18,45,FRONT-FACING BABY CHICK,Miscellaneous Symbols and Pictographs,1F425,Animals & Nature,animal-bird,1F425,fully-qualified,E0.6 front-facing baby chick,🐥,Animals & nature
-0x1f300,66,0.553405789,10,39,17,CYCLONE,Miscellaneous Symbols and Pictographs,1F300,Travel & Places,sky & weather,1F300,fully-qualified,E0.6 cyclone,🌀,Travel & places
-0x1f43c,66,0.614422004,4,40,22,PANDA FACE,Miscellaneous Symbols and Pictographs,1F43C,Animals & Nature,animal-mammal,1F43C,fully-qualified,E0.6 panda,🐼,Animals & nature
+0x1f412,68,0.639847887,1,29,38,MONKEY,Miscellaneous Symbols and Pictographs,1F412,Animals & Nature,animal-mammal,1F412,fully-qualified,E0.6 monkey,🐒,Animals & Nature
+0x1f30d,68,0.623864265,5,16,47,EARTH GLOBE EUROPE-AFRICA,Miscellaneous Symbols and Pictographs,1F30D,Travel & Places,place-map,1F30D,fully-qualified,E0.7 globe showing Europe-Africa,🌍,Travel & Places
+0x1f425,67,0.779887133,4,18,45,FRONT-FACING BABY CHICK,Miscellaneous Symbols and Pictographs,1F425,Animals & Nature,animal-bird,1F425,fully-qualified,E0.6 front-facing baby chick,🐥,Animals & Nature
+0x1f300,66,0.553405789,10,39,17,CYCLONE,Miscellaneous Symbols and Pictographs,1F300,Travel & Places,sky & weather,1F300,fully-qualified,E0.6 cyclone,🌀,Travel & Places
+0x1f43c,66,0.614422004,4,40,22,PANDA FACE,Miscellaneous Symbols and Pictographs,1F43C,Animals & Nature,animal-mammal,1F43C,fully-qualified,E0.6 panda,🐼,Animals & Nature
 0x1f3a5,66,0.675875827,8,30,28,MOVIE CAMERA,Miscellaneous Symbols and Pictographs,1F3A5,Objects,light & video,1F3A5,fully-qualified,E0.6 movie camera,🎥,Objects
 0x1f484,66,0.636585295,6,24,36,LIPSTICK,Miscellaneous Symbols and Pictographs,1F484,Objects,clothing,1F484,fully-qualified,E0.6 lipstick,💄,Objects
 0x1f4b8,66,0.790337996,16,23,27,MONEY WITH WINGS,Miscellaneous Symbols and Pictographs,1F4B8,Objects,money,1F4B8,fully-qualified,E0.6 money with wings,💸,Objects
 0x26d4,65,0.405987251,5,22,38,NO ENTRY,Miscellaneous Symbols,26D4,Symbols,warning,26D4,fully-qualified,E0.6 no entry,⛔,Symbols
 0x1f3c0,64,0.807196812,13,21,30,BASKETBALL AND HOOP,Miscellaneous Symbols and Pictographs,1F3C0,Activities,sport,1F3C0,fully-qualified,E0.6 basketball,🏀,Activities
 0x1f489,64,0.749555976,11,18,35,SYRINGE,Miscellaneous Symbols and Pictographs,1F489,Objects,medical,1F489,fully-qualified,E0.6 syringe,💉,Objects
-0x1f49f,63,0.787621444,3,12,48,HEART DECORATION,Miscellaneous Symbols and Pictographs,1F49F,Smileys & Emotion,heart,1F49F,fully-qualified,E0.6 heart decoration,💟,Smileys & emotion
-0x1f697,62,0.638133891,8,31,23,AUTOMOBILE,Transport and Map Symbols,1F697,Travel & Places,transport-ground,1F697,fully-qualified,E0.6 automobile,🚗,Travel & places
-0x1f62f,62,0.859007902,16,22,24,HUSHED FACE,Emoticons,1F62F,Smileys & Emotion,face-concerned,1F62F,fully-qualified,E1.0 hushed face,😯,Smileys & emotion
+0x1f49f,63,0.787621444,3,12,48,HEART DECORATION,Miscellaneous Symbols and Pictographs,1F49F,Smileys & Emotion,heart,1F49F,fully-qualified,E0.6 heart decoration,💟,Smileys & Emotion
+0x1f697,62,0.638133891,8,31,23,AUTOMOBILE,Transport and Map Symbols,1F697,Travel & Places,transport-ground,1F697,fully-qualified,E0.6 automobile,🚗,Travel & Places
+0x1f62f,62,0.859007902,16,22,24,HUSHED FACE,Emoticons,1F62F,Smileys & Emotion,face-concerned,1F62F,fully-qualified,E1.0 hushed face,😯,Smileys & Emotion
 0x1f4dd,62,0.794711655,8,31,23,MEMO,Miscellaneous Symbols and Pictographs,1F4DD,Objects,writing,1F4DD,fully-qualified,E0.6 memo,📝,Objects
 0x2666,61,0.562227083,6,20,35,BLACK DIAMOND SUIT,Miscellaneous Symbols,2666,Activities,game,2666,unqualified,E0.6 diamond suit,♦,Symbols
-0x1f4ad,60,0.687954711,10,27,23,THOUGHT BALLOON,Miscellaneous Symbols and Pictographs,1F4AD,Smileys & Emotion,emotion,1F4AD,fully-qualified,E1.0 thought balloon,💭,Smileys & emotion
-0x1f319,58,0.669389528,3,16,39,CRESCENT MOON,Miscellaneous Symbols and Pictographs,1F319,Travel & Places,sky & weather,1F319,fully-qualified,E0.6 crescent moon,🌙,Travel & places
-0x1f41f,58,0.676573608,2,12,44,FISH,Miscellaneous Symbols and Pictographs,1F41F,Animals & Nature,animal-marine,1F41F,fully-qualified,E0.6 fish,🐟,Animals & nature
-0x1f463,58,0.638779151,6,25,27,FOOTPRINTS,Miscellaneous Symbols and Pictographs,1F463,People & Body,person-symbol,1F463,fully-qualified,E0.6 footprints,👣,People & body
+0x1f4ad,60,0.687954711,10,27,23,THOUGHT BALLOON,Miscellaneous Symbols and Pictographs,1F4AD,Smileys & Emotion,emotion,1F4AD,fully-qualified,E1.0 thought balloon,💭,Smileys & Emotion
+0x1f319,58,0.669389528,3,16,39,CRESCENT MOON,Miscellaneous Symbols and Pictographs,1F319,Travel & Places,sky & weather,1F319,fully-qualified,E0.6 crescent moon,🌙,Travel & Places
+0x1f41f,58,0.676573608,2,12,44,FISH,Miscellaneous Symbols and Pictographs,1F41F,Animals & Nature,animal-marine,1F41F,fully-qualified,E0.6 fish,🐟,Animals & Nature
+0x1f463,58,0.638779151,6,25,27,FOOTPRINTS,Miscellaneous Symbols and Pictographs,1F463,People & Body,person-symbol,1F463,fully-qualified,E0.6 footprints,👣,People & Body
 0x2702,58,0.810271779,34,18,6,BLACK SCISSORS,Dingbats,2702,Objects,office,2702,unqualified,E0.6 scissors,✂,Objects
 0x1f5ff,58,0.941936907,5,21,32,MOYAI,Miscellaneous Symbols and Pictographs,1F5FF,Objects,other-object,1F5FF,fully-qualified,E0.6 moai,🗿,Objects
-0x1f35d,57,0.56442207,16,18,23,SPAGHETTI,Miscellaneous Symbols and Pictographs,1F35D,Food & Drink,food-asian,1F35D,fully-qualified,E0.6 spaghetti,🍝,Food & drink
-0x1f46a,57,0.653303852,24,10,23,FAMILY,Miscellaneous Symbols and Pictographs,1F46A,People & Body,person-symbol,1F46A,fully-qualified,E0.6 family,👪,People & body
-0x1f36d,57,0.632538929,9,21,27,LOLLIPOP,Miscellaneous Symbols and Pictographs,1F36D,Food & Drink,food-sweet,1F36D,fully-qualified,E0.6 lollipop,🍭,Food & drink
-0x1f303,56,0.747623603,3,27,26,NIGHT WITH STARS,Miscellaneous Symbols and Pictographs,1F303,Travel & Places,place-other,1F303,fully-qualified,E0.6 night with stars,🌃,Travel & places
+0x1f35d,57,0.56442207,16,18,23,SPAGHETTI,Miscellaneous Symbols and Pictographs,1F35D,Food & Drink,food-asian,1F35D,fully-qualified,E0.6 spaghetti,🍝,Food & Drink
+0x1f46a,57,0.653303852,24,10,23,FAMILY,Miscellaneous Symbols and Pictographs,1F46A,People & Body,person-symbol,1F46A,fully-qualified,E0.6 family,👪,People & Body
+0x1f36d,57,0.632538929,9,21,27,LOLLIPOP,Miscellaneous Symbols and Pictographs,1F36D,Food & Drink,food-sweet,1F36D,fully-qualified,E0.6 lollipop,🍭,Food & Drink
+0x1f303,56,0.747623603,3,27,26,NIGHT WITH STARS,Miscellaneous Symbols and Pictographs,1F303,Travel & Places,place-other,1F303,fully-qualified,E0.6 night with stars,🌃,Travel & Places
 0x274c,56,0.612998,14,12,30,CROSS MARK,Dingbats,274C,Symbols,other-symbol,274C,fully-qualified,E0.6 cross mark,❌,Symbols
-0x1f430,55,0.707516692,4,13,38,RABBIT FACE,Miscellaneous Symbols and Pictographs,1F430,Animals & Nature,animal-mammal,1F430,fully-qualified,E0.6 rabbit face,🐰,Animals & nature
+0x1f430,55,0.707516692,4,13,38,RABBIT FACE,Miscellaneous Symbols and Pictographs,1F430,Animals & Nature,animal-mammal,1F430,fully-qualified,E0.6 rabbit face,🐰,Animals & Nature
 0x1f48a,55,0.675071279,8,14,33,PILL,Miscellaneous Symbols and Pictographs,1F48A,Objects,medical,1F48A,fully-qualified,E0.6 pill,💊,Objects
-0x1f6a8,55,0.520959173,6,6,43,POLICE CARS REVOLVING LIGHT,Transport and Map Symbols,1F6A8,Travel & Places,transport-ground,1F6A8,fully-qualified,E0.6 police car light,🚨,Travel & places
-0x1f626,54,0.882218595,30,15,9,FROWNING FACE WITH OPEN MOUTH,Emoticons,1F626,Smileys & Emotion,face-concerned,1F626,fully-qualified,E1.0 frowning face with open mouth,😦,Smileys & emotion
-0x1f36a,54,0.736575166,10,16,28,COOKIE,Miscellaneous Symbols and Pictographs,1F36A,Food & Drink,food-sweet,1F36A,fully-qualified,E0.6 cookie,🍪,Food & drink
-0x1f363,53,0.669970061,24,18,11,SUSHI,Miscellaneous Symbols and Pictographs,1F363,Food & Drink,food-asian,1F363,fully-qualified,E0.6 sushi,🍣,Food & drink
+0x1f6a8,55,0.520959173,6,6,43,POLICE CARS REVOLVING LIGHT,Transport and Map Symbols,1F6A8,Travel & Places,transport-ground,1F6A8,fully-qualified,E0.6 police car light,🚨,Travel & Places
+0x1f626,54,0.882218595,30,15,9,FROWNING FACE WITH OPEN MOUTH,Emoticons,1F626,Smileys & Emotion,face-concerned,1F626,fully-qualified,E1.0 frowning face with open mouth,😦,Smileys & Emotion
+0x1f36a,54,0.736575166,10,16,28,COOKIE,Miscellaneous Symbols and Pictographs,1F36A,Food & Drink,food-sweet,1F36A,fully-qualified,E0.6 cookie,🍪,Food & Drink
+0x1f363,53,0.669970061,24,18,11,SUSHI,Miscellaneous Symbols and Pictographs,1F363,Food & Drink,food-asian,1F363,fully-qualified,E0.6 sushi,🍣,Food & Drink
 0x1f386,52,0.798520237,2,9,41,FIREWORKS,Miscellaneous Symbols and Pictographs,1F386,Activities,event,1F386,fully-qualified,E0.6 fireworks,🎆,Activities
 0x1f38e,51,0.417134709,0,2,49,JAPANESE DOLLS,Miscellaneous Symbols and Pictographs,1F38E,Activities,event,1F38E,fully-qualified,E0.6 Japanese dolls,🎎,Activities
 0x2705,51,0.672789014,3,23,25,WHITE HEAVY CHECK MARK,Dingbats,2705,Symbols,other-symbol,2705,fully-qualified,E0.6 check mark button,✅,Symbols
-0x1f479,49,0.70117277,13,20,16,JAPANESE OGRE,Miscellaneous Symbols and Pictographs,1F479,Smileys & Emotion,face-costume,1F479,fully-qualified,E0.6 ogre,👹,Smileys & emotion
+0x1f479,49,0.70117277,13,20,16,JAPANESE OGRE,Miscellaneous Symbols and Pictographs,1F479,Smileys & Emotion,face-costume,1F479,fully-qualified,E0.6 ogre,👹,Smileys & Emotion
 0x1f4f1,49,0.719713336,4,25,20,MOBILE PHONE,Miscellaneous Symbols and Pictographs,1F4F1,Objects,phone,1F4F1,fully-qualified,E0.6 mobile phone,📱,Objects
-0x1f64d,49,0.844922892,29,8,12,PERSON FROWNING,Emoticons,1F64D,People & Body,person-gesture,1F64D,fully-qualified,E0.6 person frowning,🙍,People & body
-0x1f351,49,0.739305631,12,12,25,PEACH,Miscellaneous Symbols and Pictographs,1F351,Food & Drink,food-fruit,1F351,fully-qualified,E0.6 peach,🍑,Food & drink
+0x1f64d,49,0.844922892,29,8,12,PERSON FROWNING,Emoticons,1F64D,People & Body,person-gesture,1F64D,fully-qualified,E0.6 person frowning,🙍,People & Body
+0x1f351,49,0.739305631,12,12,25,PEACH,Miscellaneous Symbols and Pictographs,1F351,Food & Drink,food-fruit,1F351,fully-qualified,E0.6 peach,🍑,Food & Drink
 0x1f3bc,49,0.636141803,2,28,19,MUSICAL SCORE,Miscellaneous Symbols and Pictographs,1F3BC,Objects,music,1F3BC,fully-qualified,E0.6 musical score,🎼,Objects
 0x1f50a,49,0.651738713,4,20,25,SPEAKER WITH THREE SOUND WAVES,Miscellaneous Symbols and Pictographs,1F50A,Objects,sound,1F50A,fully-qualified,E0.6 speaker high volume,🔊,Objects
-0x1f30c,47,0.750586217,5,11,31,MILKY WAY,Miscellaneous Symbols and Pictographs,1F30C,Travel & Places,sky & weather,1F30C,fully-qualified,E0.6 milky way,🌌,Travel & places
-0x1f34e,47,0.75089759,6,19,22,RED APPLE,Miscellaneous Symbols and Pictographs,1F34E,Food & Drink,food-fruit,1F34E,fully-qualified,E0.6 red apple,🍎,Food & drink
-0x1f43b,47,0.691609267,6,13,28,BEAR FACE,Miscellaneous Symbols and Pictographs,1F43B,Animals & Nature,animal-mammal,1F43B,fully-qualified,E0.6 bear,🐻,Animals & nature
-0x1f487,46,0.678429189,7,16,23,HAIRCUT,Miscellaneous Symbols and Pictographs,1F487,People & Body,person-activity,1F487,fully-qualified,E0.6 person getting haircut,💇,People & body
+0x1f30c,47,0.750586217,5,11,31,MILKY WAY,Miscellaneous Symbols and Pictographs,1F30C,Travel & Places,sky & weather,1F30C,fully-qualified,E0.6 milky way,🌌,Travel & Places
+0x1f34e,47,0.75089759,6,19,22,RED APPLE,Miscellaneous Symbols and Pictographs,1F34E,Food & Drink,food-fruit,1F34E,fully-qualified,E0.6 red apple,🍎,Food & Drink
+0x1f43b,47,0.691609267,6,13,28,BEAR FACE,Miscellaneous Symbols and Pictographs,1F43B,Animals & Nature,animal-mammal,1F43B,fully-qualified,E0.6 bear,🐻,Animals & Nature
+0x1f487,46,0.678429189,7,16,23,HAIRCUT,Miscellaneous Symbols and Pictographs,1F487,People & Body,person-activity,1F487,fully-qualified,E0.6 person getting haircut,💇,People & Body
 0x1f534,45,0.655928061,1,24,20,LARGE RED CIRCLE,Miscellaneous Symbols and Pictographs,1F534,Symbols,geometric,1F534,fully-qualified,E0.6 red circle,🔴,Symbols
-0x1f371,45,0.58000953,25,10,10,BENTO BOX,Miscellaneous Symbols and Pictographs,1F371,Food & Drink,food-asian,1F371,fully-qualified,E0.6 bento box,🍱,Food & drink
-0x1f34a,45,0.697299999,6,13,26,TANGERINE,Miscellaneous Symbols and Pictographs,1F34A,Food & Drink,food-fruit,1F34A,fully-qualified,E0.6 tangerine,🍊,Food & drink
-0x1f352,45,0.619434077,6,18,21,CHERRIES,Miscellaneous Symbols and Pictographs,1F352,Food & Drink,food-fruit,1F352,fully-qualified,E0.6 cherries,🍒,Food & drink
-0x1f42d,45,0.822545804,0,12,33,MOUSE FACE,Miscellaneous Symbols and Pictographs,1F42D,Animals & Nature,animal-mammal,1F42D,fully-qualified,E0.6 mouse face,🐭,Animals & nature
+0x1f371,45,0.58000953,25,10,10,BENTO BOX,Miscellaneous Symbols and Pictographs,1F371,Food & Drink,food-asian,1F371,fully-qualified,E0.6 bento box,🍱,Food & Drink
+0x1f34a,45,0.697299999,6,13,26,TANGERINE,Miscellaneous Symbols and Pictographs,1F34A,Food & Drink,food-fruit,1F34A,fully-qualified,E0.6 tangerine,🍊,Food & Drink
+0x1f352,45,0.619434077,6,18,21,CHERRIES,Miscellaneous Symbols and Pictographs,1F352,Food & Drink,food-fruit,1F352,fully-qualified,E0.6 cherries,🍒,Food & Drink
+0x1f42d,45,0.822545804,0,12,33,MOUSE FACE,Miscellaneous Symbols and Pictographs,1F42D,Animals & Nature,animal-mammal,1F42D,fully-qualified,E0.6 mouse face,🐭,Animals & Nature
 0x1f45f,45,0.561642541,5,15,25,ATHLETIC SHOE,Miscellaneous Symbols and Pictographs,1F45F,Objects,clothing,1F45F,fully-qualified,E0.6 running shoe,👟,Objects
-0x1f30e,44,0.743438616,5,19,20,EARTH GLOBE AMERICAS,Miscellaneous Symbols and Pictographs,1F30E,Travel & Places,place-map,1F30E,fully-qualified,E0.7 globe showing Americas,🌎,Travel & places
-0x1f34d,44,0.583336287,7,8,29,PINEAPPLE,Miscellaneous Symbols and Pictographs,1F34D,Food & Drink,food-fruit,1F34D,fully-qualified,E0.6 pineapple,🍍,Food & drink
-0x1f42e,43,0.846658768,2,12,29,COW FACE,Miscellaneous Symbols and Pictographs,1F42E,Animals & Nature,animal-mammal,1F42E,fully-qualified,E0.6 cow face,🐮,Animals & nature
+0x1f30e,44,0.743438616,5,19,20,EARTH GLOBE AMERICAS,Miscellaneous Symbols and Pictographs,1F30E,Travel & Places,place-map,1F30E,fully-qualified,E0.7 globe showing Americas,🌎,Travel & Places
+0x1f34d,44,0.583336287,7,8,29,PINEAPPLE,Miscellaneous Symbols and Pictographs,1F34D,Food & Drink,food-fruit,1F34D,fully-qualified,E0.6 pineapple,🍍,Food & Drink
+0x1f42e,43,0.846658768,2,12,29,COW FACE,Miscellaneous Symbols and Pictographs,1F42E,Animals & Nature,animal-mammal,1F42E,fully-qualified,E0.6 cow face,🐮,Animals & Nature
 0x1f4f2,43,0.598172133,7,18,18,MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT,Miscellaneous Symbols and Pictographs,1F4F2,Objects,phone,1F4F2,fully-qualified,E0.6 mobile phone with arrow,📲,Objects
-0x1f305,42,0.603551051,6,14,22,SUNRISE,Miscellaneous Symbols and Pictographs,1F305,Travel & Places,place-other,1F305,fully-qualified,E0.6 sunrise,🌅,Travel & places
+0x1f305,42,0.603551051,6,14,22,SUNRISE,Miscellaneous Symbols and Pictographs,1F305,Travel & Places,place-other,1F305,fully-qualified,E0.6 sunrise,🌅,Travel & Places
 0x1f460,42,0.637243017,6,14,22,HIGH-HEELED SHOE,Miscellaneous Symbols and Pictographs,1F460,Objects,clothing,1F460,fully-qualified,E0.6 high-heeled shoe,👠,Objects
-0x1f33d,42,0.648931091,5,12,25,EAR OF MAIZE,Miscellaneous Symbols and Pictographs,1F33D,Food & Drink,food-vegetable,1F33D,fully-qualified,E0.6 ear of corn,🌽,Food & drink
-0x1f4a7,41,0.76764795,20,8,13,DROPLET,Miscellaneous Symbols and Pictographs,1F4A7,Travel & Places,sky & weather,1F4A7,fully-qualified,E0.6 droplet,💧,Travel & places
+0x1f33d,42,0.648931091,5,12,25,EAR OF MAIZE,Miscellaneous Symbols and Pictographs,1F33D,Food & Drink,food-vegetable,1F33D,fully-qualified,E0.6 ear of corn,🌽,Food & Drink
+0x1f4a7,41,0.76764795,20,8,13,DROPLET,Miscellaneous Symbols and Pictographs,1F4A7,Travel & Places,sky & weather,1F4A7,fully-qualified,E0.6 droplet,💧,Travel & Places
 0x2753,41,0.614920844,7,24,10,BLACK QUESTION MARK ORNAMENT,Dingbats,2753,Symbols,punctuation,2753,fully-qualified,E0.6 red question mark,❓,Symbols
-0x1f36c,41,0.784072191,8,9,24,CANDY,Miscellaneous Symbols and Pictographs,1F36C,Food & Drink,food-sweet,1F36C,fully-qualified,E0.6 candy,🍬,Food & drink
-0x1f63a,40,0.825897808,8,7,25,SMILING CAT FACE WITH OPEN MOUTH,Emoticons,1F63A,Smileys & Emotion,cat-face,1F63A,fully-qualified,E0.6 grinning cat,😺,Smileys & emotion
-0x1f434,40,0.795776393,8,21,11,HORSE FACE,Miscellaneous Symbols and Pictographs,1F434,Animals & Nature,animal-mammal,1F434,fully-qualified,E0.6 horse face,🐴,Animals & nature
-0x1f680,40,0.698479931,2,15,23,ROCKET,Transport and Map Symbols,1F680,Travel & Places,transport-air,1F680,fully-qualified,E0.6 rocket,🚀,Travel & places
-0x1f4a2,40,0.560644274,6,18,16,ANGER SYMBOL,Miscellaneous Symbols and Pictographs,1F4A2,Smileys & Emotion,emotion,1F4A2,fully-qualified,E0.6 anger symbol,💢,Smileys & emotion
+0x1f36c,41,0.784072191,8,9,24,CANDY,Miscellaneous Symbols and Pictographs,1F36C,Food & Drink,food-sweet,1F36C,fully-qualified,E0.6 candy,🍬,Food & Drink
+0x1f63a,40,0.825897808,8,7,25,SMILING CAT FACE WITH OPEN MOUTH,Emoticons,1F63A,Smileys & Emotion,cat-face,1F63A,fully-qualified,E0.6 grinning cat,😺,Smileys & Emotion
+0x1f434,40,0.795776393,8,21,11,HORSE FACE,Miscellaneous Symbols and Pictographs,1F434,Animals & Nature,animal-mammal,1F434,fully-qualified,E0.6 horse face,🐴,Animals & Nature
+0x1f680,40,0.698479931,2,15,23,ROCKET,Transport and Map Symbols,1F680,Travel & Places,transport-air,1F680,fully-qualified,E0.6 rocket,🚀,Travel & Places
+0x1f4a2,40,0.560644274,6,18,16,ANGER SYMBOL,Miscellaneous Symbols and Pictographs,1F4A2,Smileys & Emotion,emotion,1F4A2,fully-qualified,E0.6 anger symbol,💢,Smileys & Emotion
 0x1f3ac,40,0.650028961,2,24,14,CLAPPER BOARD,Miscellaneous Symbols and Pictographs,1F3AC,Objects,light & video,1F3AC,fully-qualified,E0.6 clapper board,🎬,Objects
-0x1f367,40,0.674847866,9,9,22,SHAVED ICE,Miscellaneous Symbols and Pictographs,1F367,Food & Drink,food-sweet,1F367,fully-qualified,E0.6 shaved ice,🍧,Food & drink
-0x1f35c,40,0.577916931,9,5,26,STEAMING BOWL,Miscellaneous Symbols and Pictographs,1F35C,Food & Drink,food-asian,1F35C,fully-qualified,E0.6 steaming bowl,🍜,Food & drink
-0x1f40f,40,0.975591533,2,12,26,RAM,Miscellaneous Symbols and Pictographs,1F40F,Animals & Nature,animal-mammal,1F40F,fully-qualified,E1.0 ram,🐏,Animals & nature
-0x1f418,40,0.722256768,9,21,10,ELEPHANT,Miscellaneous Symbols and Pictographs,1F418,Animals & Nature,animal-mammal,1F418,fully-qualified,E0.6 elephant,🐘,Animals & nature
-0x1f467,40,0.649498717,10,14,16,GIRL,Miscellaneous Symbols and Pictographs,1F467,People & Body,person,1F467,fully-qualified,E0.6 girl,👧,People & body
-0x1f3c4,39,0.772893432,2,13,24,SURFER,Miscellaneous Symbols and Pictographs,1F3C4,People & Body,person-sport,1F3C4,fully-qualified,E0.6 person surfing,🏄,People & body
+0x1f367,40,0.674847866,9,9,22,SHAVED ICE,Miscellaneous Symbols and Pictographs,1F367,Food & Drink,food-sweet,1F367,fully-qualified,E0.6 shaved ice,🍧,Food & Drink
+0x1f35c,40,0.577916931,9,5,26,STEAMING BOWL,Miscellaneous Symbols and Pictographs,1F35C,Food & Drink,food-asian,1F35C,fully-qualified,E0.6 steaming bowl,🍜,Food & Drink
+0x1f40f,40,0.975591533,2,12,26,RAM,Miscellaneous Symbols and Pictographs,1F40F,Animals & Nature,animal-mammal,1F40F,fully-qualified,E1.0 ram,🐏,Animals & Nature
+0x1f418,40,0.722256768,9,21,10,ELEPHANT,Miscellaneous Symbols and Pictographs,1F418,Animals & Nature,animal-mammal,1F418,fully-qualified,E0.6 elephant,🐘,Animals & Nature
+0x1f467,40,0.649498717,10,14,16,GIRL,Miscellaneous Symbols and Pictographs,1F467,People & Body,person,1F467,fully-qualified,E0.6 girl,👧,People & Body
+0x1f3c4,39,0.772893432,2,13,24,SURFER,Miscellaneous Symbols and Pictographs,1F3C4,People & Body,person-sport,1F3C4,fully-qualified,E0.6 person surfing,🏄,People & Body
 0x2b06,39,0.605681579,1,25,13,UPWARDS BLACK ARROW,Miscellaneous Symbols and Arrows,2B06,Symbols,arrow,2B06,unqualified,E0.6 up arrow,⬆,Symbols
-0x1f34b,38,0.742802859,6,16,16,LEMON,Miscellaneous Symbols and Pictographs,1F34B,Food & Drink,food-fruit,1F34B,fully-qualified,E1.0 lemon,🍋,Food & drink
+0x1f34b,38,0.742802859,6,16,16,LEMON,Miscellaneous Symbols and Pictographs,1F34B,Food & Drink,food-fruit,1F34B,fully-qualified,E1.0 lemon,🍋,Food & Drink
 0x1f197,38,0.852316542,6,4,28,SQUARED OK,Enclosed Alphanumeric Supplement,1F197,Symbols,alphanum,1F197,fully-qualified,E0.6 OK button,🆗,Symbols
 0x26aa,37,0.564780444,0,19,18,MEDIUM WHITE CIRCLE,Miscellaneous Symbols,26AA,Symbols,geometric,26AA,fully-qualified,E0.6 white circle,⚪,Symbols
 0x1f4fa,37,0.61386867,3,16,18,TELEVISION,Miscellaneous Symbols and Pictographs,1F4FA,Objects,light & video,1F4FA,fully-qualified,E0.6 television,📺,Objects
-0x1f345,37,0.838126825,9,5,23,TOMATO,Miscellaneous Symbols and Pictographs,1F345,Food & Drink,food-fruit,1F345,fully-qualified,E0.6 tomato,🍅,Food & drink
-0x26c5,37,0.61632427,4,11,22,SUN BEHIND CLOUD,Miscellaneous Symbols,26C5,Travel & Places,sky & weather,26C5,fully-qualified,E0.6 sun behind cloud,⛅,Travel & places
-0x1f422,37,0.621646684,6,17,14,TURTLE,Miscellaneous Symbols and Pictographs,1F422,Animals & Nature,animal-reptile,1F422,fully-qualified,E0.6 turtle,🐢,Animals & nature
+0x1f345,37,0.838126825,9,5,23,TOMATO,Miscellaneous Symbols and Pictographs,1F345,Food & Drink,food-fruit,1F345,fully-qualified,E0.6 tomato,🍅,Food & Drink
+0x26c5,37,0.61632427,4,11,22,SUN BEHIND CLOUD,Miscellaneous Symbols,26C5,Travel & Places,sky & weather,26C5,fully-qualified,E0.6 sun behind cloud,⛅,Travel & Places
+0x1f422,37,0.621646684,6,17,14,TURTLE,Miscellaneous Symbols and Pictographs,1F422,Animals & Nature,animal-reptile,1F422,fully-qualified,E0.6 turtle,🐢,Animals & Nature
 0x1f459,37,0.697202004,3,11,23,BIKINI,Miscellaneous Symbols and Pictographs,1F459,Objects,clothing,1F459,fully-qualified,E0.6 bikini,👙,Objects
-0x1f3e1,36,0.744478613,5,9,22,HOUSE WITH GARDEN,Miscellaneous Symbols and Pictographs,1F3E1,Travel & Places,place-building,1F3E1,fully-qualified,E0.6 house with garden,🏡,Travel & places
-0x1f33e,36,0.558280959,5,5,26,EAR OF RICE,Miscellaneous Symbols and Pictographs,1F33E,Animals & Nature,plant-other,1F33E,fully-qualified,E0.6 sheaf of rice,🌾,Animals & nature
+0x1f3e1,36,0.744478613,5,9,22,HOUSE WITH GARDEN,Miscellaneous Symbols and Pictographs,1F3E1,Travel & Places,place-building,1F3E1,fully-qualified,E0.6 house with garden,🏡,Travel & Places
+0x1f33e,36,0.558280959,5,5,26,EAR OF RICE,Miscellaneous Symbols and Pictographs,1F33E,Animals & Nature,plant-other,1F33E,fully-qualified,E0.6 sheaf of rice,🌾,Animals & Nature
 0x270f,35,0.625100023,3,16,16,PENCIL,Dingbats,270F,Objects,writing,270F,unqualified,E0.6 pencil,✏,Objects
-0x1f42c,35,0.74664334,2,15,18,DOLPHIN,Miscellaneous Symbols and Pictographs,1F42C,Animals & Nature,animal-marine,1F42C,fully-qualified,E0.6 dolphin,🐬,Animals & nature
-0x1f364,35,0.513142123,6,21,8,FRIED SHRIMP,Miscellaneous Symbols and Pictographs,1F364,Food & Drink,food-asian,1F364,fully-qualified,E0.6 fried shrimp,🍤,Food & drink
+0x1f42c,35,0.74664334,2,15,18,DOLPHIN,Miscellaneous Symbols and Pictographs,1F42C,Animals & Nature,animal-marine,1F42C,fully-qualified,E0.6 dolphin,🐬,Animals & Nature
+0x1f364,35,0.513142123,6,21,8,FRIED SHRIMP,Miscellaneous Symbols and Pictographs,1F364,Food & Drink,food-asian,1F364,fully-qualified,E0.6 fried shrimp,🍤,Food & Drink
 0x2663,35,0.666096972,4,14,17,BLACK CLUB SUIT,Miscellaneous Symbols,2663,Activities,game,2663,unqualified,E0.6 club suit,♣,Symbols
-0x1f41d,35,0.734687255,5,17,13,HONEYBEE,Miscellaneous Symbols and Pictographs,1F41D,Animals & Nature,animal-bug,1F41D,fully-qualified,E0.6 honeybee,🐝,Animals & nature
-0x1f31d,34,0.718124589,5,17,12,FULL MOON WITH FACE,Miscellaneous Symbols and Pictographs,1F31D,Travel & Places,sky & weather,1F31D,fully-qualified,E1.0 full moon face,🌝,Travel & places
+0x1f41d,35,0.734687255,5,17,13,HONEYBEE,Miscellaneous Symbols and Pictographs,1F41D,Animals & Nature,animal-bug,1F41D,fully-qualified,E0.6 honeybee,🐝,Animals & Nature
+0x1f31d,34,0.718124589,5,17,12,FULL MOON WITH FACE,Miscellaneous Symbols and Pictographs,1F31D,Travel & Places,sky & weather,1F31D,fully-qualified,E1.0 full moon face,🌝,Travel & Places
 0x1f50b,34,0.583005086,22,8,4,BATTERY,Miscellaneous Symbols and Pictographs,1F50B,Objects,computer,1F50B,fully-qualified,E0.6 battery,🔋,Objects
-0x1f40d,34,0.622534826,3,15,16,SNAKE,Miscellaneous Symbols and Pictographs,1F40D,Animals & Nature,animal-reptile,1F40D,fully-qualified,E0.6 snake,🐍,Animals & nature
-0x1f373,33,0.798473001,13,6,14,COOKING,Miscellaneous Symbols and Pictographs,1F373,Food & Drink,food-prepared,1F373,fully-qualified,E0.6 cooking,🍳,Food & drink
+0x1f40d,34,0.622534826,3,15,16,SNAKE,Miscellaneous Symbols and Pictographs,1F40D,Animals & Nature,animal-reptile,1F40D,fully-qualified,E0.6 snake,🐍,Animals & Nature
+0x1f373,33,0.798473001,13,6,14,COOKING,Miscellaneous Symbols and Pictographs,1F373,Food & Drink,food-prepared,1F373,fully-qualified,E0.6 cooking,🍳,Food & Drink
 0x1f535,33,0.680543536,4,14,15,LARGE BLUE CIRCLE,Miscellaneous Symbols and Pictographs,1F535,Symbols,geometric,1F535,fully-qualified,E0.6 blue circle,🔵,Symbols
-0x1f63e,33,0.914644696,20,5,8,POUTING CAT FACE,Emoticons,1F63E,Smileys & Emotion,cat-face,1F63E,fully-qualified,E0.6 pouting cat,😾,Smileys & emotion
-0x1f315,33,0.641921506,3,7,23,FULL MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F315,Travel & Places,sky & weather,1F315,fully-qualified,E0.6 full moon,🌕,Travel & places
-0x1f428,33,0.696298274,4,9,20,KOALA,Miscellaneous Symbols and Pictographs,1F428,Animals & Nature,animal-mammal,1F428,fully-qualified,E0.6 koala,🐨,Animals & nature
+0x1f63e,33,0.914644696,20,5,8,POUTING CAT FACE,Emoticons,1F63E,Smileys & Emotion,cat-face,1F63E,fully-qualified,E0.6 pouting cat,😾,Smileys & Emotion
+0x1f315,33,0.641921506,3,7,23,FULL MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F315,Travel & Places,sky & weather,1F315,fully-qualified,E0.6 full moon,🌕,Travel & Places
+0x1f428,33,0.696298274,4,9,20,KOALA,Miscellaneous Symbols and Pictographs,1F428,Animals & Nature,animal-mammal,1F428,fully-qualified,E0.6 koala,🐨,Animals & Nature
 0x1f510,33,0.845213961,6,9,18,CLOSED LOCK WITH KEY,Miscellaneous Symbols and Pictographs,1F510,Objects,lock,1F510,fully-qualified,E0.6 locked with key,🔐,Objects
 0x1f4bf,33,0.444466092,0,11,22,OPTICAL DISC,Miscellaneous Symbols and Pictographs,1F4BF,Objects,computer,1F4BF,fully-qualified,E0.6 optical disk,💿,Objects
-0x1f333,32,0.536180131,2,11,19,DECIDUOUS TREE,Miscellaneous Symbols and Pictographs,1F333,Animals & Nature,plant-other,1F333,fully-qualified,E1.0 deciduous tree,🌳,Animals & nature
-0x1f470,32,0.787391801,3,9,20,BRIDE WITH VEIL,Miscellaneous Symbols and Pictographs,1F470,People & Body,person-role,1F470,fully-qualified,E0.6 person with veil,👰,People & body
-0x2693,32,0.592872704,2,8,22,ANCHOR,Miscellaneous Symbols,2693,Travel & Places,transport-water,2693,fully-qualified,E0.6 anchor,⚓,Travel & places
-0x1f6b4,32,0.573441922,0,9,23,BICYCLIST,Transport and Map Symbols,1F6B4,People & Body,person-sport,1F6B4,fully-qualified,E1.0 person biking,🚴,People & body
+0x1f333,32,0.536180131,2,11,19,DECIDUOUS TREE,Miscellaneous Symbols and Pictographs,1F333,Animals & Nature,plant-other,1F333,fully-qualified,E1.0 deciduous tree,🌳,Animals & Nature
+0x1f470,32,0.787391801,3,9,20,BRIDE WITH VEIL,Miscellaneous Symbols and Pictographs,1F470,People & Body,person-role,1F470,fully-qualified,E0.6 person with veil,👰,People & Body
+0x2693,32,0.592872704,2,8,22,ANCHOR,Miscellaneous Symbols,2693,Travel & Places,transport-water,2693,fully-qualified,E0.6 anchor,⚓,Travel & Places
+0x1f6b4,32,0.573441922,0,9,23,BICYCLIST,Transport and Map Symbols,1F6B4,People & Body,person-sport,1F6B4,fully-qualified,E1.0 person biking,🚴,People & Body
 0x1f457,31,0.703059819,5,13,13,DRESS,Miscellaneous Symbols and Pictographs,1F457,Objects,clothing,1F457,fully-qualified,E0.6 dress,👗,Objects
 0x2795,31,0.034111266,4,5,22,HEAVY PLUS SIGN,Dingbats,2795,Symbols,math,2795,fully-qualified,E0.6 plus,➕,Symbols
-0x1f4ac,30,0.635322751,4,10,16,SPEECH BALLOON,Miscellaneous Symbols and Pictographs,1F4AC,Smileys & Emotion,emotion,1F4AC,fully-qualified,E0.6 speech balloon,💬,Smileys & emotion
+0x1f4ac,30,0.635322751,4,10,16,SPEECH BALLOON,Miscellaneous Symbols and Pictographs,1F4AC,Smileys & Emotion,emotion,1F4AC,fully-qualified,E0.6 speech balloon,💬,Smileys & Emotion
 0x1f51c,30,0.606237062,5,11,14,SOON WITH RIGHTWARDS ARROW ABOVE,Miscellaneous Symbols and Pictographs,1F51C,Symbols,arrow,1F51C,fully-qualified,E0.6 SOON arrow,🔜,Symbols
-0x1f368,30,0.656537195,8,7,15,ICE CREAM,Miscellaneous Symbols and Pictographs,1F368,Food & Drink,food-sweet,1F368,fully-qualified,E0.6 ice cream,🍨,Food & drink
+0x1f368,30,0.656537195,8,7,15,ICE CREAM,Miscellaneous Symbols and Pictographs,1F368,Food & Drink,food-sweet,1F368,fully-qualified,E0.6 ice cream,🍨,Food & Drink
 0x1f4b2,30,0.793676272,0,22,8,HEAVY DOLLAR SIGN,Miscellaneous Symbols and Pictographs,1F4B2,Symbols,currency,1F4B2,fully-qualified,E0.6 heavy dollar sign,💲,Symbols
-0x26fd,30,0.287349631,1,23,6,FUEL PUMP,Miscellaneous Symbols,26FD,Travel & Places,transport-ground,26FD,fully-qualified,E0.6 fuel pump,⛽,Travel & places
-0x1f359,29,0.566487361,5,10,14,RICE BALL,Miscellaneous Symbols and Pictographs,1F359,Food & Drink,food-asian,1F359,fully-qualified,E0.6 rice ball,🍙,Food & drink
-0x1f357,29,0.674706178,9,9,11,POULTRY LEG,Miscellaneous Symbols and Pictographs,1F357,Food & Drink,food-prepared,1F357,fully-qualified,E0.6 poultry leg,🍗,Food & drink
-0x1f372,29,0.672925496,7,11,11,POT OF FOOD,Miscellaneous Symbols and Pictographs,1F372,Food & Drink,food-prepared,1F372,fully-qualified,E0.6 pot of food,🍲,Food & drink
-0x1f365,29,0.57963379,22,4,3,FISH CAKE WITH SWIRL DESIGN,Miscellaneous Symbols and Pictographs,1F365,Food & Drink,food-asian,1F365,fully-qualified,E0.6 fish cake with swirl,🍥,Food & drink
-0x1f63c,28,0.855991066,5,7,16,CAT FACE WITH WRY SMILE,Emoticons,1F63C,Smileys & Emotion,cat-face,1F63C,fully-qualified,E0.6 cat with wry smile,😼,Smileys & emotion
-0x1f419,28,0.677637628,2,12,14,OCTOPUS,Miscellaneous Symbols and Pictographs,1F419,Animals & Nature,animal-marine,1F419,fully-qualified,E0.6 octopus,🐙,Animals & nature
-0x1f468,28,0.693754806,2,8,18,MAN,Miscellaneous Symbols and Pictographs,1F468,People & Body,person,1F468,fully-qualified,E0.6 man,👨,People & body
-0x1f35a,28,0.636903275,6,2,20,COOKED RICE,Miscellaneous Symbols and Pictographs,1F35A,Food & Drink,food-asian,1F35A,fully-qualified,E0.6 cooked rice,🍚,Food & drink
-0x1f356,28,0.678553575,7,10,11,MEAT ON BONE,Miscellaneous Symbols and Pictographs,1F356,Food & Drink,food-prepared,1F356,fully-qualified,E0.6 meat on bone,🍖,Food & drink
+0x26fd,30,0.287349631,1,23,6,FUEL PUMP,Miscellaneous Symbols,26FD,Travel & Places,transport-ground,26FD,fully-qualified,E0.6 fuel pump,⛽,Travel & Places
+0x1f359,29,0.566487361,5,10,14,RICE BALL,Miscellaneous Symbols and Pictographs,1F359,Food & Drink,food-asian,1F359,fully-qualified,E0.6 rice ball,🍙,Food & Drink
+0x1f357,29,0.674706178,9,9,11,POULTRY LEG,Miscellaneous Symbols and Pictographs,1F357,Food & Drink,food-prepared,1F357,fully-qualified,E0.6 poultry leg,🍗,Food & Drink
+0x1f372,29,0.672925496,7,11,11,POT OF FOOD,Miscellaneous Symbols and Pictographs,1F372,Food & Drink,food-prepared,1F372,fully-qualified,E0.6 pot of food,🍲,Food & Drink
+0x1f365,29,0.57963379,22,4,3,FISH CAKE WITH SWIRL DESIGN,Miscellaneous Symbols and Pictographs,1F365,Food & Drink,food-asian,1F365,fully-qualified,E0.6 fish cake with swirl,🍥,Food & Drink
+0x1f63c,28,0.855991066,5,7,16,CAT FACE WITH WRY SMILE,Emoticons,1F63C,Smileys & Emotion,cat-face,1F63C,fully-qualified,E0.6 cat with wry smile,😼,Smileys & Emotion
+0x1f419,28,0.677637628,2,12,14,OCTOPUS,Miscellaneous Symbols and Pictographs,1F419,Animals & Nature,animal-marine,1F419,fully-qualified,E0.6 octopus,🐙,Animals & Nature
+0x1f468,28,0.693754806,2,8,18,MAN,Miscellaneous Symbols and Pictographs,1F468,People & Body,person,1F468,fully-qualified,E0.6 man,👨,People & Body
+0x1f35a,28,0.636903275,6,2,20,COOKED RICE,Miscellaneous Symbols and Pictographs,1F35A,Food & Drink,food-asian,1F35A,fully-qualified,E0.6 cooked rice,🍚,Food & Drink
+0x1f356,28,0.678553575,7,10,11,MEAT ON BONE,Miscellaneous Symbols and Pictographs,1F356,Food & Drink,food-prepared,1F356,fully-qualified,E0.6 meat on bone,🍖,Food & Drink
 0x2668,28,0.664942237,0,1,27,HOT SPRINGS,Miscellaneous Symbols,2668,Travel & Places,place-other,2668,unqualified,E0.6 hot springs,♨,Symbols
 0x1f3b9,28,0.466337612,0,17,11,MUSICAL KEYBOARD,Miscellaneous Symbols and Pictographs,1F3B9,Objects,musical-instrument,1F3B9,fully-qualified,E0.6 musical keyboard,🎹,Objects
-0x1f698,27,0.649502793,8,9,10,ONCOMING AUTOMOBILE,Transport and Map Symbols,1F698,Travel & Places,transport-ground,1F698,fully-qualified,E0.7 oncoming automobile,🚘,Travel & places
-0x1f34f,27,0.85243179,7,11,9,GREEN APPLE,Miscellaneous Symbols and Pictographs,1F34F,Food & Drink,food-fruit,1F34F,fully-qualified,E0.6 green apple,🍏,Food & drink
-0x1f469,27,0.731773327,9,7,11,WOMAN,Miscellaneous Symbols and Pictographs,1F469,People & Body,person,1F469,fully-qualified,E0.6 woman,👩,People & body
-0x1f466,27,0.606457886,5,13,9,BOY,Miscellaneous Symbols and Pictographs,1F466,People & Body,person,1F466,fully-qualified,E0.6 boy,👦,People & body
+0x1f698,27,0.649502793,8,9,10,ONCOMING AUTOMOBILE,Transport and Map Symbols,1F698,Travel & Places,transport-ground,1F698,fully-qualified,E0.7 oncoming automobile,🚘,Travel & Places
+0x1f34f,27,0.85243179,7,11,9,GREEN APPLE,Miscellaneous Symbols and Pictographs,1F34F,Food & Drink,food-fruit,1F34F,fully-qualified,E0.6 green apple,🍏,Food & Drink
+0x1f469,27,0.731773327,9,7,11,WOMAN,Miscellaneous Symbols and Pictographs,1F469,People & Body,person,1F469,fully-qualified,E0.6 woman,👩,People & Body
+0x1f466,27,0.606457886,5,13,9,BOY,Miscellaneous Symbols and Pictographs,1F466,People & Body,person,1F466,fully-qualified,E0.6 boy,👦,People & Body
 0x2620,27,0.748862198,7,14,6,SKULL AND CROSSBONES,Miscellaneous Symbols,2620,Smileys & Emotion,face-negative,2620,unqualified,E1.0 skull and crossbones,☠,Symbols
-0x1f420,26,0.767680777,4,6,16,TROPICAL FISH,Miscellaneous Symbols and Pictographs,1F420,Animals & Nature,animal-marine,1F420,fully-qualified,E0.6 tropical fish,🐠,Animals & nature
+0x1f420,26,0.767680777,4,6,16,TROPICAL FISH,Miscellaneous Symbols and Pictographs,1F420,Animals & Nature,animal-marine,1F420,fully-qualified,E0.6 tropical fish,🐠,Animals & Nature
 0x1f6b9,26,0.811646698,1,4,21,MENS SYMBOL,Transport and Map Symbols,1F6B9,Symbols,transport-sign,1F6B9,fully-qualified,E0.6 men’s room,🚹,Symbols
 0x1f4b5,26,0.806506343,3,9,14,BANKNOTE WITH DOLLAR SIGN,Miscellaneous Symbols and Pictographs,1F4B5,Objects,money,1F4B5,fully-qualified,E0.6 dollar banknote,💵,Objects
 0x1f45b,25,0.696359786,4,7,14,PURSE,Miscellaneous Symbols and Pictographs,1F45B,Objects,clothing,1F45B,fully-qualified,E0.6 purse,👛,Objects
-0x1f699,25,0.653234313,5,14,6,RECREATIONAL VEHICLE,Transport and Map Symbols,1F699,Travel & Places,transport-ground,1F699,fully-qualified,E0.6 sport utility vehicle,🚙,Travel & places
-0x1f331,25,0.561338235,0,9,16,SEEDLING,Miscellaneous Symbols and Pictographs,1F331,Animals & Nature,plant-other,1F331,fully-qualified,E0.6 seedling,🌱,Animals & nature
+0x1f699,25,0.653234313,5,14,6,RECREATIONAL VEHICLE,Transport and Map Symbols,1F699,Travel & Places,transport-ground,1F699,fully-qualified,E0.6 sport utility vehicle,🚙,Travel & Places
+0x1f331,25,0.561338235,0,9,16,SEEDLING,Miscellaneous Symbols and Pictographs,1F331,Animals & Nature,plant-other,1F331,fully-qualified,E0.6 seedling,🌱,Animals & Nature
 0x1f4bb,25,0.489415613,1,16,8,PERSONAL COMPUTER,Miscellaneous Symbols and Pictographs,1F4BB,Objects,computer,1F4BB,fully-qualified,E0.6 laptop,💻,Objects
-0x1f30f,25,0.681460526,3,10,12,EARTH GLOBE ASIA-AUSTRALIA,Miscellaneous Symbols and Pictographs,1F30F,Travel & Places,place-map,1F30F,fully-qualified,E0.6 globe showing Asia-Australia,🌏,Travel & places
+0x1f30f,25,0.681460526,3,10,12,EARTH GLOBE ASIA-AUSTRALIA,Miscellaneous Symbols and Pictographs,1F30F,Travel & Places,place-map,1F30F,fully-qualified,E0.6 globe showing Asia-Australia,🌏,Travel & Places
 0x1f453,24,0.514451688,0,16,8,EYEGLASSES,Miscellaneous Symbols and Pictographs,1F453,Objects,clothing,1F453,fully-qualified,E0.6 glasses,👓,Objects
 0x26be,24,0.213609507,9,7,8,BASEBALL,Miscellaneous Symbols,26BE,Activities,sport,26BE,fully-qualified,E0.6 baseball,⚾,Activities
-0x1f332,23,0.496443035,2,9,12,EVERGREEN TREE,Miscellaneous Symbols and Pictographs,1F332,Animals & Nature,plant-other,1F332,fully-qualified,E1.0 evergreen tree,🌲,Animals & nature
-0x1f474,23,0.783858479,5,7,11,OLDER MAN,Miscellaneous Symbols and Pictographs,1F474,People & Body,person,1F474,fully-qualified,E0.6 old man,👴,People & body
-0x1f3e0,23,0.641777733,1,8,14,HOUSE BUILDING,Miscellaneous Symbols and Pictographs,1F3E0,Travel & Places,place-building,1F3E0,fully-qualified,E0.6 house,🏠,Travel & places
-0x1f347,23,0.583781365,5,6,12,GRAPES,Miscellaneous Symbols and Pictographs,1F347,Food & Drink,food-fruit,1F347,fully-qualified,E0.6 grapes,🍇,Food & drink
-0x1f358,23,0.620778046,5,3,15,RICE CRACKER,Miscellaneous Symbols and Pictographs,1F358,Food & Drink,food-asian,1F358,fully-qualified,E0.6 rice cracker,🍘,Food & drink
-0x1f35b,23,0.585489158,8,6,9,CURRY AND RICE,Miscellaneous Symbols and Pictographs,1F35B,Food & Drink,food-asian,1F35B,fully-qualified,E0.6 curry rice,🍛,Food & drink
-0x1f407,23,0.96735812,4,9,10,RABBIT,Miscellaneous Symbols and Pictographs,1F407,Animals & Nature,animal-mammal,1F407,fully-qualified,E1.0 rabbit,🐇,Animals & nature
+0x1f332,23,0.496443035,2,9,12,EVERGREEN TREE,Miscellaneous Symbols and Pictographs,1F332,Animals & Nature,plant-other,1F332,fully-qualified,E1.0 evergreen tree,🌲,Animals & Nature
+0x1f474,23,0.783858479,5,7,11,OLDER MAN,Miscellaneous Symbols and Pictographs,1F474,People & Body,person,1F474,fully-qualified,E0.6 old man,👴,People & Body
+0x1f3e0,23,0.641777733,1,8,14,HOUSE BUILDING,Miscellaneous Symbols and Pictographs,1F3E0,Travel & Places,place-building,1F3E0,fully-qualified,E0.6 house,🏠,Travel & Places
+0x1f347,23,0.583781365,5,6,12,GRAPES,Miscellaneous Symbols and Pictographs,1F347,Food & Drink,food-fruit,1F347,fully-qualified,E0.6 grapes,🍇,Food & Drink
+0x1f358,23,0.620778046,5,3,15,RICE CRACKER,Miscellaneous Symbols and Pictographs,1F358,Food & Drink,food-asian,1F358,fully-qualified,E0.6 rice cracker,🍘,Food & Drink
+0x1f35b,23,0.585489158,8,6,9,CURRY AND RICE,Miscellaneous Symbols and Pictographs,1F35B,Food & Drink,food-asian,1F35B,fully-qualified,E0.6 curry rice,🍛,Food & Drink
+0x1f407,23,0.96735812,4,9,10,RABBIT,Miscellaneous Symbols and Pictographs,1F407,Animals & Nature,animal-mammal,1F407,fully-qualified,E1.0 rabbit,🐇,Animals & Nature
 0x1f51e,23,0.814490975,6,12,5,NO ONE UNDER EIGHTEEN SYMBOL,Miscellaneous Symbols and Pictographs,1F51E,Symbols,warning,1F51E,fully-qualified,E0.6 no one under eighteen,🔞,Symbols
-0x1f475,23,0.818006874,5,2,16,OLDER WOMAN,Miscellaneous Symbols and Pictographs,1F475,People & Body,person,1F475,fully-qualified,E0.6 old woman,👵,People & body
+0x1f475,23,0.818006874,5,2,16,OLDER WOMAN,Miscellaneous Symbols and Pictographs,1F475,People & Body,person,1F475,fully-qualified,E0.6 old woman,👵,People & Body
 0x25c0,23,0.221018064,0,16,7,BLACK LEFT-POINTING TRIANGLE,Geometric Shapes,25C0,Symbols,av-symbol,25C0,unqualified,E0.6 reverse button,◀,Symbols
 0x1f519,23,0.143848565,2,14,7,BACK WITH LEFTWARDS ARROW ABOVE,Miscellaneous Symbols and Pictographs,1F519,Symbols,arrow,1F519,fully-qualified,E0.6 BACK arrow,🔙,Symbols
-0x1f335,23,0.670060172,6,6,11,CACTUS,Miscellaneous Symbols and Pictographs,1F335,Animals & Nature,plant-other,1F335,fully-qualified,E0.6 cactus,🌵,Animals & nature
-0x1f43d,22,0.647826714,5,9,8,PIG NOSE,Miscellaneous Symbols and Pictographs,1F43D,Animals & Nature,animal-mammal,1F43D,fully-qualified,E0.6 pig nose,🐽,Animals & nature
-0x1f36e,22,0.701402915,10,5,7,CUSTARD,Miscellaneous Symbols and Pictographs,1F36E,Food & Drink,food-sweet,1F36E,fully-qualified,E0.6 custard,🍮,Food & drink
+0x1f335,23,0.670060172,6,6,11,CACTUS,Miscellaneous Symbols and Pictographs,1F335,Animals & Nature,plant-other,1F335,fully-qualified,E0.6 cactus,🌵,Animals & Nature
+0x1f43d,22,0.647826714,5,9,8,PIG NOSE,Miscellaneous Symbols and Pictographs,1F43D,Animals & Nature,animal-mammal,1F43D,fully-qualified,E0.6 pig nose,🐽,Animals & Nature
+0x1f36e,22,0.701402915,10,5,7,CUSTARD,Miscellaneous Symbols and Pictographs,1F36E,Food & Drink,food-sweet,1F36E,fully-qualified,E0.6 custard,🍮,Food & Drink
 0x1f387,22,0.820989335,1,3,18,FIREWORK SPARKLER,Miscellaneous Symbols and Pictographs,1F387,Activities,event,1F387,fully-qualified,E0.6 sparkler,🎇,Activities
-0x1f40e,22,0.698088195,2,8,12,HORSE,Miscellaneous Symbols and Pictographs,1F40E,Animals & Nature,animal-mammal,1F40E,fully-qualified,E0.6 horse,🐎,Animals & nature
+0x1f40e,22,0.698088195,2,8,12,HORSE,Miscellaneous Symbols and Pictographs,1F40E,Animals & Nature,animal-mammal,1F40E,fully-qualified,E0.6 horse,🐎,Animals & Nature
 0x1f4b6,22,0.748289907,3,16,3,BANKNOTE WITH EURO SIGN,Miscellaneous Symbols and Pictographs,1F4B6,Objects,money,1F4B6,fully-qualified,E1.0 euro banknote,💶,Objects
-0x1f424,22,0.838037285,1,7,14,BABY CHICK,Miscellaneous Symbols and Pictographs,1F424,Animals & Nature,animal-bird,1F424,fully-qualified,E0.6 baby chick,🐤,Animals & nature
-0x1f6c0,21,0.904298381,6,6,9,BATH,Transport and Map Symbols,1F6C0,People & Body,person-resting,1F6C0,fully-qualified,E0.6 person taking bath,🛀,People & body
-0x1f311,21,0.603915537,2,6,13,NEW MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F311,Travel & Places,sky & weather,1F311,fully-qualified,E0.6 new moon,🌑,Travel & places
-0x1f6b2,21,0.582675365,1,10,10,BICYCLE,Transport and Map Symbols,1F6B2,Travel & Places,transport-ground,1F6B2,fully-qualified,E0.6 bicycle,🚲,Travel & places
-0x1f411,21,0.921935783,6,13,2,SHEEP,Miscellaneous Symbols and Pictographs,1F411,Animals & Nature,animal-mammal,1F411,fully-qualified,E0.6 ewe,🐑,Animals & nature
+0x1f424,22,0.838037285,1,7,14,BABY CHICK,Miscellaneous Symbols and Pictographs,1F424,Animals & Nature,animal-bird,1F424,fully-qualified,E0.6 baby chick,🐤,Animals & Nature
+0x1f6c0,21,0.904298381,6,6,9,BATH,Transport and Map Symbols,1F6C0,People & Body,person-resting,1F6C0,fully-qualified,E0.6 person taking bath,🛀,People & Body
+0x1f311,21,0.603915537,2,6,13,NEW MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F311,Travel & Places,sky & weather,1F311,fully-qualified,E0.6 new moon,🌑,Travel & Places
+0x1f6b2,21,0.582675365,1,10,10,BICYCLE,Transport and Map Symbols,1F6B2,Travel & Places,transport-ground,1F6B2,fully-qualified,E0.6 bicycle,🚲,Travel & Places
+0x1f411,21,0.921935783,6,13,2,SHEEP,Miscellaneous Symbols and Pictographs,1F411,Animals & Nature,animal-mammal,1F411,fully-qualified,E0.6 ewe,🐑,Animals & Nature
 0x1f3c1,21,0.618314821,0,9,12,CHEQUERED FLAG,Miscellaneous Symbols and Pictographs,1F3C1,Flags,flag,1F3C1,fully-qualified,E0.6 chequered flag,🏁,Flags
-0x1f35e,21,0.710838498,6,8,7,BREAD,Miscellaneous Symbols and Pictographs,1F35E,Food & Drink,food-prepared,1F35E,fully-qualified,E0.6 bread,🍞,Food & drink
+0x1f35e,21,0.710838498,6,8,7,BREAD,Miscellaneous Symbols and Pictographs,1F35E,Food & Drink,food-prepared,1F35E,fully-qualified,E0.6 bread,🍞,Food & Drink
 0x1f3be,21,0.820392839,2,4,15,TENNIS RACQUET AND BALL,Miscellaneous Symbols and Pictographs,1F3BE,Activities,sport,1F3BE,fully-qualified,E0.6 tennis,🎾,Activities
 0x1f239,21,0.349907717,1,12,8,SQUARED CJK UNIFIED IDEOGRAPH-5272,Enclosed Ideographic Supplement,1F239,Symbols,alphanum,1F239,fully-qualified,E0.6 Japanese “discount” button,🈹,Symbols
-0x1f433,20,0.65571861,4,9,7,SPOUTING WHALE,Miscellaneous Symbols and Pictographs,1F433,Animals & Nature,animal-marine,1F433,fully-qualified,E0.6 spouting whale,🐳,Animals & nature
-0x1f46e,20,0.742230559,10,8,2,POLICE OFFICER,Miscellaneous Symbols and Pictographs,1F46E,People & Body,person-role,1F46E,fully-qualified,E0.6 police officer,👮,People & body
+0x1f433,20,0.65571861,4,9,7,SPOUTING WHALE,Miscellaneous Symbols and Pictographs,1F433,Animals & Nature,animal-marine,1F433,fully-qualified,E0.6 spouting whale,🐳,Animals & Nature
+0x1f46e,20,0.742230559,10,8,2,POLICE OFFICER,Miscellaneous Symbols and Pictographs,1F46E,People & Body,person-role,1F46E,fully-qualified,E0.6 police officer,👮,People & Body
 0x2639,20,0.776559964,14,4,2,WHITE FROWNING FACE,Miscellaneous Symbols,2639,Smileys & Emotion,face-concerned,2639,unqualified,E0.7 frowning face,☹,Smileys & Emotion
-0x1f435,20,0.63050797,1,7,12,MONKEY FACE,Miscellaneous Symbols and Pictographs,1F435,Animals & Nature,animal-mammal,1F435,fully-qualified,E0.6 monkey face,🐵,Animals & nature
-0x1f5fc,20,0.653788547,1,6,13,TOKYO TOWER,Miscellaneous Symbols and Pictographs,1F5FC,Travel & Places,place-building,1F5FC,fully-qualified,E0.6 Tokyo tower,🗼,Travel & places
+0x1f435,20,0.63050797,1,7,12,MONKEY FACE,Miscellaneous Symbols and Pictographs,1F435,Animals & Nature,animal-mammal,1F435,fully-qualified,E0.6 monkey face,🐵,Animals & Nature
+0x1f5fc,20,0.653788547,1,6,13,TOKYO TOWER,Miscellaneous Symbols and Pictographs,1F5FC,Travel & Places,place-building,1F5FC,fully-qualified,E0.6 Tokyo tower,🗼,Travel & Places
 0x2660,20,0.533120829,0,13,7,BLACK SPADE SUIT,Miscellaneous Symbols,2660,Activities,game,2660,unqualified,E0.6 spade suit,♠,Symbols
-0x1f47a,19,0.824824563,8,7,4,JAPANESE GOBLIN,Miscellaneous Symbols and Pictographs,1F47A,Smileys & Emotion,face-costume,1F47A,fully-qualified,E0.6 goblin,👺,Smileys & emotion
-0x1f41a,19,0.526458845,1,12,6,SPIRAL SHELL,Miscellaneous Symbols and Pictographs,1F41A,Animals & Nature,animal-marine,1F41A,fully-qualified,E0.6 spiral shell,🐚,Animals & nature
-0x1f442,19,0.68212761,7,8,4,EAR,Miscellaneous Symbols and Pictographs,1F442,People & Body,body-parts,1F442,fully-qualified,E0.6 ear,👂,People & body
-0x1f5fd,19,0.651087541,1,10,8,STATUE OF LIBERTY,Miscellaneous Symbols and Pictographs,1F5FD,Travel & Places,place-building,1F5FD,fully-qualified,E0.6 Statue of Liberty,🗽,Travel & places
-0x1f375,19,0.650326294,3,5,11,TEACUP WITHOUT HANDLE,Miscellaneous Symbols and Pictographs,1F375,Food & Drink,drink,1F375,fully-qualified,E0.6 teacup without handle,🍵,Food & drink
+0x1f47a,19,0.824824563,8,7,4,JAPANESE GOBLIN,Miscellaneous Symbols and Pictographs,1F47A,Smileys & Emotion,face-costume,1F47A,fully-qualified,E0.6 goblin,👺,Smileys & Emotion
+0x1f41a,19,0.526458845,1,12,6,SPIRAL SHELL,Miscellaneous Symbols and Pictographs,1F41A,Animals & Nature,animal-marine,1F41A,fully-qualified,E0.6 spiral shell,🐚,Animals & Nature
+0x1f442,19,0.68212761,7,8,4,EAR,Miscellaneous Symbols and Pictographs,1F442,People & Body,body-parts,1F442,fully-qualified,E0.6 ear,👂,People & Body
+0x1f5fd,19,0.651087541,1,10,8,STATUE OF LIBERTY,Miscellaneous Symbols and Pictographs,1F5FD,Travel & Places,place-building,1F5FD,fully-qualified,E0.6 Statue of Liberty,🗽,Travel & Places
+0x1f375,19,0.650326294,3,5,11,TEACUP WITHOUT HANDLE,Miscellaneous Symbols and Pictographs,1F375,Food & Drink,drink,1F375,fully-qualified,E0.6 teacup without handle,🍵,Food & Drink
 0x1f192,19,0.627794041,0,11,8,SQUARED COOL,Enclosed Alphanumeric Supplement,1F192,Symbols,alphanum,1F192,fully-qualified,E0.6 COOL button,🆒,Symbols
-0x1f36f,19,0.779822828,7,4,8,HONEY POT,Miscellaneous Symbols and Pictographs,1F36F,Food & Drink,food-sweet,1F36F,fully-qualified,E0.6 honey pot,🍯,Food & drink
-0x1f43a,19,0.734916913,2,10,7,WOLF FACE,Miscellaneous Symbols and Pictographs,1F43A,Animals & Nature,animal-mammal,1F43A,fully-qualified,E0.6 wolf,🐺,Animals & nature
-0x1f313,19,0.458297394,0,6,13,FIRST QUARTER MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F313,Travel & Places,sky & weather,1F313,fully-qualified,E0.6 first quarter moon,🌓,Travel & places
+0x1f36f,19,0.779822828,7,4,8,HONEY POT,Miscellaneous Symbols and Pictographs,1F36F,Food & Drink,food-sweet,1F36F,fully-qualified,E0.6 honey pot,🍯,Food & Drink
+0x1f43a,19,0.734916913,2,10,7,WOLF FACE,Miscellaneous Symbols and Pictographs,1F43A,Animals & Nature,animal-mammal,1F43A,fully-qualified,E0.6 wolf,🐺,Animals & Nature
+0x1f313,19,0.458297394,0,6,13,FIRST QUARTER MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F313,Travel & Places,sky & weather,1F313,fully-qualified,E0.6 first quarter moon,🌓,Travel & Places
 0x1f512,19,0.939297049,5,5,9,LOCK,Miscellaneous Symbols and Pictographs,1F512,Objects,lock,1F512,fully-qualified,E0.6 locked,🔒,Objects
-0x1f473,18,0.816081393,2,1,15,MAN WITH TURBAN,Miscellaneous Symbols and Pictographs,1F473,People & Body,person-role,1F473,fully-qualified,E0.6 person wearing turban,👳,People & body
-0x1f302,18,0.784983076,2,9,7,CLOSED UMBRELLA,Miscellaneous Symbols and Pictographs,1F302,Travel & Places,sky & weather,1F302,fully-qualified,E0.6 closed umbrella,🌂,Travel & places
-0x1f68c,18,0.635613322,2,10,6,BUS,Transport and Map Symbols,1F68C,Travel & Places,transport-ground,1F68C,fully-qualified,E0.6 bus,🚌,Travel & places
-0x1f361,18,0.699734257,5,9,4,DANGO,Miscellaneous Symbols and Pictographs,1F361,Food & Drink,food-asian,1F361,fully-qualified,E0.6 dango,🍡,Food & drink
-0x1f3a1,18,0.506097489,1,10,7,FERRIS WHEEL,Miscellaneous Symbols and Pictographs,1F3A1,Travel & Places,place-other,1F3A1,fully-qualified,E0.6 ferris wheel,🎡,Travel & places
-0x1f48c,17,0.805000544,2,3,12,LOVE LETTER,Miscellaneous Symbols and Pictographs,1F48C,Smileys & Emotion,heart,1F48C,fully-qualified,E0.6 love letter,💌,Smileys & emotion
-0x1f429,17,0.87034228,0,10,7,POODLE,Miscellaneous Symbols and Pictographs,1F429,Animals & Nature,animal-mammal,1F429,fully-qualified,E0.6 poodle,🐩,Animals & nature
-0x1f31c,17,0.604117045,0,7,10,LAST QUARTER MOON WITH FACE,Miscellaneous Symbols and Pictographs,1F31C,Travel & Places,sky & weather,1F31C,fully-qualified,E0.7 last quarter moon face,🌜,Travel & places
-0x231a,17,0.64929786,2,9,6,WATCH,Miscellaneous Technical,231A,Travel & Places,time,231A,fully-qualified,E0.6 watch,⌚,Travel & places
+0x1f473,18,0.816081393,2,1,15,MAN WITH TURBAN,Miscellaneous Symbols and Pictographs,1F473,People & Body,person-role,1F473,fully-qualified,E0.6 person wearing turban,👳,People & Body
+0x1f302,18,0.784983076,2,9,7,CLOSED UMBRELLA,Miscellaneous Symbols and Pictographs,1F302,Travel & Places,sky & weather,1F302,fully-qualified,E0.6 closed umbrella,🌂,Travel & Places
+0x1f68c,18,0.635613322,2,10,6,BUS,Transport and Map Symbols,1F68C,Travel & Places,transport-ground,1F68C,fully-qualified,E0.6 bus,🚌,Travel & Places
+0x1f361,18,0.699734257,5,9,4,DANGO,Miscellaneous Symbols and Pictographs,1F361,Food & Drink,food-asian,1F361,fully-qualified,E0.6 dango,🍡,Food & Drink
+0x1f3a1,18,0.506097489,1,10,7,FERRIS WHEEL,Miscellaneous Symbols and Pictographs,1F3A1,Travel & Places,place-other,1F3A1,fully-qualified,E0.6 ferris wheel,🎡,Travel & Places
+0x1f48c,17,0.805000544,2,3,12,LOVE LETTER,Miscellaneous Symbols and Pictographs,1F48C,Smileys & Emotion,heart,1F48C,fully-qualified,E0.6 love letter,💌,Smileys & Emotion
+0x1f429,17,0.87034228,0,10,7,POODLE,Miscellaneous Symbols and Pictographs,1F429,Animals & Nature,animal-mammal,1F429,fully-qualified,E0.6 poodle,🐩,Animals & Nature
+0x1f31c,17,0.604117045,0,7,10,LAST QUARTER MOON WITH FACE,Miscellaneous Symbols and Pictographs,1F31C,Travel & Places,sky & weather,1F31C,fully-qualified,E0.7 last quarter moon face,🌜,Travel & Places
+0x231a,17,0.64929786,2,9,6,WATCH,Miscellaneous Technical,231A,Travel & Places,time,231A,fully-qualified,E0.6 watch,⌚,Travel & Places
 0x1f6bf,17,0.669217138,1,3,13,SHOWER,Transport and Map Symbols,1F6BF,Objects,household,1F6BF,fully-qualified,E1.0 shower,🚿,Objects
-0x1f416,17,0.814054951,0,14,3,PIG,Miscellaneous Symbols and Pictographs,1F416,Animals & Nature,animal-mammal,1F416,fully-qualified,E1.0 pig,🐖,Animals & nature
+0x1f416,17,0.814054951,0,14,3,PIG,Miscellaneous Symbols and Pictographs,1F416,Animals & Nature,animal-mammal,1F416,fully-qualified,E1.0 pig,🐖,Animals & Nature
 0x1f506,17,0.604618098,0,6,11,HIGH BRIGHTNESS SYMBOL,Miscellaneous Symbols and Pictographs,1F506,Symbols,av-symbol,1F506,fully-qualified,E1.0 bright button,🔆,Symbols
-0x1f31b,17,0.679966738,0,6,11,FIRST QUARTER MOON WITH FACE,Miscellaneous Symbols and Pictographs,1F31B,Travel & Places,sky & weather,1F31B,fully-qualified,E0.6 first quarter moon face,🌛,Travel & places
-0x1f482,17,0.691282654,8,4,5,GUARDSMAN,Miscellaneous Symbols and Pictographs,1F482,People & Body,person-role,1F482,fully-qualified,E0.6 guard,💂,People & body
-0x1f414,17,0.627149273,1,9,7,CHICKEN,Miscellaneous Symbols and Pictographs,1F414,Animals & Nature,animal-bird,1F414,fully-qualified,E0.6 chicken,🐔,Animals & nature
-0x1f64e,17,0.640742988,8,2,7,PERSON WITH POUTING FACE,Emoticons,1F64E,People & Body,person-gesture,1F64E,fully-qualified,E0.6 person pouting,🙎,People & body
-0x1f3e9,16,0.587431016,2,4,10,LOVE HOTEL,Miscellaneous Symbols and Pictographs,1F3E9,Travel & Places,place-building,1F3E9,fully-qualified,E0.6 love hotel,🏩,Travel & places
+0x1f31b,17,0.679966738,0,6,11,FIRST QUARTER MOON WITH FACE,Miscellaneous Symbols and Pictographs,1F31B,Travel & Places,sky & weather,1F31B,fully-qualified,E0.6 first quarter moon face,🌛,Travel & Places
+0x1f482,17,0.691282654,8,4,5,GUARDSMAN,Miscellaneous Symbols and Pictographs,1F482,People & Body,person-role,1F482,fully-qualified,E0.6 guard,💂,People & Body
+0x1f414,17,0.627149273,1,9,7,CHICKEN,Miscellaneous Symbols and Pictographs,1F414,Animals & Nature,animal-bird,1F414,fully-qualified,E0.6 chicken,🐔,Animals & Nature
+0x1f64e,17,0.640742988,8,2,7,PERSON WITH POUTING FACE,Emoticons,1F64E,People & Body,person-gesture,1F64E,fully-qualified,E0.6 person pouting,🙎,People & Body
+0x1f3e9,16,0.587431016,2,4,10,LOVE HOTEL,Miscellaneous Symbols and Pictographs,1F3E9,Travel & Places,place-building,1F3E9,fully-qualified,E0.6 love hotel,🏩,Travel & Places
 0x1f528,16,0.738603866,6,6,4,HAMMER,Miscellaneous Symbols and Pictographs,1F528,Objects,tool,1F528,fully-qualified,E0.6 hammer,🔨,Objects
 0x1f4e2,16,0.545722402,0,8,8,PUBLIC ADDRESS LOUDSPEAKER,Miscellaneous Symbols and Pictographs,1F4E2,Objects,sound,1F4E2,fully-qualified,E0.6 loudspeaker,📢,Objects
-0x1f426,16,0.75753571,0,8,8,BIRD,Miscellaneous Symbols and Pictographs,1F426,Animals & Nature,animal-bird,1F426,fully-qualified,E0.6 bird,🐦,Animals & nature
-0x1f432,16,0.457546329,2,13,1,DRAGON FACE,Miscellaneous Symbols and Pictographs,1F432,Animals & Nature,animal-reptile,1F432,fully-qualified,E0.6 dragon face,🐲,Animals & nature
+0x1f426,16,0.75753571,0,8,8,BIRD,Miscellaneous Symbols and Pictographs,1F426,Animals & Nature,animal-bird,1F426,fully-qualified,E0.6 bird,🐦,Animals & Nature
+0x1f432,16,0.457546329,2,13,1,DRAGON FACE,Miscellaneous Symbols and Pictographs,1F432,Animals & Nature,animal-reptile,1F432,fully-qualified,E0.6 dragon face,🐲,Animals & Nature
 0x267b,16,0.438690753,0,7,9,BLACK UNIVERSAL RECYCLING SYMBOL,Miscellaneous Symbols,267B,Symbols,other-symbol,267B,unqualified,E0.6 recycling symbol,♻,Symbols
-0x1f318,16,0.577817017,0,5,11,WANING CRESCENT MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F318,Travel & Places,sky & weather,1F318,fully-qualified,E1.0 waning crescent moon,🌘,Travel & places
-0x1f350,16,0.84457574,5,3,8,PEAR,Miscellaneous Symbols and Pictographs,1F350,Food & Drink,food-fruit,1F350,fully-qualified,E1.0 pear,🍐,Food & drink
-0x1f314,16,0.447188207,0,5,11,WAXING GIBBOUS MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F314,Travel & Places,sky & weather,1F314,fully-qualified,E0.6 waxing gibbous moon,🌔,Travel & places
+0x1f318,16,0.577817017,0,5,11,WANING CRESCENT MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F318,Travel & Places,sky & weather,1F318,fully-qualified,E1.0 waning crescent moon,🌘,Travel & Places
+0x1f350,16,0.84457574,5,3,8,PEAR,Miscellaneous Symbols and Pictographs,1F350,Food & Drink,food-fruit,1F350,fully-qualified,E1.0 pear,🍐,Food & Drink
+0x1f314,16,0.447188207,0,5,11,WAXING GIBBOUS MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F314,Travel & Places,sky & weather,1F314,fully-qualified,E0.6 waxing gibbous moon,🌔,Travel & Places
 0x1f456,15,0.910194857,1,7,7,JEANS,Miscellaneous Symbols and Pictographs,1F456,Objects,clothing,1F456,fully-qualified,E0.6 jeans,👖,Objects
 0x1f6ba,15,0.677226689,2,8,5,WOMENS SYMBOL,Transport and Map Symbols,1F6BA,Symbols,transport-sign,1F6BA,fully-qualified,E0.6 women’s room,🚺,Symbols
-0x1f617,15,0.714328477,1,2,12,KISSING FACE,Emoticons,1F617,Smileys & Emotion,face-affection,1F617,fully-qualified,E1.0 kissing face,😗,Smileys & emotion
+0x1f617,15,0.714328477,1,2,12,KISSING FACE,Emoticons,1F617,Smileys & Emotion,face-affection,1F617,fully-qualified,E1.0 kissing face,😗,Smileys & Emotion
 0x1f3ad,15,0.657660049,5,5,5,PERFORMING ARTS,Miscellaneous Symbols and Pictographs,1F3AD,Activities,arts & crafts,1F3AD,fully-qualified,E0.6 performing arts,🎭,Activities
-0x1f404,15,0.825887991,2,6,7,COW,Miscellaneous Symbols and Pictographs,1F404,Animals & Nature,animal-mammal,1F404,fully-qualified,E1.0 cow,🐄,Animals & nature
-0x1f362,15,0.684276452,5,7,3,ODEN,Miscellaneous Symbols and Pictographs,1F362,Food & Drink,food-asian,1F362,fully-qualified,E0.6 oden,🍢,Food & drink
+0x1f404,15,0.825887991,2,6,7,COW,Miscellaneous Symbols and Pictographs,1F404,Animals & Nature,animal-mammal,1F404,fully-qualified,E1.0 cow,🐄,Animals & Nature
+0x1f362,15,0.684276452,5,7,3,ODEN,Miscellaneous Symbols and Pictographs,1F362,Food & Drink,food-asian,1F362,fully-qualified,E0.6 oden,🍢,Food & Drink
 0x1f3a8,15,0.490548154,1,10,4,ARTIST PALETTE,Miscellaneous Symbols and Pictographs,1F3A8,Activities,arts & crafts,1F3A8,fully-qualified,E0.6 artist palette,🎨,Activities
 0x2b07,15,0.631917187,2,4,9,DOWNWARDS BLACK ARROW,Miscellaneous Symbols and Arrows,2B07,Symbols,arrow,2B07,unqualified,E0.6 down arrow,⬇,Symbols
 0x1f6bc,15,0.692874634,0,5,10,BABY SYMBOL,Transport and Map Symbols,1F6BC,Symbols,transport-sign,1F6BC,fully-qualified,E0.6 baby symbol,🚼,Symbols
-0x26f2,15,0.697309585,1,12,2,FOUNTAIN,Miscellaneous Symbols,26F2,Travel & Places,place-other,26F2,fully-qualified,E0.6 fountain,⛲,Travel & places
-0x1f317,15,0.54681955,0,4,11,LAST QUARTER MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F317,Travel & Places,sky & weather,1F317,fully-qualified,E1.0 last quarter moon,🌗,Travel & places
-0x1f316,15,0.534539354,0,4,11,WANING GIBBOUS MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F316,Travel & Places,sky & weather,1F316,fully-qualified,E1.0 waning gibbous moon,🌖,Travel & places
+0x26f2,15,0.697309585,1,12,2,FOUNTAIN,Miscellaneous Symbols,26F2,Travel & Places,place-other,26F2,fully-qualified,E0.6 fountain,⛲,Travel & Places
+0x1f317,15,0.54681955,0,4,11,LAST QUARTER MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F317,Travel & Places,sky & weather,1F317,fully-qualified,E1.0 last quarter moon,🌗,Travel & Places
+0x1f316,15,0.534539354,0,4,11,WANING GIBBOUS MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F316,Travel & Places,sky & weather,1F316,fully-qualified,E1.0 waning gibbous moon,🌖,Travel & Places
 0x1f505,15,0.634782609,0,0,15,LOW BRIGHTNESS SYMBOL,Miscellaneous Symbols and Pictographs,1F505,Symbols,av-symbol,1F505,fully-qualified,E1.0 dim button,🔅,Symbols
 0x1f45c,14,0.675482619,2,6,6,HANDBAG,Miscellaneous Symbols and Pictographs,1F45C,Objects,clothing,1F45C,fully-qualified,E0.6 handbag,👜,Objects
-0x1f40c,14,0.421349764,0,3,11,SNAIL,Miscellaneous Symbols and Pictographs,1F40C,Animals & Nature,animal-bug,1F40C,fully-qualified,E0.6 snail,🐌,Animals & nature
+0x1f40c,14,0.421349764,0,3,11,SNAIL,Miscellaneous Symbols and Pictographs,1F40C,Animals & Nature,animal-bug,1F40C,fully-qualified,E0.6 snail,🐌,Animals & Nature
 0x1f4bc,14,0.573028381,1,3,10,BRIEFCASE,Miscellaneous Symbols and Pictographs,1F4BC,Objects,office,1F4BC,fully-qualified,E0.6 briefcase,💼,Objects
-0x1f695,14,0.526016674,3,8,3,TAXI,Transport and Map Symbols,1F695,Travel & Places,transport-ground,1F695,fully-qualified,E0.6 taxi,🚕,Travel & places
-0x1f439,14,0.743700839,3,3,8,HAMSTER FACE,Miscellaneous Symbols and Pictographs,1F439,Animals & Nature,animal-mammal,1F439,fully-qualified,E0.6 hamster,🐹,Animals & nature
-0x1f320,14,0.761411531,2,1,11,SHOOTING STAR,Miscellaneous Symbols and Pictographs,1F320,Travel & Places,sky & weather,1F320,fully-qualified,E0.6 shooting star,🌠,Travel & places
-0x1f408,14,0.645414223,0,9,5,CAT,Miscellaneous Symbols and Pictographs,1F408,Animals & Nature,animal-mammal,1F408,fully-qualified,E0.7 cat,🐈,Animals & nature
+0x1f695,14,0.526016674,3,8,3,TAXI,Transport and Map Symbols,1F695,Travel & Places,transport-ground,1F695,fully-qualified,E0.6 taxi,🚕,Travel & Places
+0x1f439,14,0.743700839,3,3,8,HAMSTER FACE,Miscellaneous Symbols and Pictographs,1F439,Animals & Nature,animal-mammal,1F439,fully-qualified,E0.6 hamster,🐹,Animals & Nature
+0x1f320,14,0.761411531,2,1,11,SHOOTING STAR,Miscellaneous Symbols and Pictographs,1F320,Travel & Places,sky & weather,1F320,fully-qualified,E0.6 shooting star,🌠,Travel & Places
+0x1f408,14,0.645414223,0,9,5,CAT,Miscellaneous Symbols and Pictographs,1F408,Animals & Nature,animal-mammal,1F408,fully-qualified,E0.7 cat,🐈,Animals & Nature
 0x260e,14,0.836709012,2,10,2,BLACK TELEPHONE,Miscellaneous Symbols,260E,Objects,phone,260E,unqualified,E0.6 telephone,☎,Objects
-0x1f301,14,0.744406749,1,9,4,FOGGY,Miscellaneous Symbols and Pictographs,1F301,Travel & Places,place-other,1F301,fully-qualified,E0.6 foggy,🌁,Travel & places
+0x1f301,14,0.744406749,1,9,4,FOGGY,Miscellaneous Symbols and Pictographs,1F301,Travel & Places,place-other,1F301,fully-qualified,E0.6 foggy,🌁,Travel & Places
 0x26ab,14,0.440912997,3,4,7,MEDIUM BLACK CIRCLE,Miscellaneous Symbols,26AB,Symbols,geometric,26AB,fully-qualified,E0.6 black circle,⚫,Symbols
-0x1f3f0,14,0.434066804,1,7,6,EUROPEAN CASTLE,Miscellaneous Symbols and Pictographs,1F3F0,Travel & Places,place-building,1F3F0,fully-qualified,E0.6 castle,🏰,Travel & places
-0x1f6b5,14,0.5561554,0,8,6,MOUNTAIN BICYCLIST,Transport and Map Symbols,1F6B5,People & Body,person-sport,1F6B5,fully-qualified,E1.0 person mountain biking,🚵,People & body
-0x1f3a2,14,0.825803746,1,4,9,ROLLER COASTER,Miscellaneous Symbols and Pictographs,1F3A2,Travel & Places,place-other,1F3A2,fully-qualified,E0.6 roller coaster,🎢,Travel & places
+0x1f3f0,14,0.434066804,1,7,6,EUROPEAN CASTLE,Miscellaneous Symbols and Pictographs,1F3F0,Travel & Places,place-building,1F3F0,fully-qualified,E0.6 castle,🏰,Travel & Places
+0x1f6b5,14,0.5561554,0,8,6,MOUNTAIN BICYCLIST,Transport and Map Symbols,1F6B5,People & Body,person-sport,1F6B5,fully-qualified,E1.0 person mountain biking,🚵,People & Body
+0x1f3a2,14,0.825803746,1,4,9,ROLLER COASTER,Miscellaneous Symbols and Pictographs,1F3A2,Travel & Places,place-other,1F3A2,fully-qualified,E0.6 roller coaster,🎢,Travel & Places
 0x1f3b7,14,0.759955203,0,3,11,SAXOPHONE,Miscellaneous Symbols and Pictographs,1F3B7,Objects,musical-instrument,1F3B7,fully-qualified,E0.6 saxophone,🎷,Objects
 0x1f390,14,0.290879701,0,11,3,WIND CHIME,Miscellaneous Symbols and Pictographs,1F390,Activities,event,1F390,fully-qualified,E0.6 wind chime,🎐,Activities
-0x1f307,13,0.54287435,0,5,8,SUNSET OVER BUILDINGS,Miscellaneous Symbols and Pictographs,1F307,Travel & Places,place-other,1F307,fully-qualified,E0.6 sunset,🌇,Travel & places
-0x23f0,13,0.645780266,2,2,9,ALARM CLOCK,Miscellaneous Technical,23F0,Travel & Places,time,23F0,fully-qualified,E0.6 alarm clock,⏰,Travel & places
-0x1f682,13,0.656030729,0,9,4,STEAM LOCOMOTIVE,Transport and Map Symbols,1F682,Travel & Places,transport-ground,1F682,fully-qualified,E1.0 locomotive,🚂,Travel & places
+0x1f307,13,0.54287435,0,5,8,SUNSET OVER BUILDINGS,Miscellaneous Symbols and Pictographs,1F307,Travel & Places,place-other,1F307,fully-qualified,E0.6 sunset,🌇,Travel & Places
+0x23f0,13,0.645780266,2,2,9,ALARM CLOCK,Miscellaneous Technical,23F0,Travel & Places,time,23F0,fully-qualified,E0.6 alarm clock,⏰,Travel & Places
+0x1f682,13,0.656030729,0,9,4,STEAM LOCOMOTIVE,Transport and Map Symbols,1F682,Travel & Places,transport-ground,1F682,fully-qualified,E1.0 locomotive,🚂,Travel & Places
 0x1f3bf,13,0.727391903,1,5,7,SKI AND SKI BOOT,Miscellaneous Symbols and Pictographs,1F3BF,Activities,sport,1F3BF,fully-qualified,E0.6 skis,🎿,Activities
 0x1f194,13,0.479124776,0,1,12,SQUARED ID,Enclosed Alphanumeric Supplement,1F194,Symbols,alphanum,1F194,fully-qualified,E0.6 ID button,🆔,Symbols
-0x26ea,13,0.38723933,2,7,4,CHURCH,Miscellaneous Symbols,26EA,Travel & Places,place-religious,26EA,fully-qualified,E0.6 church,⛪,Travel & places
-0x1f312,13,0.446222397,0,4,9,WAXING CRESCENT MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F312,Travel & Places,sky & weather,1F312,fully-qualified,E1.0 waxing crescent moon,🌒,Travel & places
-0x1f42a,13,0.836925018,0,4,9,DROMEDARY CAMEL,Miscellaneous Symbols and Pictographs,1F42A,Animals & Nature,animal-mammal,1F42A,fully-qualified,E1.0 camel,🐪,Animals & nature
+0x26ea,13,0.38723933,2,7,4,CHURCH,Miscellaneous Symbols,26EA,Travel & Places,place-religious,26EA,fully-qualified,E0.6 church,⛪,Travel & Places
+0x1f312,13,0.446222397,0,4,9,WAXING CRESCENT MOON SYMBOL,Miscellaneous Symbols and Pictographs,1F312,Travel & Places,sky & weather,1F312,fully-qualified,E1.0 waxing crescent moon,🌒,Travel & Places
+0x1f42a,13,0.836925018,0,4,9,DROMEDARY CAMEL,Miscellaneous Symbols and Pictographs,1F42A,Animals & Nature,animal-mammal,1F42A,fully-qualified,E1.0 camel,🐪,Animals & Nature
 0x1f454,12,0.520012314,2,3,7,NECKTIE,Miscellaneous Symbols and Pictographs,1F454,Objects,clothing,1F454,fully-qualified,E0.6 necktie,👔,Objects
 0x1f531,12,0.790792217,3,5,4,TRIDENT EMBLEM,Miscellaneous Symbols and Pictographs,1F531,Symbols,other-symbol,1F531,fully-qualified,E0.6 trident emblem,🔱,Symbols
 0x1f193,12,0.551459397,0,9,3,SQUARED FREE,Enclosed Alphanumeric Supplement,1F193,Symbols,alphanum,1F193,fully-qualified,E0.6 FREE button,🆓,Symbols
-0x1f40b,12,0.865813424,2,5,5,WHALE,Miscellaneous Symbols and Pictographs,1F40B,Animals & Nature,animal-marine,1F40B,fully-qualified,E1.0 whale,🐋,Animals & nature
-0x1f41b,12,0.672751951,2,4,6,BUG,Miscellaneous Symbols and Pictographs,1F41B,Animals & Nature,animal-bug,1F41B,fully-qualified,E0.6 bug,🐛,Animals & nature
+0x1f40b,12,0.865813424,2,5,5,WHALE,Miscellaneous Symbols and Pictographs,1F40B,Animals & Nature,animal-marine,1F40B,fully-qualified,E1.0 whale,🐋,Animals & Nature
+0x1f41b,12,0.672751951,2,4,6,BUG,Miscellaneous Symbols and Pictographs,1F41B,Animals & Nature,animal-bug,1F41B,fully-qualified,E0.6 bug,🐛,Animals & Nature
 0x1f455,12,0.795097842,1,4,7,T-SHIRT,Miscellaneous Symbols and Pictographs,1F455,Objects,clothing,1F455,fully-qualified,E0.6 t-shirt,👕,Objects
-0x1f68b,12,0.317741493,0,11,1,TRAM CAR,Transport and Map Symbols,1F68B,Travel & Places,transport-ground,1F68B,fully-qualified,E1.0 tram car,🚋,Travel & places
+0x1f68b,12,0.317741493,0,11,1,TRAM CAR,Transport and Map Symbols,1F68B,Travel & Places,transport-ground,1F68B,fully-qualified,E1.0 tram car,🚋,Travel & Places
 0x1f4b3,12,0.83392297,1,4,7,CREDIT CARD,Miscellaneous Symbols and Pictographs,1F4B3,Objects,money,1F4B3,fully-qualified,E0.6 credit card,💳,Objects
-0x1f306,12,0.764797204,2,6,4,CITYSCAPE AT DUSK,Miscellaneous Symbols and Pictographs,1F306,Travel & Places,place-other,1F306,fully-qualified,E0.6 cityscape at dusk,🌆,Travel & places
+0x1f306,12,0.764797204,2,6,4,CITYSCAPE AT DUSK,Miscellaneous Symbols and Pictographs,1F306,Travel & Places,place-other,1F306,fully-qualified,E0.6 cityscape at dusk,🌆,Travel & Places
 0x1f3e7,12,0.888240175,0,0,12,AUTOMATED TELLER MACHINE,Miscellaneous Symbols and Pictographs,1F3E7,Symbols,transport-sign,1F3E7,fully-qualified,E0.6 ATM sign,🏧,Symbols
 0x1f4a1,12,0.597619454,0,3,9,ELECTRIC LIGHT BULB,Miscellaneous Symbols and Pictographs,1F4A1,Objects,light & video,1F4A1,fully-qualified,E0.6 light bulb,💡,Objects
 0x1f539,12,0.170199929,2,6,4,SMALL BLUE DIAMOND,Miscellaneous Symbols and Pictographs,1F539,Symbols,geometric,1F539,fully-qualified,E0.6 small blue diamond,🔹,Symbols
 0x2b05,12,0.662574787,0,5,7,LEFTWARDS BLACK ARROW,Miscellaneous Symbols and Arrows,2B05,Symbols,arrow,2B05,unqualified,E0.6 left arrow,⬅,Symbols
-0x1f360,12,0.938678015,5,2,5,ROASTED SWEET POTATO,Miscellaneous Symbols and Pictographs,1F360,Food & Drink,food-asian,1F360,fully-qualified,E0.6 roasted sweet potato,🍠,Food & drink
-0x1f42b,12,0.770082215,0,7,5,BACTRIAN CAMEL,Miscellaneous Symbols and Pictographs,1F42B,Animals & Nature,animal-mammal,1F42B,fully-qualified,E0.6 two-hump camel,🐫,Animals & nature
-0x1f3ea,12,0.374437236,2,7,3,CONVENIENCE STORE,Miscellaneous Symbols and Pictographs,1F3EA,Travel & Places,place-building,1F3EA,fully-qualified,E0.6 convenience store,🏪,Travel & places
+0x1f360,12,0.938678015,5,2,5,ROASTED SWEET POTATO,Miscellaneous Symbols and Pictographs,1F360,Food & Drink,food-asian,1F360,fully-qualified,E0.6 roasted sweet potato,🍠,Food & Drink
+0x1f42b,12,0.770082215,0,7,5,BACTRIAN CAMEL,Miscellaneous Symbols and Pictographs,1F42B,Animals & Nature,animal-mammal,1F42B,fully-qualified,E0.6 two-hump camel,🐫,Animals & Nature
+0x1f3ea,12,0.374437236,2,7,3,CONVENIENCE STORE,Miscellaneous Symbols and Pictographs,1F3EA,Travel & Places,place-building,1F3EA,fully-qualified,E0.6 convenience store,🏪,Travel & Places
 0x1f4f9,11,0.718346535,1,3,7,VIDEO CAMERA,Miscellaneous Symbols and Pictographs,1F4F9,Objects,light & video,1F4F9,fully-qualified,E0.6 video camera,📹,Objects
 0x1f45e,11,0.779457078,1,3,7,MANS SHOE,Miscellaneous Symbols and Pictographs,1F45E,Objects,clothing,1F45E,fully-qualified,E0.6 man’s shoe,👞,Objects
-0x1f691,11,0.758087751,3,4,4,AMBULANCE,Transport and Map Symbols,1F691,Travel & Places,transport-ground,1F691,fully-qualified,E0.6 ambulance,🚑,Travel & places
+0x1f691,11,0.758087751,3,4,4,AMBULANCE,Transport and Map Symbols,1F691,Travel & Places,transport-ground,1F691,fully-qualified,E0.6 ambulance,🚑,Travel & Places
 0x1f198,11,0.775131806,4,2,5,SQUARED SOS,Enclosed Alphanumeric Supplement,1F198,Symbols,alphanum,1F198,fully-qualified,E0.6 SOS button,🆘,Symbols
 0x1f45a,11,0.810043786,0,3,8,WOMANS CLOTHES,Miscellaneous Symbols and Pictographs,1F45A,Objects,clothing,1F45A,fully-qualified,E0.6 woman’s clothes,👚,Objects
-0x1f68d,11,0.659558885,4,2,5,ONCOMING BUS,Transport and Map Symbols,1F68D,Travel & Places,transport-ground,1F68D,fully-qualified,E0.7 oncoming bus,🚍,Travel & places
-0x1f402,11,0.774388184,1,7,3,OX,Miscellaneous Symbols and Pictographs,1F402,Animals & Nature,animal-mammal,1F402,fully-qualified,E1.0 ox,🐂,Animals & nature
-0x1f6a3,11,0.712555862,0,3,8,ROWBOAT,Transport and Map Symbols,1F6A3,People & Body,person-sport,1F6A3,fully-qualified,E1.0 person rowing boat,🚣,People & body
+0x1f68d,11,0.659558885,4,2,5,ONCOMING BUS,Transport and Map Symbols,1F68D,Travel & Places,transport-ground,1F68D,fully-qualified,E0.7 oncoming bus,🚍,Travel & Places
+0x1f402,11,0.774388184,1,7,3,OX,Miscellaneous Symbols and Pictographs,1F402,Animals & Nature,animal-mammal,1F402,fully-qualified,E1.0 ox,🐂,Animals & Nature
+0x1f6a3,11,0.712555862,0,3,8,ROWBOAT,Transport and Map Symbols,1F6A3,People & Body,person-sport,1F6A3,fully-qualified,E1.0 person rowing boat,🚣,People & Body
 0x2733,11,0.37234627,0,11,0,EIGHT SPOKED ASTERISK,Dingbats,2733,Symbols,other-symbol,2733,unqualified,E0.6 eight-spoked asterisk,✳,Symbols
 0x1f3c9,11,0.837042609,0,4,7,RUGBY FOOTBALL,Miscellaneous Symbols and Pictographs,1F3C9,Activities,sport,1F3C9,fully-qualified,E1.0 rugby football,🏉,Activities
-0x1f5fb,11,0.723455901,0,3,8,MOUNT FUJI,Miscellaneous Symbols and Pictographs,1F5FB,Travel & Places,place-geographic,1F5FB,fully-qualified,E0.6 mount fuji,🗻,Travel & places
-0x1f400,11,0.701470653,1,7,3,RAT,Miscellaneous Symbols and Pictographs,1F400,Animals & Nature,animal-mammal,1F400,fully-qualified,E1.0 rat,🐀,Animals & nature
-0x26fa,10,0.905848988,1,2,7,TENT,Miscellaneous Symbols,26FA,Travel & Places,place-other,26FA,fully-qualified,E0.6 tent,⛺,Travel & places
-0x1f415,10,0.879333592,1,5,4,DOG,Miscellaneous Symbols and Pictographs,1F415,Animals & Nature,animal-mammal,1F415,fully-qualified,E0.7 dog,🐕,Animals & nature
-0x1f3c2,10,0.777003138,1,3,6,SNOWBOARDER,Miscellaneous Symbols and Pictographs,1F3C2,People & Body,person-sport,1F3C2,fully-qualified,E0.6 snowboarder,🏂,People & body
+0x1f5fb,11,0.723455901,0,3,8,MOUNT FUJI,Miscellaneous Symbols and Pictographs,1F5FB,Travel & Places,place-geographic,1F5FB,fully-qualified,E0.6 mount fuji,🗻,Travel & Places
+0x1f400,11,0.701470653,1,7,3,RAT,Miscellaneous Symbols and Pictographs,1F400,Animals & Nature,animal-mammal,1F400,fully-qualified,E1.0 rat,🐀,Animals & Nature
+0x26fa,10,0.905848988,1,2,7,TENT,Miscellaneous Symbols,26FA,Travel & Places,place-other,26FA,fully-qualified,E0.6 tent,⛺,Travel & Places
+0x1f415,10,0.879333592,1,5,4,DOG,Miscellaneous Symbols and Pictographs,1F415,Animals & Nature,animal-mammal,1F415,fully-qualified,E0.7 dog,🐕,Animals & Nature
+0x1f3c2,10,0.777003138,1,3,6,SNOWBOARDER,Miscellaneous Symbols and Pictographs,1F3C2,People & Body,person-sport,1F3C2,fully-qualified,E0.6 snowboarder,🏂,People & Body
 0x1f461,10,0.63543995,1,3,6,WOMANS SANDAL,Miscellaneous Symbols and Pictographs,1F461,Objects,clothing,1F461,fully-qualified,E0.6 woman’s sandal,👡,Objects
 0x1f4fb,10,0.726200366,1,4,5,RADIO,Miscellaneous Symbols and Pictographs,1F4FB,Objects,music,1F4FB,fully-qualified,E0.6 radio,📻,Objects
 0x2712,10,0.543607437,1,5,4,BLACK NIB,Dingbats,2712,Objects,writing,2712,unqualified,E0.6 black nib,✒,Objects
-0x1f330,10,0.786442145,0,3,7,CHESTNUT,Miscellaneous Symbols and Pictographs,1F330,Food & Drink,food-vegetable,1F330,fully-qualified,E0.6 chestnut,🌰,Food & drink
-0x1f3e2,10,0.542295544,0,8,2,OFFICE BUILDING,Miscellaneous Symbols and Pictographs,1F3E2,Travel & Places,place-building,1F3E2,fully-qualified,E0.6 office building,🏢,Travel & places
+0x1f330,10,0.786442145,0,3,7,CHESTNUT,Miscellaneous Symbols and Pictographs,1F330,Food & Drink,food-vegetable,1F330,fully-qualified,E0.6 chestnut,🌰,Food & Drink
+0x1f3e2,10,0.542295544,0,8,2,OFFICE BUILDING,Miscellaneous Symbols and Pictographs,1F3E2,Travel & Places,place-building,1F3E2,fully-qualified,E0.6 office building,🏢,Travel & Places
 0x1f392,10,0.614006372,1,2,7,SCHOOL SATCHEL,Miscellaneous Symbols and Pictographs,1F392,Objects,clothing,1F392,fully-qualified,E0.6 backpack,🎒,Objects
-0x1f3eb,10,0.644209517,6,1,3,SCHOOL,Miscellaneous Symbols and Pictographs,1F3EB,Travel & Places,place-building,1F3EB,fully-qualified,E0.6 school,🏫,Travel & places
+0x1f3eb,10,0.644209517,6,1,3,SCHOOL,Miscellaneous Symbols and Pictographs,1F3EB,Travel & Places,place-building,1F3EB,fully-qualified,E0.6 school,🏫,Travel & Places
 0x1f4f4,10,0.981898981,1,0,9,MOBILE PHONE OFF,Miscellaneous Symbols and Pictographs,1F4F4,Symbols,av-symbol,1F4F4,fully-qualified,E0.6 mobile phone off,📴,Symbols
-0x1f6a2,10,0.817914113,3,1,6,SHIP,Transport and Map Symbols,1F6A2,Travel & Places,transport-water,1F6A2,fully-qualified,E0.6 ship,🚢,Travel & places
-0x1f69a,10,0.479308081,2,7,1,DELIVERY TRUCK,Transport and Map Symbols,1F69A,Travel & Places,transport-ground,1F69A,fully-qualified,E0.6 delivery truck,🚚,Travel & places
-0x1f409,10,0.628494919,0,8,2,DRAGON,Miscellaneous Symbols and Pictographs,1F409,Animals & Nature,animal-reptile,1F409,fully-qualified,E1.0 dragon,🐉,Animals & nature
-0x1f40a,10,0.84550756,2,5,3,CROCODILE,Miscellaneous Symbols and Pictographs,1F40A,Animals & Nature,animal-reptile,1F40A,fully-qualified,E1.0 crocodile,🐊,Animals & nature
+0x1f6a2,10,0.817914113,3,1,6,SHIP,Transport and Map Symbols,1F6A2,Travel & Places,transport-water,1F6A2,fully-qualified,E0.6 ship,🚢,Travel & Places
+0x1f69a,10,0.479308081,2,7,1,DELIVERY TRUCK,Transport and Map Symbols,1F69A,Travel & Places,transport-ground,1F69A,fully-qualified,E0.6 delivery truck,🚚,Travel & Places
+0x1f409,10,0.628494919,0,8,2,DRAGON,Miscellaneous Symbols and Pictographs,1F409,Animals & Nature,animal-reptile,1F409,fully-qualified,E1.0 dragon,🐉,Animals & Nature
+0x1f40a,10,0.84550756,2,5,3,CROCODILE,Miscellaneous Symbols and Pictographs,1F40A,Animals & Nature,animal-reptile,1F40A,fully-qualified,E1.0 crocodile,🐊,Animals & Nature
 0x1f514,10,0.713041475,0,0,10,BELL,Miscellaneous Symbols and Pictographs,1F514,Objects,sound,1F514,fully-qualified,E0.6 bell,🔔,Objects
-0x1f3e5,9,0.648092966,1,4,4,HOSPITAL,Miscellaneous Symbols and Pictographs,1F3E5,Travel & Places,place-building,1F3E5,fully-qualified,E0.6 hospital,🏥,Travel & places
+0x1f3e5,9,0.648092966,1,4,4,HOSPITAL,Miscellaneous Symbols and Pictographs,1F3E5,Travel & Places,place-building,1F3E5,fully-qualified,E0.6 hospital,🏥,Travel & Places
 0x2754,9,0.787466861,3,3,3,WHITE QUESTION MARK ORNAMENT,Dingbats,2754,Symbols,punctuation,2754,fully-qualified,E0.6 white question mark,❔,Symbols
-0x1f696,9,0.800144753,3,4,2,ONCOMING TAXI,Transport and Map Symbols,1F696,Travel & Places,transport-ground,1F696,fully-qualified,E1.0 oncoming taxi,🚖,Travel & places
+0x1f696,9,0.800144753,3,4,2,ONCOMING TAXI,Transport and Map Symbols,1F696,Travel & Places,transport-ground,1F696,fully-qualified,E1.0 oncoming taxi,🚖,Travel & Places
 0x1f0cf,9,0.685606875,3,2,4,PLAYING CARD BLACK JOKER,Playing Cards,1F0CF,Activities,game,1F0CF,fully-qualified,E0.6 joker,🃏,Activities
-0x1f492,9,0.79417208,0,3,6,WEDDING,Miscellaneous Symbols and Pictographs,1F492,Travel & Places,place-building,1F492,fully-qualified,E0.6 wedding,💒,Travel & places
-0x1f6a4,9,0.503972435,0,5,4,SPEEDBOAT,Transport and Map Symbols,1F6A4,Travel & Places,transport-water,1F6A4,fully-qualified,E0.6 speedboat,🚤,Travel & places
-0x1f410,9,0.720583133,0,4,5,GOAT,Miscellaneous Symbols and Pictographs,1F410,Animals & Nature,animal-mammal,1F410,fully-qualified,E1.0 goat,🐐,Animals & nature
+0x1f492,9,0.79417208,0,3,6,WEDDING,Miscellaneous Symbols and Pictographs,1F492,Travel & Places,place-building,1F492,fully-qualified,E0.6 wedding,💒,Travel & Places
+0x1f6a4,9,0.503972435,0,5,4,SPEEDBOAT,Transport and Map Symbols,1F6A4,Travel & Places,transport-water,1F6A4,fully-qualified,E0.6 speedboat,🚤,Travel & Places
+0x1f410,9,0.720583133,0,4,5,GOAT,Miscellaneous Symbols and Pictographs,1F410,Animals & Nature,animal-mammal,1F410,fully-qualified,E1.0 goat,🐐,Animals & Nature
 0x1f51a,9,0.868645196,1,3,5,END WITH LEFTWARDS ARROW ABOVE,Miscellaneous Symbols and Pictographs,1F51A,Symbols,arrow,1F51A,fully-qualified,E0.6 END arrow,🔚,Symbols
 0x1f3bb,9,0.720880053,0,5,4,VIOLIN,Miscellaneous Symbols and Pictographs,1F3BB,Objects,musical-instrument,1F3BB,fully-qualified,E0.6 violin,🎻,Objects
 0x1f537,9,0.367845118,0,7,2,LARGE BLUE DIAMOND,Miscellaneous Symbols and Pictographs,1F537,Symbols,geometric,1F537,fully-qualified,E0.6 large blue diamond,🔷,Symbols
-0x1f6a6,9,0.454265022,2,4,3,VERTICAL TRAFFIC LIGHT,Transport and Map Symbols,1F6A6,Travel & Places,transport-ground,1F6A6,fully-qualified,E1.0 vertical traffic light,🚦,Travel & places
+0x1f6a6,9,0.454265022,2,4,3,VERTICAL TRAFFIC LIGHT,Transport and Map Symbols,1F6A6,Travel & Places,transport-ground,1F6A6,fully-qualified,E1.0 vertical traffic light,🚦,Travel & Places
 0x1f513,9,0.802890324,3,2,4,OPEN LOCK,Miscellaneous Symbols and Pictographs,1F513,Objects,lock,1F513,fully-qualified,E0.6 unlocked,🔓,Objects
 0x1f3bd,9,0.903767713,0,4,5,RUNNING SHIRT WITH SASH,Miscellaneous Symbols and Pictographs,1F3BD,Activities,sport,1F3BD,fully-qualified,E0.6 running shirt,🎽,Activities
 0x1f4c5,9,0.597376373,2,3,4,CALENDAR,Miscellaneous Symbols and Pictographs,1F4C5,Objects,office,1F4C5,fully-qualified,E0.6 calendar,📅,Objects
 0x1f3ba,9,0.646180394,1,0,8,TRUMPET,Miscellaneous Symbols and Pictographs,1F3BA,Objects,musical-instrument,1F3BA,fully-qualified,E0.6 trumpet,🎺,Objects
-0x1f348,9,0.520981407,6,1,2,MELON,Miscellaneous Symbols and Pictographs,1F348,Food & Drink,food-fruit,1F348,fully-qualified,E0.6 melon,🍈,Food & drink
+0x1f348,9,0.520981407,6,1,2,MELON,Miscellaneous Symbols and Pictographs,1F348,Food & Drink,food-fruit,1F348,fully-qualified,E0.6 melon,🍈,Food & Drink
 0x2709,9,0.44131007,1,4,4,ENVELOPE,Dingbats,2709,Objects,mail,2709,unqualified,E0.6 envelope,✉,Objects
-0x1f37c,8,0.889794471,1,1,6,BABY BOTTLE,Miscellaneous Symbols and Pictographs,1F37C,Food & Drink,drink,1F37C,fully-qualified,E1.0 baby bottle,🍼,Food & drink
+0x1f37c,8,0.889794471,1,1,6,BABY BOTTLE,Miscellaneous Symbols and Pictographs,1F37C,Food & Drink,drink,1F37C,fully-qualified,E1.0 baby bottle,🍼,Food & Drink
 0x1f4c0,8,0.842924661,1,5,2,DVD,Miscellaneous Symbols and Pictographs,1F4C0,Objects,computer,1F4C0,fully-qualified,E0.6 dvd,📀,Objects
-0x1f69b,8,0.552176238,2,6,0,ARTICULATED LORRY,Transport and Map Symbols,1F69B,Travel & Places,transport-ground,1F69B,fully-qualified,E1.0 articulated lorry,🚛,Travel & places
+0x1f69b,8,0.552176238,2,6,0,ARTICULATED LORRY,Transport and Map Symbols,1F69B,Travel & Places,transport-ground,1F69B,fully-qualified,E1.0 articulated lorry,🚛,Travel & Places
 0x1f4d3,8,0.835156432,1,4,3,NOTEBOOK,Miscellaneous Symbols and Pictographs,1F4D3,Objects,book-paper,1F4D3,fully-qualified,E0.6 notebook,📓,Objects
 0x1f4b4,8,0.837157842,3,4,1,BANKNOTE WITH YEN SIGN,Miscellaneous Symbols and Pictographs,1F4B4,Objects,money,1F4B4,fully-qualified,E0.6 yen banknote,💴,Objects
-0x1f403,8,0.82964401,0,8,0,WATER BUFFALO,Miscellaneous Symbols and Pictographs,1F403,Animals & Nature,animal-mammal,1F403,fully-qualified,E1.0 water buffalo,🐃,Animals & nature
+0x1f403,8,0.82964401,0,8,0,WATER BUFFALO,Miscellaneous Symbols and Pictographs,1F403,Animals & Nature,animal-mammal,1F403,fully-qualified,E1.0 water buffalo,🐃,Animals & Nature
 0x27b0,8,0.255281448,4,1,3,CURLY LOOP,Dingbats,27B0,Symbols,other-symbol,27B0,fully-qualified,E0.6 curly loop,➰,Symbols
 0x1f50c,8,0.84383834,3,3,2,ELECTRIC PLUG,Miscellaneous Symbols and Pictographs,1F50C,Objects,computer,1F50C,fully-qualified,E0.6 electric plug,🔌,Objects
-0x1f344,8,0.481955716,2,4,2,MUSHROOM,Miscellaneous Symbols and Pictographs,1F344,Animals & Nature,plant-other,1F344,fully-qualified,E0.6 mushroom,🍄,Animals & nature
+0x1f344,8,0.481955716,2,4,2,MUSHROOM,Miscellaneous Symbols and Pictographs,1F344,Animals & Nature,plant-other,1F344,fully-qualified,E0.6 mushroom,🍄,Animals & Nature
 0x1f4d5,8,0.687815619,1,4,3,CLOSED BOOK,Miscellaneous Symbols and Pictographs,1F4D5,Objects,book-paper,1F4D5,fully-qualified,E0.6 closed book,📕,Objects
 0x1f4e3,8,0.665290609,1,2,5,CHEERING MEGAPHONE,Miscellaneous Symbols and Pictographs,1F4E3,Objects,sound,1F4E3,fully-qualified,E0.6 megaphone,📣,Objects
-0x1f693,8,0.654503222,0,5,3,POLICE CAR,Transport and Map Symbols,1F693,Travel & Places,transport-ground,1F693,fully-qualified,E0.6 police car,🚓,Travel & places
-0x1f417,8,0.756674318,0,3,5,BOAR,Miscellaneous Symbols and Pictographs,1F417,Animals & Nature,animal-mammal,1F417,fully-qualified,E0.6 boar,🐗,Animals & nature
+0x1f693,8,0.654503222,0,5,3,POLICE CAR,Transport and Map Symbols,1F693,Travel & Places,transport-ground,1F693,fully-qualified,E0.6 police car,🚓,Travel & Places
+0x1f417,8,0.756674318,0,3,5,BOAR,Miscellaneous Symbols and Pictographs,1F417,Animals & Nature,animal-mammal,1F417,fully-qualified,E0.6 boar,🐗,Animals & Nature
 0x21aa,8,0.726671282,0,7,1,RIGHTWARDS ARROW WITH HOOK,Arrows,21AA,Symbols,arrow,21AA,unqualified,E0.6 left arrow curving right,↪,Symbols
 0x26f3,8,0.659686501,0,1,7,FLAG IN HOLE,Miscellaneous Symbols,26F3,Activities,sport,26F3,fully-qualified,E0.6 flag in hole,⛳,Activities
-0x1f471,7,0.584040891,1,4,2,PERSON WITH BLOND HAIR,Miscellaneous Symbols and Pictographs,1F471,People & Body,person,1F471,fully-qualified,E0.6 person: blond hair,👱,People & body
-0x23f3,7,0.829006815,3,1,3,HOURGLASS WITH FLOWING SAND,Miscellaneous Technical,23F3,Travel & Places,time,23F3,fully-qualified,E0.6 hourglass not done,⏳,Travel & places
-0x1f4ba,7,0.499522738,1,3,3,SEAT,Miscellaneous Symbols and Pictographs,1F4BA,Travel & Places,transport-air,1F4BA,fully-qualified,E0.6 seat,💺,Travel & places
-0x1f3c7,7,0.829351657,3,2,2,HORSE RACING,Miscellaneous Symbols and Pictographs,1F3C7,People & Body,person-sport,1F3C7,fully-qualified,E1.0 horse racing,🏇,People & body
+0x1f471,7,0.584040891,1,4,2,PERSON WITH BLOND HAIR,Miscellaneous Symbols and Pictographs,1F471,People & Body,person,1F471,fully-qualified,E0.6 person: blond hair,👱,People & Body
+0x23f3,7,0.829006815,3,1,3,HOURGLASS WITH FLOWING SAND,Miscellaneous Technical,23F3,Travel & Places,time,23F3,fully-qualified,E0.6 hourglass not done,⏳,Travel & Places
+0x1f4ba,7,0.499522738,1,3,3,SEAT,Miscellaneous Symbols and Pictographs,1F4BA,Travel & Places,transport-air,1F4BA,fully-qualified,E0.6 seat,💺,Travel & Places
+0x1f3c7,7,0.829351657,3,2,2,HORSE RACING,Miscellaneous Symbols and Pictographs,1F3C7,People & Body,person-sport,1F3C7,fully-qualified,E1.0 horse racing,🏇,People & Body
 0x1f4de,7,0.639663641,0,3,4,TELEPHONE RECEIVER,Miscellaneous Symbols and Pictographs,1F4DE,Objects,phone,1F4DE,fully-qualified,E0.6 telephone receiver,📞,Objects
-0x1f309,7,0.848338345,0,2,5,BRIDGE AT NIGHT,Miscellaneous Symbols and Pictographs,1F309,Travel & Places,place-other,1F309,fully-qualified,E0.6 bridge at night,🌉,Travel & places
+0x1f309,7,0.848338345,0,2,5,BRIDGE AT NIGHT,Miscellaneous Symbols and Pictographs,1F309,Travel & Places,place-other,1F309,fully-qualified,E0.6 bridge at night,🌉,Travel & Places
 0x1f6a9,7,0.14668319,3,3,1,TRIANGULAR FLAG ON POST,Transport and Map Symbols,1F6A9,Flags,flag,1F6A9,fully-qualified,E0.6 triangular flag,🚩,Flags
 0x1f4c3,7,0.75418917,0,3,4,PAGE WITH CURL,Miscellaneous Symbols and Pictographs,1F4C3,Objects,book-paper,1F4C3,fully-qualified,E0.6 page with curl,📃,Objects
-0x1f3e8,7,0.803363124,0,5,2,HOTEL,Miscellaneous Symbols and Pictographs,1F3E8,Travel & Places,place-building,1F3E8,fully-qualified,E0.6 hotel,🏨,Travel & places
+0x1f3e8,7,0.803363124,0,5,2,HOTEL,Miscellaneous Symbols and Pictographs,1F3E8,Travel & Places,place-building,1F3E8,fully-qualified,E0.6 hotel,🏨,Travel & Places
 0x1f4cc,7,0.799054518,5,1,1,PUSHPIN,Miscellaneous Symbols and Pictographs,1F4CC,Objects,office,1F4CC,fully-qualified,E0.6 pushpin,📌,Objects
 0x264e,7,0.85514993,2,4,1,LIBRA,Miscellaneous Symbols,264E,Symbols,zodiac,264E,fully-qualified,E0.6 Libra,♎,Symbols
 0x1f4b7,7,0.573124902,0,3,4,BANKNOTE WITH POUND SIGN,Miscellaneous Symbols and Pictographs,1F4B7,Objects,money,1F4B7,fully-qualified,E1.0 pound banknote,💷,Objects
-0x1f684,7,0.699813945,0,2,5,HIGH-SPEED TRAIN,Transport and Map Symbols,1F684,Travel & Places,transport-ground,1F684,fully-qualified,E0.6 high-speed train,🚄,Travel & places
-0x26f5,7,0.323527212,0,2,5,SAILBOAT,Miscellaneous Symbols,26F5,Travel & Places,transport-water,26F5,fully-qualified,E0.6 sailboat,⛵,Travel & places
+0x1f684,7,0.699813945,0,2,5,HIGH-SPEED TRAIN,Transport and Map Symbols,1F684,Travel & Places,transport-ground,1F684,fully-qualified,E0.6 high-speed train,🚄,Travel & Places
+0x26f5,7,0.323527212,0,2,5,SAILBOAT,Miscellaneous Symbols,26F5,Travel & Places,transport-water,26F5,fully-qualified,E0.6 sailboat,⛵,Travel & Places
 0x1f538,7,0.17210479,0,5,2,SMALL ORANGE DIAMOND,Miscellaneous Symbols and Pictographs,1F538,Symbols,geometric,1F538,fully-qualified,E0.6 small orange diamond,🔸,Symbols
-0x231b,7,0.796787872,2,2,3,HOURGLASS,Miscellaneous Technical,231B,Travel & Places,time,231B,fully-qualified,E0.6 hourglass done,⌛,Travel & places
-0x1f69c,7,0.76727505,0,0,7,TRACTOR,Transport and Map Symbols,1F69C,Travel & Places,transport-ground,1F69C,fully-qualified,E1.0 tractor,🚜,Travel & places
-0x1f406,7,0.550090954,0,4,3,LEOPARD,Miscellaneous Symbols and Pictographs,1F406,Animals & Nature,animal-mammal,1F406,fully-qualified,E1.0 leopard,🐆,Animals & nature
+0x231b,7,0.796787872,2,2,3,HOURGLASS,Miscellaneous Technical,231B,Travel & Places,time,231B,fully-qualified,E0.6 hourglass done,⌛,Travel & Places
+0x1f69c,7,0.76727505,0,0,7,TRACTOR,Transport and Map Symbols,1F69C,Travel & Places,transport-ground,1F69C,fully-qualified,E1.0 tractor,🚜,Travel & Places
+0x1f406,7,0.550090954,0,4,3,LEOPARD,Miscellaneous Symbols and Pictographs,1F406,Animals & Nature,animal-mammal,1F406,fully-qualified,E1.0 leopard,🐆,Animals & Nature
 0x1f452,7,0.843648743,1,3,3,WOMANS HAT,Miscellaneous Symbols and Pictographs,1F452,Objects,clothing,1F452,fully-qualified,E0.6 woman’s hat,👒,Objects
 0x2755,7,0.86202303,1,3,3,WHITE EXCLAMATION MARK ORNAMENT,Dingbats,2755,Symbols,punctuation,2755,fully-qualified,E0.6 white exclamation mark,❕,Symbols
 0x1f51b,7,0.474006336,1,1,5,ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE,Miscellaneous Symbols and Pictographs,1F51B,Symbols,arrow,1F51B,fully-qualified,E0.6 ON! arrow,🔛,Symbols
 0x1f45d,6,0.611228018,1,1,4,POUCH,Miscellaneous Symbols and Pictographs,1F45D,Objects,clothing,1F45D,fully-qualified,E0.6 clutch bag,👝,Objects
 0x1f38b,6,0.785515587,1,0,5,TANABATA TREE,Miscellaneous Symbols and Pictographs,1F38B,Activities,event,1F38B,fully-qualified,E0.6 tanabata tree,🎋,Activities
-0x1f465,6,0.83792517,1,2,3,BUSTS IN SILHOUETTE,Miscellaneous Symbols and Pictographs,1F465,People & Body,person-symbol,1F465,fully-qualified,E1.0 busts in silhouette,👥,People & body
+0x1f465,6,0.83792517,1,2,3,BUSTS IN SILHOUETTE,Miscellaneous Symbols and Pictographs,1F465,People & Body,person-symbol,1F465,fully-qualified,E1.0 busts in silhouette,👥,People & Body
 0x1f4f5,6,0.794071373,1,3,2,NO MOBILE PHONES,Miscellaneous Symbols and Pictographs,1F4F5,Symbols,warning,1F4F5,fully-qualified,E1.0 no mobile phones,📵,Symbols
-0x1f421,6,0.867288557,0,4,2,BLOWFISH,Miscellaneous Symbols and Pictographs,1F421,Animals & Nature,animal-marine,1F421,fully-qualified,E0.6 blowfish,🐡,Animals & nature
-0x1f3ef,6,0.529919889,0,5,1,JAPANESE CASTLE,Miscellaneous Symbols and Pictographs,1F3EF,Travel & Places,place-building,1F3EF,fully-qualified,E0.6 Japanese castle,🏯,Travel & places
+0x1f421,6,0.867288557,0,4,2,BLOWFISH,Miscellaneous Symbols and Pictographs,1F421,Animals & Nature,animal-marine,1F421,fully-qualified,E0.6 blowfish,🐡,Animals & Nature
+0x1f3ef,6,0.529919889,0,5,1,JAPANESE CASTLE,Miscellaneous Symbols and Pictographs,1F3EF,Travel & Places,place-building,1F3EF,fully-qualified,E0.6 Japanese castle,🏯,Travel & Places
 0x2602,6,0.453390203,1,4,1,UMBRELLA,Miscellaneous Symbols,2602,Travel & Places,sky & weather,2602,unqualified,E0.7 umbrella,☂,Symbols
 0x1f52d,6,0.715984026,0,3,3,TELESCOPE,Miscellaneous Symbols and Pictographs,1F52D,Objects,science,1F52D,fully-qualified,E1.0 telescope,🔭,Objects
-0x1f3aa,6,0.607881289,0,4,2,CIRCUS TENT,Miscellaneous Symbols and Pictographs,1F3AA,Travel & Places,place-other,1F3AA,fully-qualified,E0.6 circus tent,🎪,Travel & places
-0x1f41c,6,0.879901961,0,2,4,ANT,Miscellaneous Symbols and Pictographs,1F41C,Animals & Nature,animal-bug,1F41C,fully-qualified,E0.6 ant,🐜,Animals & nature
+0x1f3aa,6,0.607881289,0,4,2,CIRCUS TENT,Miscellaneous Symbols and Pictographs,1F3AA,Travel & Places,place-other,1F3AA,fully-qualified,E0.6 circus tent,🎪,Travel & Places
+0x1f41c,6,0.879901961,0,2,4,ANT,Miscellaneous Symbols and Pictographs,1F41C,Animals & Nature,animal-bug,1F41C,fully-qualified,E0.6 ant,🐜,Animals & Nature
 0x264c,6,0.790409536,0,1,5,LEO,Miscellaneous Symbols,264C,Symbols,zodiac,264C,fully-qualified,E0.6 Leo,♌,Symbols
-0x1f477,6,0.739199448,1,2,3,CONSTRUCTION WORKER,Miscellaneous Symbols and Pictographs,1F477,People & Body,person-role,1F477,fully-qualified,E0.6 construction worker,👷,People & body
+0x1f477,6,0.739199448,1,2,3,CONSTRUCTION WORKER,Miscellaneous Symbols and Pictographs,1F477,People & Body,person-role,1F477,fully-qualified,E0.6 construction worker,👷,People & Body
 0x1f508,6,0.635444115,0,4,2,SPEAKER,Miscellaneous Symbols and Pictographs,1F508,Objects,sound,1F508,fully-qualified,E0.7 speaker low volume,🔈,Objects
 0x1f4c4,6,0.624139531,0,0,6,PAGE FACING UP,Miscellaneous Symbols and Pictographs,1F4C4,Objects,book-paper,1F4C4,fully-qualified,E0.6 page facing up,📄,Objects
 0x1f4cd,6,0.48869302,1,3,2,ROUND PUSHPIN,Miscellaneous Symbols and Pictographs,1F4CD,Objects,office,1F4CD,fully-qualified,E0.6 round pushpin,📍,Objects
-0x1f690,6,0.77642636,0,1,5,MINIBUS,Transport and Map Symbols,1F690,Travel & Places,transport-ground,1F690,fully-qualified,E1.0 minibus,🚐,Travel & places
-0x1f694,6,0.521943521,1,4,1,ONCOMING POLICE CAR,Transport and Map Symbols,1F694,Travel & Places,transport-ground,1F694,fully-qualified,E0.7 oncoming police car,🚔,Travel & places
-0x1f30b,6,0.379680055,0,2,4,VOLCANO,Miscellaneous Symbols and Pictographs,1F30B,Travel & Places,place-geographic,1F30B,fully-qualified,E0.6 volcano,🌋,Travel & places
+0x1f690,6,0.77642636,0,1,5,MINIBUS,Transport and Map Symbols,1F690,Travel & Places,transport-ground,1F690,fully-qualified,E1.0 minibus,🚐,Travel & Places
+0x1f694,6,0.521943521,1,4,1,ONCOMING POLICE CAR,Transport and Map Symbols,1F694,Travel & Places,transport-ground,1F694,fully-qualified,E0.7 oncoming police car,🚔,Travel & Places
+0x1f30b,6,0.379680055,0,2,4,VOLCANO,Miscellaneous Symbols and Pictographs,1F30B,Travel & Places,place-geographic,1F30B,fully-qualified,E0.6 volcano,🌋,Travel & Places
 0x1f4e1,6,0.553891601,1,2,3,SATELLITE ANTENNA,Miscellaneous Symbols and Pictographs,1F4E1,Objects,science,1F4E1,fully-qualified,E0.6 satellite antenna,📡,Objects
 0x23e9,6,0.7317139,0,5,1,BLACK RIGHT-POINTING DOUBLE TRIANGLE,Miscellaneous Technical,23E9,Symbols,av-symbol,23E9,fully-qualified,E0.6 fast-forward button,⏩,Symbols
 0x1f6b3,6,0.102993951,0,0,6,NO BICYCLES,Transport and Map Symbols,1F6B3,Symbols,warning,1F6B3,fully-qualified,E1.0 no bicycles,🚳,Symbols
 0x1f170,6,0.311138998,1,2,3,NEGATIVE SQUARED LATIN CAPITAL LETTER A,Enclosed Alphanumeric Supplement,1F170,Symbols,alphanum,1F170,unqualified,E0.6 A button (blood type),🅰,Symbols
 0x1f4e5,6,0.981884058,0,6,0,INBOX TRAY,Miscellaneous Symbols and Pictographs,1F4E5,Objects,mail,1F4E5,fully-qualified,E0.6 inbox tray,📥,Objects
 0x1f526,5,0.852648347,0,5,0,ELECTRIC TORCH,Miscellaneous Symbols and Pictographs,1F526,Objects,light & video,1F526,fully-qualified,E0.6 flashlight,🔦,Objects
-0x1f464,5,0.785820605,0,1,4,BUST IN SILHOUETTE,Miscellaneous Symbols and Pictographs,1F464,People & Body,person-symbol,1F464,fully-qualified,E0.6 bust in silhouette,👤,People & body
-0x1f681,5,0.509988852,0,4,1,HELICOPTER,Transport and Map Symbols,1F681,Travel & Places,transport-air,1F681,fully-qualified,E1.0 helicopter,🚁,Travel & places
-0x1f3a0,5,0.57433687,0,2,3,CAROUSEL HORSE,Miscellaneous Symbols and Pictographs,1F3A0,Travel & Places,place-other,1F3A0,fully-qualified,E0.6 carousel horse,🎠,Travel & places
-0x1f401,5,0.418555982,2,3,0,MOUSE,Miscellaneous Symbols and Pictographs,1F401,Animals & Nature,animal-mammal,1F401,fully-qualified,E1.0 mouse,🐁,Animals & nature
+0x1f464,5,0.785820605,0,1,4,BUST IN SILHOUETTE,Miscellaneous Symbols and Pictographs,1F464,People & Body,person-symbol,1F464,fully-qualified,E0.6 bust in silhouette,👤,People & Body
+0x1f681,5,0.509988852,0,4,1,HELICOPTER,Transport and Map Symbols,1F681,Travel & Places,transport-air,1F681,fully-qualified,E1.0 helicopter,🚁,Travel & Places
+0x1f3a0,5,0.57433687,0,2,3,CAROUSEL HORSE,Miscellaneous Symbols and Pictographs,1F3A0,Travel & Places,place-other,1F3A0,fully-qualified,E0.6 carousel horse,🎠,Travel & Places
+0x1f401,5,0.418555982,2,3,0,MOUSE,Miscellaneous Symbols and Pictographs,1F401,Animals & Nature,animal-mammal,1F401,fully-qualified,E1.0 mouse,🐁,Animals & Nature
 0x1f4d7,5,0.78915959,1,2,2,GREEN BOOK,Miscellaneous Symbols and Pictographs,1F4D7,Objects,book-paper,1F4D7,fully-qualified,E0.6 green book,📗,Objects
 0x262e,5,0.75037594,2,1,2,PEACE SYMBOL,Miscellaneous Symbols,262E,Symbols,religion,262E,unqualified,E1.0 peace symbol,☮,Symbols
 0x2642,5,0.580233775,0,4,1,MALE SIGN,Miscellaneous Symbols,2642,Symbols,gender,2642,unqualified,E4.0 male sign,♂,Symbols
@@ -600,20 +600,20 @@ codepoint,occurrences,position,negative,neutral,positive,name_sentiment,block,co
 0x1f462,5,0.994117647,0,1,4,WOMANS BOOTS,Miscellaneous Symbols and Pictographs,1F462,Objects,clothing,1F462,fully-qualified,E0.6 woman’s boot,👢,Objects
 0x1f4f0,5,0.860149569,1,1,3,NEWSPAPER,Miscellaneous Symbols and Pictographs,1F4F0,Objects,book-paper,1F4F0,fully-qualified,E0.6 newspaper,📰,Objects
 0x1f4f6,5,0.930492899,0,3,2,ANTENNA WITH BARS,Miscellaneous Symbols and Pictographs,1F4F6,Symbols,av-symbol,1F4F6,fully-qualified,E0.6 antenna bars,📶,Symbols
-0x1f6a5,5,0.723893805,1,3,1,HORIZONTAL TRAFFIC LIGHT,Transport and Map Symbols,1F6A5,Travel & Places,transport-ground,1F6A5,fully-qualified,E0.6 horizontal traffic light,🚥,Travel & places
-0x1f304,5,0.285583654,0,4,1,SUNRISE OVER MOUNTAINS,Miscellaneous Symbols and Pictographs,1F304,Travel & Places,place-other,1F304,fully-qualified,E0.6 sunrise over mountains,🌄,Travel & places
-0x1f5fe,5,0.738585725,0,3,2,SILHOUETTE OF JAPAN,Miscellaneous Symbols and Pictographs,1F5FE,Travel & Places,place-map,1F5FE,fully-qualified,E0.6 map of Japan,🗾,Travel & places
+0x1f6a5,5,0.723893805,1,3,1,HORIZONTAL TRAFFIC LIGHT,Transport and Map Symbols,1F6A5,Travel & Places,transport-ground,1F6A5,fully-qualified,E0.6 horizontal traffic light,🚥,Travel & Places
+0x1f304,5,0.285583654,0,4,1,SUNRISE OVER MOUNTAINS,Miscellaneous Symbols and Pictographs,1F304,Travel & Places,place-other,1F304,fully-qualified,E0.6 sunrise over mountains,🌄,Travel & Places
+0x1f5fe,5,0.738585725,0,3,2,SILHOUETTE OF JAPAN,Miscellaneous Symbols and Pictographs,1F5FE,Travel & Places,place-map,1F5FE,fully-qualified,E0.6 map of Japan,🗾,Travel & Places
 0x1f536,5,0.786004057,0,3,2,LARGE ORANGE DIAMOND,Miscellaneous Symbols and Pictographs,1F536,Symbols,geometric,1F536,fully-qualified,E0.6 large orange diamond,🔶,Symbols
-0x1f3e4,5,0.272575758,0,3,2,EUROPEAN POST OFFICE,Miscellaneous Symbols and Pictographs,1F3E4,Travel & Places,place-building,1F3E4,fully-qualified,E1.0 post office,🏤,Travel & places
+0x1f3e4,5,0.272575758,0,3,2,EUROPEAN POST OFFICE,Miscellaneous Symbols and Pictographs,1F3E4,Travel & Places,place-building,1F3E4,fully-qualified,E1.0 post office,🏤,Travel & Places
 0x1f3a9,5,0.58647571,0,3,2,TOP HAT,Miscellaneous Symbols and Pictographs,1F3A9,Objects,clothing,1F3A9,fully-qualified,E0.6 top hat,🎩,Objects
 0x24c2,5,0.765244502,1,1,3,CIRCLED LATIN CAPITAL LETTER M,Enclosed Alphanumerics,24C2,Symbols,alphanum,24C2,unqualified,E0.6 circled M,Ⓜ,Symbols
 0x1f527,5,0.677226399,4,0,1,WRENCH,Miscellaneous Symbols and Pictographs,1F527,Objects,tool,1F527,fully-qualified,E0.6 wrench,🔧,Objects
-0x1f405,5,0.818550107,0,4,1,TIGER,Miscellaneous Symbols and Pictographs,1F405,Animals & Nature,animal-mammal,1F405,fully-qualified,E1.0 tiger,🐅,Animals & nature
+0x1f405,5,0.818550107,0,4,1,TIGER,Miscellaneous Symbols and Pictographs,1F405,Animals & Nature,animal-mammal,1F405,fully-qualified,E1.0 tiger,🐅,Animals & Nature
 0x1f17e,5,0.977468672,2,2,1,NEGATIVE SQUARED LATIN CAPITAL LETTER O,Enclosed Alphanumeric Supplement,1F17E,Symbols,alphanum,1F17E,unqualified,E0.6 O button (blood type),🅾,Symbols
 0x1f504,5,0.971014493,0,5,0,ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS,Miscellaneous Symbols and Pictographs,1F504,Symbols,arrow,1F504,fully-qualified,E1.0 counterclockwise arrows button,🔄,Symbols
 0x2604,5,0.435373547,0,5,0,COMET,Miscellaneous Symbols,2604,Travel & Places,sky & weather,2604,unqualified,E1.0 comet,☄,Symbols
 0x1f4e6,4,0.508942142,0,3,1,PACKAGE,Miscellaneous Symbols and Pictographs,1F4E6,Objects,mail,1F4E6,fully-qualified,E0.6 package,📦,Objects
-0x1f68a,4,0.412291392,1,1,2,TRAM,Transport and Map Symbols,1F68A,Travel & Places,transport-ground,1F68A,fully-qualified,E1.0 tram,🚊,Travel & places
+0x1f68a,4,0.412291392,1,1,2,TRAM,Transport and Map Symbols,1F68A,Travel & Places,transport-ground,1F68A,fully-qualified,E1.0 tram,🚊,Travel & Places
 0x1f532,4,0.665449309,0,1,3,BLACK SQUARE BUTTON,Miscellaneous Symbols and Pictographs,1F532,Symbols,geometric,1F532,fully-qualified,E0.6 black square button,🔲,Symbols
 0x1f501,4,0.570472495,1,2,1,CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS,Miscellaneous Symbols and Pictographs,1F501,Symbols,av-symbol,1F501,fully-qualified,E1.0 repeat button,🔁,Symbols
 0x1f4c6,4,0.839991723,0,0,4,TEAR-OFF CALENDAR,Miscellaneous Symbols and Pictographs,1F4C6,Objects,office,1F4C6,fully-qualified,E0.6 tear-off calendar,📆,Objects
@@ -623,14 +623,14 @@ codepoint,occurrences,position,negative,neutral,positive,name_sentiment,block,co
 0x2721,4,0.542307692,0,4,0,STAR OF DAVID,Dingbats,2721,Symbols,religion,2721,unqualified,E0.7 star of David,✡,Symbols
 0x1f511,4,0.712219599,1,1,2,KEY,Miscellaneous Symbols and Pictographs,1F511,Objects,lock,1F511,fully-qualified,E0.6 key,🔑,Objects
 0x1f503,4,0.480569642,1,2,1,CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS,Miscellaneous Symbols and Pictographs,1F503,Symbols,arrow,1F503,fully-qualified,E0.6 clockwise vertical arrows,🔃,Symbols
-0x1f443,4,0.617338955,2,0,2,NOSE,Miscellaneous Symbols and Pictographs,1F443,People & Body,body-parts,1F443,fully-qualified,E0.6 nose,👃,People & body
+0x1f443,4,0.617338955,2,0,2,NOSE,Miscellaneous Symbols and Pictographs,1F443,People & Body,body-parts,1F443,fully-qualified,E0.6 nose,👃,People & Body
 0x2b55,4,0.521859186,0,2,2,HEAVY LARGE CIRCLE,Miscellaneous Symbols and Arrows,2B55,Symbols,other-symbol,2B55,fully-qualified,E0.6 hollow red circle,⭕,Symbols
 0x1f518,4,0.823106247,0,3,1,RADIO BUTTON,Miscellaneous Symbols and Pictographs,1F518,Symbols,geometric,1F518,fully-qualified,E0.6 radio button,🔘,Symbols
 0x1f6ad,4,0.691042031,0,0,4,NO SMOKING SYMBOL,Transport and Map Symbols,1F6AD,Symbols,warning,1F6AD,fully-qualified,E0.6 no smoking,🚭,Symbols
-0x1f689,4,0.517599805,0,1,3,STATION,Transport and Map Symbols,1F689,Travel & Places,transport-ground,1F689,fully-qualified,E0.6 station,🚉,Travel & places
+0x1f689,4,0.517599805,0,1,3,STATION,Transport and Map Symbols,1F689,Travel & Places,transport-ground,1F689,fully-qualified,E0.6 station,🚉,Travel & Places
 0x1f6aa,4,0.459991145,0,1,3,DOOR,Transport and Map Symbols,1F6AA,Objects,household,1F6AA,fully-qualified,E0.6 door,🚪,Objects
-0x1f683,4,0.867813709,0,1,3,RAILWAY CAR,Transport and Map Symbols,1F683,Travel & Places,transport-ground,1F683,fully-qualified,E0.6 railway car,🚃,Travel & places
-0x1f3ec,4,0.772435897,0,4,0,DEPARTMENT STORE,Miscellaneous Symbols and Pictographs,1F3EC,Travel & Places,place-building,1F3EC,fully-qualified,E0.6 department store,🏬,Travel & places
+0x1f683,4,0.867813709,0,1,3,RAILWAY CAR,Transport and Map Symbols,1F683,Travel & Places,transport-ground,1F683,fully-qualified,E0.6 railway car,🚃,Travel & Places
+0x1f3ec,4,0.772435897,0,4,0,DEPARTMENT STORE,Miscellaneous Symbols and Pictographs,1F3EC,Travel & Places,place-building,1F3EC,fully-qualified,E0.6 department store,🏬,Travel & Places
 0x1f199,4,0.459136213,0,2,2,SQUARED UP WITH EXCLAMATION MARK,Enclosed Alphanumeric Supplement,1F199,Symbols,alphanum,1F199,fully-qualified,E0.6 UP! button,🆙,Symbols
 0x1f196,4,0.32767456,1,1,2,SQUARED NG,Enclosed Alphanumeric Supplement,1F196,Symbols,alphanum,1F196,fully-qualified,E0.6 NG button,🆖,Symbols
 0x262a,4,0.5,0,4,0,STAR AND CRESCENT,Miscellaneous Symbols,262A,Symbols,religion,262A,unqualified,E0.7 star and crescent,☪,Symbols
@@ -639,19 +639,19 @@ codepoint,occurrences,position,negative,neutral,positive,name_sentiment,block,co
 0x2734,3,0.425259601,0,1,2,EIGHT POINTED BLACK STAR,Dingbats,2734,Symbols,other-symbol,2734,unqualified,E0.6 eight-pointed star,✴,Symbols
 0x1f515,3,0.663273811,2,0,1,BELL WITH CANCELLATION STROKE,Miscellaneous Symbols and Pictographs,1F515,Objects,sound,1F515,fully-qualified,E1.0 bell with slash,🔕,Objects
 0x2b1b,3,0.93331136,2,0,1,BLACK LARGE SQUARE,Miscellaneous Symbols and Arrows,2B1B,Symbols,geometric,2B1B,fully-qualified,E0.6 black large square,⬛,Symbols
-0x1f69e,3,0.401392441,0,1,2,MOUNTAIN RAILWAY,Transport and Map Symbols,1F69E,Travel & Places,transport-ground,1F69E,fully-qualified,E1.0 mountain railway,🚞,Travel & places
-0x1f376,3,0.670454148,0,1,2,SAKE BOTTLE AND CUP,Miscellaneous Symbols and Pictographs,1F376,Food & Drink,drink,1F376,fully-qualified,E0.6 sake,🍶,Food & drink
-0x1f310,3,0.661697723,0,1,2,GLOBE WITH MERIDIANS,Miscellaneous Symbols and Pictographs,1F310,Travel & Places,place-map,1F310,fully-qualified,E1.0 globe with meridians,🌐,Travel & places
+0x1f69e,3,0.401392441,0,1,2,MOUNTAIN RAILWAY,Transport and Map Symbols,1F69E,Travel & Places,transport-ground,1F69E,fully-qualified,E1.0 mountain railway,🚞,Travel & Places
+0x1f376,3,0.670454148,0,1,2,SAKE BOTTLE AND CUP,Miscellaneous Symbols and Pictographs,1F376,Food & Drink,drink,1F376,fully-qualified,E0.6 sake,🍶,Food & Drink
+0x1f310,3,0.661697723,0,1,2,GLOBE WITH MERIDIANS,Miscellaneous Symbols and Pictographs,1F310,Travel & Places,place-map,1F310,fully-qualified,E1.0 globe with meridians,🌐,Travel & Places
 0x2640,3,0.496259709,0,2,1,FEMALE SIGN,Miscellaneous Symbols,2640,Symbols,gender,2640,unqualified,E4.0 female sign,♀,Symbols
-0x1f685,3,0.60688385,0,1,2,HIGH-SPEED TRAIN WITH BULLET NOSE,Transport and Map Symbols,1F685,Travel & Places,transport-ground,1F685,fully-qualified,E0.6 bullet train,🚅,Travel & places
-0x1f692,3,0.372181638,1,2,0,FIRE ENGINE,Transport and Map Symbols,1F692,Travel & Places,transport-ground,1F692,fully-qualified,E0.6 fire engine,🚒,Travel & places
+0x1f685,3,0.60688385,0,1,2,HIGH-SPEED TRAIN WITH BULLET NOSE,Transport and Map Symbols,1F685,Travel & Places,transport-ground,1F685,fully-qualified,E0.6 bullet train,🚅,Travel & Places
+0x1f692,3,0.372181638,1,2,0,FIRE ENGINE,Transport and Map Symbols,1F692,Travel & Places,transport-ground,1F692,fully-qualified,E0.6 fire engine,🚒,Travel & Places
 0x264b,3,0.66780619,0,2,1,CANCER,Miscellaneous Symbols,264B,Symbols,zodiac,264B,fully-qualified,E0.6 Cancer,♋,Symbols
 0x264d,3,0.921455436,0,1,2,VIRGO,Miscellaneous Symbols,264D,Symbols,zodiac,264D,fully-qualified,E0.6 Virgo,♍,Symbols
-0x1f55d,3,0.673202614,1,2,0,CLOCK FACE TWO-THIRTY,Miscellaneous Symbols and Pictographs,1F55D,Travel & Places,time,1F55D,fully-qualified,E0.7 two-thirty,🕝,Travel & places
+0x1f55d,3,0.673202614,1,2,0,CLOCK FACE TWO-THIRTY,Miscellaneous Symbols and Pictographs,1F55D,Travel & Places,time,1F55D,fully-qualified,E0.7 two-thirty,🕝,Travel & Places
 0x1f4d9,3,0.985204154,1,0,2,ORANGE BOOK,Miscellaneous Symbols and Pictographs,1F4D9,Objects,book-paper,1F4D9,fully-qualified,E0.6 orange book,📙,Objects
 0x1f4cb,3,0.902676399,0,1,2,CLIPBOARD,Miscellaneous Symbols and Pictographs,1F4CB,Objects,office,1F4CB,fully-qualified,E0.6 clipboard,📋,Objects
 0x1f3b1,3,0.733061963,1,0,2,BILLIARDS,Miscellaneous Symbols and Pictographs,1F3B1,Activities,game,1F3B1,fully-qualified,E0.6 pool 8 ball,🎱,Activities
-0x1f41e,3,0.867149758,0,2,1,LADY BEETLE,Miscellaneous Symbols and Pictographs,1F41E,Animals & Nature,animal-bug,1F41E,fully-qualified,E0.6 lady beetle,🐞,Animals & nature
+0x1f41e,3,0.867149758,0,2,1,LADY BEETLE,Miscellaneous Symbols and Pictographs,1F41E,Animals & Nature,animal-bug,1F41E,fully-qualified,E0.6 lady beetle,🐞,Animals & Nature
 0x1f53a,3,0.331084568,0,2,1,UP-POINTING RED TRIANGLE,Miscellaneous Symbols and Pictographs,1F53A,Symbols,geometric,1F53A,fully-qualified,E0.6 red triangle pointed up,🔺,Symbols
 0x1f38d,3,0.460928261,0,3,0,PINE DECORATION,Miscellaneous Symbols and Pictographs,1F38D,Activities,event,1F38D,fully-qualified,E0.6 pine decoration,🎍,Activities
 0x1f3b2,3,0.294190811,0,3,0,GAME DIE,Miscellaneous Symbols and Pictographs,1F3B2,Activities,game,1F3B2,fully-qualified,E0.6 game die,🎲,Activities
@@ -667,7 +667,7 @@ codepoint,occurrences,position,negative,neutral,positive,name_sentiment,block,co
 0x23ec,3,0.798387097,0,0,3,BLACK DOWN-POINTING DOUBLE TRIANGLE,Miscellaneous Technical,23EC,Symbols,av-symbol,23EC,fully-qualified,E0.6 fast down button,⏬,Symbols
 0x1f4a0,3,0.634782609,0,3,0,DIAMOND SHAPE WITH A DOT INSIDE,Miscellaneous Symbols and Pictographs,1F4A0,Symbols,geometric,1F4A0,fully-qualified,E0.6 diamond with a dot,💠,Symbols
 0x1f533,2,0.35921659,0,1,1,WHITE SQUARE BUTTON,Miscellaneous Symbols and Pictographs,1F533,Symbols,geometric,1F533,fully-qualified,E0.6 white square button,🔳,Symbols
-0x1f3ed,2,0.620360999,0,1,1,FACTORY,Miscellaneous Symbols and Pictographs,1F3ED,Travel & Places,place-building,1F3ED,fully-qualified,E0.6 factory,🏭,Travel & places
+0x1f3ed,2,0.620360999,0,1,1,FACTORY,Miscellaneous Symbols and Pictographs,1F3ED,Travel & Places,place-building,1F3ED,fully-qualified,E0.6 factory,🏭,Travel & Places
 0x1f530,2,0.612218045,0,2,0,JAPANESE SYMBOL FOR BEGINNER,Miscellaneous Symbols and Pictographs,1F530,Symbols,other-symbol,1F530,fully-qualified,E0.6 Japanese symbol for beginner,🔰,Symbols
 0x1f3b3,2,0.031697819,1,1,0,BOWLING,Miscellaneous Symbols and Pictographs,1F3B3,Activities,sport,1F3B3,fully-qualified,E0.6 bowling,🎳,Activities
 0x2796,2,0.023088023,2,0,0,HEAVY MINUS SIGN,Dingbats,2796,Symbols,math,2796,fully-qualified,E0.6 minus,➖,Symbols
@@ -676,13 +676,13 @@ codepoint,occurrences,position,negative,neutral,positive,name_sentiment,block,co
 0x1f4d1,2,0.557971014,0,0,2,BOOKMARK TABS,Miscellaneous Symbols and Pictographs,1F4D1,Objects,book-paper,1F4D1,fully-qualified,E0.6 bookmark tabs,📑,Objects
 0x1f3a6,2,0.796610169,0,2,0,CINEMA,Miscellaneous Symbols and Pictographs,1F3A6,Symbols,av-symbol,1F3A6,fully-qualified,E0.6 cinema,🎦,Symbols
 0x1f51f,2,0.801587302,0,0,2,KEYCAP TEN,Miscellaneous Symbols and Pictographs,1F51F,Symbols,keycap,1F51F,fully-qualified,E0.6 keycap: 10,🔟,Symbols
-0x1f686,2,0.472714286,0,1,1,TRAIN,Transport and Map Symbols,1F686,Travel & Places,transport-ground,1F686,fully-qualified,E1.0 train,🚆,Travel & places
-0x1f6a0,2,0.807469512,0,2,0,MOUNTAIN CABLEWAY,Transport and Map Symbols,1F6A0,Travel & Places,transport-air,1F6A0,fully-qualified,E1.0 mountain cableway,🚠,Travel & places
+0x1f686,2,0.472714286,0,1,1,TRAIN,Transport and Map Symbols,1F686,Travel & Places,transport-ground,1F686,fully-qualified,E1.0 train,🚆,Travel & Places
+0x1f6a0,2,0.807469512,0,2,0,MOUNTAIN CABLEWAY,Transport and Map Symbols,1F6A0,Travel & Places,transport-air,1F6A0,fully-qualified,E1.0 mountain cableway,🚠,Travel & Places
 0x2603,2,0.566037736,0,1,1,SNOWMAN,Miscellaneous Symbols,2603,Travel & Places,sky & weather,2603,unqualified,E0.7 snowman,☃,Symbols
 0x1f6bd,2,0.69047619,0,0,2,TOILET,Transport and Map Symbols,1F6BD,Objects,household,1F6BD,fully-qualified,E0.6 toilet,🚽,Objects
 0x1f4d0,2,0.02970297,0,2,0,TRIANGULAR RULER,Miscellaneous Symbols and Pictographs,1F4D0,Objects,office,1F4D0,fully-qualified,E0.6 triangular ruler,📐,Objects
-0x1f472,2,0.382655827,0,1,1,MAN WITH GUA PI MAO,Miscellaneous Symbols and Pictographs,1F472,People & Body,person-role,1F472,fully-qualified,E0.6 person with skullcap,👲,People & body
-0x1f6a1,2,0.622505543,1,1,0,AERIAL TRAMWAY,Transport and Map Symbols,1F6A1,Travel & Places,transport-air,1F6A1,fully-qualified,E1.0 aerial tramway,🚡,Travel & places
+0x1f472,2,0.382655827,0,1,1,MAN WITH GUA PI MAO,Miscellaneous Symbols and Pictographs,1F472,People & Body,person-role,1F472,fully-qualified,E0.6 person with skullcap,👲,People & Body
+0x1f6a1,2,0.622505543,1,1,0,AERIAL TRAMWAY,Transport and Map Symbols,1F6A1,Travel & Places,transport-air,1F6A1,fully-qualified,E1.0 aerial tramway,🚡,Travel & Places
 0x1f391,2,0.309294872,0,2,0,MOON VIEWING CEREMONY,Miscellaneous Symbols and Pictographs,1F391,Activities,event,1F391,fully-qualified,E0.6 moon viewing ceremony,🎑,Activities
 0x1f52c,2,0.727696078,0,0,2,MICROSCOPE,Miscellaneous Symbols and Pictographs,1F52C,Objects,science,1F52C,fully-qualified,E1.0 microscope,🔬,Objects
 0x2797,2,0.018722944,1,1,0,HEAVY DIVISION SIGN,Dingbats,2797,Symbols,math,2797,fully-qualified,E0.6 divide,➗,Symbols
@@ -695,15 +695,15 @@ codepoint,occurrences,position,negative,neutral,positive,name_sentiment,block,co
 0x1f4e0,2,1.0,0,2,0,FAX MACHINE,Miscellaneous Symbols and Pictographs,1F4E0,Objects,phone,1F4E0,fully-qualified,E0.6 fax machine,📠,Objects
 0x1f458,2,0.643678161,0,0,2,KIMONO,Miscellaneous Symbols and Pictographs,1F458,Objects,clothing,1F458,fully-qualified,E0.6 kimono,👘,Objects
 0x2199,2,0.206766917,0,0,2,SOUTH WEST ARROW,Arrows,2199,Symbols,arrow,2199,unqualified,E0.6 down-left arrow,↙,Symbols
-0x1f551,2,0.988407728,0,1,1,CLOCK FACE TWO OCLOCK,Miscellaneous Symbols and Pictographs,1F551,Travel & Places,time,1F551,fully-qualified,E0.6 two o’clock,🕑,Travel & places
+0x1f551,2,0.988407728,0,1,1,CLOCK FACE TWO OCLOCK,Miscellaneous Symbols and Pictographs,1F551,Travel & Places,time,1F551,fully-qualified,E0.6 two o’clock,🕑,Travel & Places
 0x1f4bd,1,0.566037736,0,1,0,MINIDISC,Miscellaneous Symbols and Pictographs,1F4BD,Objects,computer,1F4BD,fully-qualified,E0.6 computer disk,💽,Objects
-0x1f55b,1,1.0,0,0,1,CLOCK FACE TWELVE OCLOCK,Miscellaneous Symbols and Pictographs,1F55B,Travel & Places,time,1F55B,fully-qualified,E0.6 twelve o’clock,🕛,Travel & places
+0x1f55b,1,1.0,0,0,1,CLOCK FACE TWELVE OCLOCK,Miscellaneous Symbols and Pictographs,1F55B,Travel & Places,time,1F55B,fully-qualified,E0.6 twelve o’clock,🕛,Travel & Places
 0x1f3ab,1,0.452631579,0,1,0,TICKET,Miscellaneous Symbols and Pictographs,1F3AB,Activities,event,1F3AB,fully-qualified,E0.6 ticket,🎫,Activities
 0x2648,1,0.524590164,1,0,0,ARIES,Miscellaneous Symbols,2648,Symbols,zodiac,2648,fully-qualified,E0.6 Aries,♈,Symbols
 0x1f4df,1,0.991666667,0,1,0,PAGER,Miscellaneous Symbols and Pictographs,1F4DF,Objects,phone,1F4DF,fully-qualified,E0.6 pager,📟,Objects
-0x1f552,1,0.039215686,0,1,0,CLOCK FACE THREE OCLOCK,Miscellaneous Symbols and Pictographs,1F552,Travel & Places,time,1F552,fully-qualified,E0.6 three o’clock,🕒,Travel & places
+0x1f552,1,0.039215686,0,1,0,CLOCK FACE THREE OCLOCK,Miscellaneous Symbols and Pictographs,1F552,Travel & Places,time,1F552,fully-qualified,E0.6 three o’clock,🕒,Travel & Places
 0x270d,1,1.0,0,0,1,WRITING HAND,Dingbats,270D,People & Body,hand-prop,270D,unqualified,E0.7 writing hand,✍,Gestures
-0x1f3e6,1,1.0,0,0,1,BANK,Miscellaneous Symbols and Pictographs,1F3E6,Travel & Places,place-building,1F3E6,fully-qualified,E0.6 bank,🏦,Travel & places
+0x1f3e6,1,1.0,0,0,1,BANK,Miscellaneous Symbols and Pictographs,1F3E6,Travel & Places,place-building,1F3E6,fully-qualified,E0.6 bank,🏦,Travel & Places
 0x1f53b,1,0.575757576,0,0,1,DOWN-POINTING RED TRIANGLE,Miscellaneous Symbols and Pictographs,1F53B,Symbols,geometric,1F53B,fully-qualified,E0.6 red triangle pointed down,🔻,Symbols
 0x267f,1,1.0,0,0,1,WHEELCHAIR SYMBOL,Miscellaneous Symbols,267F,Symbols,transport-sign,267F,fully-qualified,E0.6 wheelchair symbol,♿,Symbols
 0x25ab,1,0.126760563,0,0,1,WHITE SMALL SQUARE,Geometric Shapes,25AB,Symbols,geometric,25AB,unqualified,E0.6 white small square,▫,Symbols
@@ -711,19 +711,19 @@ codepoint,occurrences,position,negative,neutral,positive,name_sentiment,block,co
 0x1f516,1,0.988888889,0,0,1,BOOKMARK,Miscellaneous Symbols and Pictographs,1F516,Objects,book-paper,1F516,fully-qualified,E0.6 bookmark,🔖,Objects
 0x1f4dc,1,1.0,0,0,1,SCROLL,Miscellaneous Symbols and Pictographs,1F4DC,Objects,book-paper,1F4DC,fully-qualified,E0.6 scroll,📜,Objects
 0x264f,1,0.772058824,0,1,0,SCORPIUS,Miscellaneous Symbols,264F,Symbols,zodiac,264F,fully-qualified,E0.6 Scorpio,♏,Symbols
-0x1f69d,1,0.966666667,0,0,1,MONORAIL,Transport and Map Symbols,1F69D,Travel & Places,transport-ground,1F69D,fully-qualified,E1.0 monorail,🚝,Travel & places
+0x1f69d,1,0.966666667,0,0,1,MONORAIL,Transport and Map Symbols,1F69D,Travel & Places,transport-ground,1F69D,fully-qualified,E1.0 monorail,🚝,Travel & Places
 0x2622,1,0.725,0,1,0,RADIOACTIVE SIGN,Miscellaneous Symbols,2622,Symbols,warning,2622,unqualified,E1.0 radioactive,☢,Symbols
 0x1f38f,1,0.390243902,0,1,0,CARP STREAMER,Miscellaneous Symbols and Pictographs,1F38F,Activities,event,1F38F,fully-qualified,E0.6 carp streamer,🎏,Activities
 0x271d,1,0.411764706,1,0,0,LATIN CROSS,Dingbats,271D,Symbols,religion,271D,unqualified,E0.7 latin cross,✝,Symbols
 0x1f4ee,1,0.798319328,1,0,0,POSTBOX,Miscellaneous Symbols and Pictographs,1F4EE,Objects,mail,1F4EE,fully-qualified,E0.6 postbox,📮,Objects
-0x1f555,1,0.646153846,1,0,0,CLOCK FACE SIX OCLOCK,Miscellaneous Symbols and Pictographs,1F555,Travel & Places,time,1F555,fully-qualified,E0.6 six o’clock,🕕,Travel & places
+0x1f555,1,0.646153846,1,0,0,CLOCK FACE SIX OCLOCK,Miscellaneous Symbols and Pictographs,1F555,Travel & Places,time,1F555,fully-qualified,E0.6 six o’clock,🕕,Travel & Places
 0x1f52f,1,1.0,0,0,1,SIX POINTED STAR WITH MIDDLE DOT,Miscellaneous Symbols and Pictographs,1F52F,Symbols,religion,1F52F,fully-qualified,E0.6 dotted six-pointed star,🔯,Symbols
-0x1f565,1,0.811965812,1,0,0,CLOCK FACE TEN-THIRTY,Miscellaneous Symbols and Pictographs,1F565,Travel & Places,time,1F565,fully-qualified,E0.7 ten-thirty,🕥,Travel & places
+0x1f565,1,0.811965812,1,0,0,CLOCK FACE TEN-THIRTY,Miscellaneous Symbols and Pictographs,1F565,Travel & Places,time,1F565,fully-qualified,E0.7 ten-thirty,🕥,Travel & Places
 0x1f4fc,1,1.0,0,0,1,VIDEOCASSETTE,Miscellaneous Symbols and Pictographs,1F4FC,Objects,light & video,1F4FC,fully-qualified,E0.6 videocassette,📼,Objects
-0x1f550,1,1.0,1,0,0,CLOCK FACE ONE OCLOCK,Miscellaneous Symbols and Pictographs,1F550,Travel & Places,time,1F550,fully-qualified,E0.6 one o’clock,🕐,Travel & places
+0x1f550,1,1.0,1,0,0,CLOCK FACE ONE OCLOCK,Miscellaneous Symbols and Pictographs,1F550,Travel & Places,time,1F550,fully-qualified,E0.6 one o’clock,🕐,Travel & Places
 0x1f004,1,1.0,0,0,1,MAHJONG TILE RED DRAGON,Mahjong Tiles,1F004,Activities,game,1F004,fully-qualified,E0.6 mahjong red dragon,🀄,Activities
 0x1f191,1,0.983606557,0,1,0,SQUARED CL,Enclosed Alphanumeric Supplement,1F191,Symbols,alphanum,1F191,fully-qualified,E0.6 CL button,🆑,Symbols
-0x1f554,1,0.742424242,1,0,0,CLOCK FACE FIVE OCLOCK,Miscellaneous Symbols and Pictographs,1F554,Travel & Places,time,1F554,fully-qualified,E0.6 five o’clock,🕔,Travel & places
+0x1f554,1,0.742424242,1,0,0,CLOCK FACE FIVE OCLOCK,Miscellaneous Symbols and Pictographs,1F554,Travel & Places,time,1F554,fully-qualified,E0.6 five o’clock,🕔,Travel & Places
 0x2763,1,0.471428571,0,0,1,HEAVY HEART EXCLAMATION MARK ORNAMENT,Dingbats,2763,Smileys & Emotion,heart,2763,unqualified,E1.0 heart exclamation,❣,Symbols
 0x1f195,1,0.669117647,0,1,0,SQUARED NEW,Enclosed Alphanumeric Supplement,1F195,Symbols,alphanum,1F195,fully-qualified,E0.6 NEW button,🆕,Symbols
 0x2195,1,0.735632184,0,1,0,UP DOWN ARROW,Arrows,2195,Symbols,arrow,2195,unqualified,E0.6 up-down arrow,↕,Symbols
